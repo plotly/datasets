@@ -1,6 +1,6 @@
 # Plotly Dataset Samples
 
-## Walmart store openings 
+### Walmart store openings 
 :book: | Links
 --- | ---
 Description | Dates of new Walmart store openings in US
@@ -10,7 +10,7 @@ Plotly example (R) | https://plot.ly/r/map-subplots-and-small-multiples/
 Download link | https://github.com/plotly/datasets/blob/master/1962_2006_walmart_store_openings.csv
 Open in Plotly | https://plot.ly/16263/~jackp/
 
-## 2010 alchohol consumption by country
+### 2010 alchohol consumption by country
 :book: | Links
 --- | ---
 Description | 2010 alchohol consumption by country
@@ -18,4 +18,22 @@ Source | Unknown
 Plotly example (JavaScript) | https://plot.ly/javascript/choropleth-maps/
 Download link | https://github.com/plotly/datasets/blob/master/2010_alcohol_consumption_by_country.csv
 Open in Plotly | https://plot.ly/16265/~jackp/
+
+Name | Description | Source | Examples | Download | Open Data in Plotly
+--- | --- | ---  | ---  | ---  | --- 
+Walmart store openings | 
+    Dates of new Walmart store openings in US | 
+    Unknown | 
+    [Python](https://plot.ly/python/map-subplots-and-small-multiples/), 
+    [R](https://plot.ly/r/map-subplots-and-small-multiples/) |
+    [Download](https://github.com/plotly/datasets/blob/master/1962_2006_walmart_store_openings.csv) |
+    [Open Data in Plotly](https://plot.ly/16263/~jackp/)
+
+2010 alchohol consumption by country | 
+    2010 alchohol consumption by country | 
+    Unknown | 
+    [JavaScript](https://plot.ly/javascript/choropleth-maps/), 
+    [Download](https://github.com/plotly/datasets/blob/master/2010_alcohol_consumption_by_country.csv) |
+    [Open Data in Plotly](https://plot.ly/16265/~jackp/)
+
 
