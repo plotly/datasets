@@ -17,3 +17,5 @@ Alpha shapes | Alpha Shapes | Unknown | [Python](https://plot.ly/python/alpha-sh
 Grouped bar charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/grouped-bar-chart/) | [Download](https://github.com/plotly/datasets/blob/master/bar-charts-with-excel.csv) | [Open]()
 Bubble charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/bubble-chart/) | [Download](https://github.com/plotly/datasets/blob/master/bubble_chart_tutorial.csv) | [Open]()
 Three Y axes with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/three-y-axes/) | [Download](https://github.com/plotly/datasets/blob/master/cost_output_defective.csv) | [Open]()
+Dot plot with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/dot-plots/) | [Download](https://github.com/plotly/datasets/blob/master/dot-plot-with-excel.csv) | [Open]()
+Gapminder data | Streaming | Unknown | [Python](https://plot.ly/python/streaming-bubbles-tutorial/) | [Download](https://github.com/plotly/datasets/blob/master/gapminderDataFiveYear.csv) | [Open]()
