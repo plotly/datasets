@@ -19,3 +19,8 @@ Bubble charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/b
 Three Y axes with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/three-y-axes/) | [Download](https://github.com/plotly/datasets/blob/master/cost_output_defective.csv) | [Open]()
 Dot plot with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/dot-plots/) | [Download](https://github.com/plotly/datasets/blob/master/dot-plot-with-excel.csv) | [Open]()
 Gapminder data | Streaming | Unknown | [Python](https://plot.ly/python/streaming-bubbles-tutorial/) | [Download](https://github.com/plotly/datasets/blob/master/gapminderDataFiveYear.csv) | [Open]()
+Globe contours | Maps | Unknown | [Python](https://plot.ly/python/lines-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/globe_contours.csv) | [Open]()
+Inset plot | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/insets) | [Download](https://github.com/plotly/datasets/blob/master/inset.csv) | [Open]()
+Text scatter charts | Basic | Unknown | [Excel](http://help.plot.ly/excel/text-scatter-chart) | [Download](https://github.com/plotly/datasets/blob/master/label-text.csv) | [Open]()
+LaTeX typesetting | Basic | Unknown | [Excel](http://help.plot.ly/excel/LaTeX) | [Download](https://github.com/plotly/datasets/blob/master/latex-typesetting-with-excel.csv) | [Open]()
+Online dating | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/graph-with-multiple-axes/) | [Download](https://github.com/plotly/datasets/blob/master/multiple_y_axis.csv) | [Open]()
