@@ -1,0 +1,789 @@
+Year,Country,Continent,Emission
+2008,Aruba,South America,24.75013321
+2009,Aruba,South America,24.87670585
+2010,Aruba,South America,24.18270225
+2011,Aruba,South America,23.9224121
+2008,Andorra,Europe,6.296124556
+2009,Andorra,Europe,6.049172848
+2010,Andorra,Europe,6.12477049
+2011,Andorra,Europe,5.96868547
+2008,Afghanistan,Asia,0.158961558
+2009,Afghanistan,Asia,0.24907353
+2010,Afghanistan,Asia,0.302936388
+2011,Afghanistan,Asia,0.425262105
+2008,Angola,Africa,1.369424769
+2009,Angola,Africa,1.430873373
+2010,Angola,Africa,1.401654169
+2011,Angola,Africa,1.35400753
+2008,Albania,Europe,1.580113283
+2009,Albania,Europe,1.533178094
+2010,Albania,Europe,1.515632053
+2011,Albania,Europe,1.60703771
+2008,United Arab Emirates,Asia,23.03360047
+2009,United Arab Emirates,Asia,21.10229562
+2010,United Arab Emirates,Asia,20.12095728
+2011,United Arab Emirates,Asia,20.43383762
+2008,Argentina,South America,4.744178401
+2009,Argentina,South America,4.427960113
+2010,Argentina,South America,4.342272052
+2011,Argentina,South America,4.562048512
+2008,Armenia,Europe,1.868611029
+2009,Armenia,Europe,1.469960972
+2010,Armenia,Europe,1.422998378
+2011,Armenia,Europe,1.671656923
+2008,Antigua And Barbuda,North America,5.628318688
+2009,Antigua And Barbuda,North America,5.906292005
+2010,Antigua And Barbuda,North America,6.011268671
+2011,Antigua And Barbuda,North America,5.823804338
+2008,Australia,Oceania,17.70407968
+2009,Australia,Oceania,17.63183305
+2010,Australia,Oceania,16.71090435
+2011,Australia,Oceania,16.51920992
+2008,Austria,Europe,8.262046031
+2009,Austria,Europe,7.608851293
+2010,Austria,Europe,8.127692863
+2011,Austria,Europe,7.769983423
+2008,Azerbaijan,Europe,4.051383481
+2009,Azerbaijan,Europe,3.565668218
+2010,Azerbaijan,Europe,3.388225879
+2011,Azerbaijan,Europe,3.647379147
+2008,Burundi,Africa,0.021615102
+2009,Burundi,Africa,0.020867637
+2010,Burundi,Africa,0.020542078
+2011,Burundi,Africa,0.021349926
+2008,Belgium,Europe,9.699598963
+2009,Belgium,Europe,9.634775755
+2010,Belgium,Europe,10.01260969
+2011,Belgium,Europe,8.849398302
+2008,Benin,Africa,0.500183373
+2009,Benin,Africa,0.514277812
+2010,Benin,Africa,0.541771234
+2011,Benin,Africa,0.509962226
+2008,Burkina Faso,Africa,0.115427271
+2009,Burkina Faso,Africa,0.109774087
+2010,Burkina Faso,Africa,0.1076731
+2011,Burkina Faso,Africa,0.11998056
+2008,Bangladesh,Asia,0.334439662
+2009,Bangladesh,Asia,0.352155282
+2010,Bangladesh,Asia,0.370359878
+2011,Bangladesh,Asia,0.372017166
+2008,Bulgaria,Europe,6.778939404
+2009,Bulgaria,Europe,5.729715977
+2010,Bulgaria,Europe,5.966883548
+2011,Bulgaria,Europe,6.71438251
+2008,Bahrain,Asia,21.51999548
+2009,Bahrain,Asia,18.13623374
+2010,Bahrain,Asia,18.43502476
+2011,Bahrain,Asia,17.94732981
+2008,Bahamas,North America,2.99808943
+2009,Bahamas,North America,4.630520322
+2010,Bahamas,North America,6.829321287
+2011,Bahamas,North America,5.199844019
+2008,Bosnia And Herzegovina,Europe,5.231546645
+2009,Bosnia And Herzegovina,Europe,5.37188996
+2010,Bosnia And Herzegovina,Europe,5.513993843
+2011,Bosnia And Herzegovina,Europe,6.19665215
+2008,Belarus,Europe,6.592748741
+2009,Belarus,Europe,6.341938992
+2010,Belarus,Europe,6.556549631
+2011,Belarus,Europe,6.682510398
+2008,Belize,North America,1.473195826
+2009,Belize,North America,1.495185156
+2010,Belize,North America,1.721708659
+2011,Belize,North America,1.670904302
+2008,Bermuda,North America,5.955019687
+2009,Bermuda,North America,7.095328783
+2010,Bermuda,North America,7.320035624
+2011,Bermuda,North America,6.07721021
+2008,Bolivia,South America,1.412189336
+2009,Bolivia,South America,1.459841011
+2010,Bolivia,South America,1.547659087
+2011,Bolivia,South America,1.599499039
+2008,Brazil,South America,1.990428942
+2009,Brazil,South America,1.866522375
+2010,Brazil,South America,2.113414545
+2011,Brazil,South America,2.191393564
+2008,Barbados,North America,5.871114076
+2009,Barbados,North America,5.833678079
+2010,Barbados,North America,5.430338453
+2011,Barbados,North America,5.580177618
+2008,Brunei,Asia,26.33827137
+2009,Brunei,Asia,22.14902862
+2010,Brunei,Asia,21.8732221
+2011,Brunei,Asia,24.39201338
+2008,Bhutan,Asia,0.606778515
+2009,Bhutan,Asia,0.549145981
+2010,Bhutan,Asia,0.677145031
+2011,Bhutan,Asia,0.766205619
+2008,Botswana,Africa,2.530551369
+2009,Botswana,Africa,2.192294586
+2010,Botswana,Africa,2.555293381
+2011,Botswana,Africa,2.323345006
+2008,Central African Republic,Africa,0.054828457
+2009,Central African Republic,Africa,0.053809109
+2010,Central African Republic,Africa,0.059398336
+2011,Central African Republic,Africa,0.063127814
+2008,Canada,North America,16.36616459
+2009,Canada,North America,15.08909766
+2010,Canada,North America,14.58905354
+2011,Canada,North America,14.13581338
+2008,Switzerland,Europe,5.281605848
+2009,Switzerland,Europe,5.372291182
+2010,Switzerland,Europe,4.952499256
+2011,Switzerland,Europe,4.625229924
+2008,Chile,South America,4.316439805
+2009,Chile,South America,3.969434147
+2010,Chile,South America,4.24672531
+2011,Chile,South America,4.61644538
+2008,China,Asia,5.311151855
+2009,China,Asia,5.778143184
+2010,China,Asia,6.172488876
+2011,China,Asia,6.710301991
+2008,Cote D'Ivoire,Africa,0.356768972
+2009,Cote D'Ivoire,Africa,0.297496879
+2010,Cote D'Ivoire,Africa,0.292351513
+2011,Cote D'Ivoire,Africa,0.312877703
+2008,Cameroon,Africa,0.283310454
+2009,Cameroon,Africa,0.332458227
+2010,Cameroon,Africa,0.325727347
+2011,Cameroon,Africa,0.268091793
+2008,Rep Of Congo,Africa,0.34155941
+2009,Rep Of Congo,Africa,0.431598927
+2010,Rep Of Congo,Africa,0.473472226
+2011,Rep Of Congo,Africa,0.538098379
+2008,Colombia,South America,1.451147307
+2009,Colombia,South America,1.484764251
+2010,Colombia,South America,1.711390678
+2011,Colombia,South America,1.560629099
+2008,Comoros,Africa,0.181858212
+2009,Comoros,Africa,0.177475819
+2010,Comoros,Africa,0.188940811
+2011,Comoros,Africa,0.220233473
+2008,Cabo Verde,Africa,0.591177784
+2009,Cabo Verde,Africa,0.625391176
+2010,Cabo Verde,Africa,0.598231164
+2011,Cabo Verde,Africa,0.859061433
+2008,Costa Rica,North America,1.880064504
+2009,Costa Rica,North America,1.693682921
+2010,Costa Rica,North America,1.665177867
+2011,Costa Rica,North America,1.704974495
+2008,Cuba,North America,2.696438401
+2009,Cuba,North America,2.646355786
+2010,Cuba,North America,3.392291813
+2011,Cuba,North America,3.172315091
+2008,Cayman Islands,North America,11.22444969
+2009,Cayman Islands,North America,10.33528599
+2010,Cayman Islands,North America,10.17344935
+2011,Cayman Islands,North America,10.30493107
+2008,Cyprus,Europe,7.929771311
+2009,Cyprus,Europe,7.438338502
+2010,Cyprus,Europe,6.983907546
+2011,Cyprus,Europe,6.735375823
+2008,Czech Republic,Europe,11.24012897
+2009,Czech Republic,Europe,10.30516177
+2010,Czech Republic,Europe,10.61336839
+2011,Czech Republic,Europe,10.43108813
+2008,Germany,Europe,9.525658763
+2009,Germany,Europe,8.803954839
+2010,Germany,Europe,9.179816838
+2011,Germany,Europe,8.917832846
+2008,Djibouti,Africa,0.615968351
+2009,Djibouti,Africa,0.563399208
+2010,Djibouti,Africa,0.622346841
+2011,Djibouti,Africa,0.561940931
+2008,Dominica,North America,1.81071091
+2009,Dominica,North America,1.807803366
+2010,Dominica,North America,1.906487557
+2011,Dominica,North America,1.746141565
+2008,Denmark,Europe,8.547356106
+2009,Denmark,Europe,8.05955954
+2010,Denmark,Europe,8.394657734
+2011,Denmark,Europe,7.248328717
+2008,Dominican Republic,North America,2.222311005
+2009,Dominican Republic,North America,2.103476066
+2010,Dominican Republic,North America,2.158413689
+2011,Dominican Republic,North America,2.182907888
+2008,Algeria,Africa,3.205182841
+2009,Algeria,Africa,3.428471639
+2010,Algeria,Africa,3.309911831
+2011,Algeria,Africa,3.316037892
+2008,Ecuador,South America,2.064521305
+2009,Ecuador,South America,2.355257087
+2010,Ecuador,South America,2.293303404
+2011,Ecuador,South America,2.354017387
+2008,Egypt,Africa,2.491853031
+2009,Egypt,Africa,2.462249164
+2010,Egypt,Africa,2.494817067
+2011,Egypt,Africa,2.635115225
+2008,Eritrea,Africa,0.092069391
+2009,Eritrea,Africa,0.111761081
+2010,Eritrea,Africa,0.109470529
+2011,Eritrea,Africa,0.108718365
+2008,Spain,Europe,7.16545181
+2009,Spain,Europe,6.216973378
+2010,Spain,Europe,5.815786526
+2011,Spain,Europe,5.790764234
+2008,Estonia,Europe,13.08183443
+2009,Estonia,Europe,11.04896311
+2010,Estonia,Europe,13.77319664
+2011,Estonia,Europe,14.04988252
+2008,Ethiopia,Africa,0.076668381
+2009,Ethiopia,Africa,0.076906232
+2010,Ethiopia,Africa,0.07559157
+2011,Ethiopia,Africa,0.083943117
+2008,Finland,Europe,10.65165217
+2009,Finland,Europe,9.958628519
+2010,Finland,Europe,11.53084023
+2011,Finland,Europe,10.1640461
+2008,Fiji,Oceania,1.278570124
+2009,Fiji,Oceania,0.994392232
+2010,Fiji,Oceania,1.505259596
+2011,Fiji,Oceania,1.424813248
+2008,France,Europe,5.774521922
+2009,France,Europe,5.511405389
+2010,France,Europe,5.496706655
+2011,France,Europe,5.185043424
+2008,Faroe Islands,Europe,12.97012071
+2009,Faroe Islands,Europe,11.8429021
+2010,Faroe Islands,Europe,12.9866782
+2011,Faroe Islands,Europe,11.72121175
+2008,Micronesia,Oceania,1.158310361
+2009,Micronesia,Oceania,1.622550764
+2010,Micronesia,Oceania,1.167845665
+2011,Micronesia,Oceania,1.240335923
+2008,Gabon,Africa,1.39589453
+2009,Gabon,Africa,1.423082894
+2010,Gabon,Africa,1.455445622
+2011,Gabon,Africa,1.418165749
+2008,United Kingdom,Europe,8.4377732
+2009,United Kingdom,Europe,7.598999603
+2010,United Kingdom,Europe,7.841653312
+2011,United Kingdom,Europe,7.085732086
+2008,Georgia,Europe,1.592369727
+2009,Georgia,Europe,1.576312217
+2010,Georgia,Europe,1.663506623
+2011,Georgia,Europe,2.046895742
+2008,Ghana,Africa,0.395319087
+2009,Ghana,Africa,0.325052954
+2010,Ghana,Africa,0.415441052
+2011,Ghana,Africa,0.404379798
+2008,Guinea,Africa,0.191660762
+2009,Guinea,Africa,0.196768408
+2010,Guinea,Africa,0.225765923
+2011,Guinea,Africa,0.229423425
+2008,Gambia,Africa,0.258833628
+2009,Gambia,Africa,0.266259849
+2010,Gambia,Africa,0.279410774
+2011,Gambia,Africa,0.241098417
+2008,Guinea-Bissau,Africa,0.145619048
+2009,Guinea-Bissau,Africa,0.146971003
+2010,Guinea-Bissau,Africa,0.145854598
+2011,Guinea-Bissau,Africa,0.146810683
+2008,Equatorial Guinea,Africa,6.562117562
+2009,Equatorial Guinea,Africa,6.533815076
+2010,Equatorial Guinea,Africa,6.421061876
+2011,Equatorial Guinea,Africa,8.907241536
+2008,Greece,Europe,8.829327935
+2009,Greece,Europe,8.544324727
+2010,Greece,Europe,7.797370479
+2011,Greece,Europe,7.568519083
+2008,Grenada,North America,2.505022418
+2009,Grenada,North America,2.425962147
+2010,Grenada,North America,2.487241705
+2011,Grenada,North America,2.408137432
+2008,Greenland,North America,11.71815083
+2009,Greenland,North America,10.2217389
+2010,Greenland,North America,11.66377295
+2011,Greenland,North America,12.44034101
+2008,Guatemala,North America,0.811036638
+2009,Guatemala,North America,0.864736542
+2010,Guatemala,North America,0.771619509
+2011,Guatemala,North America,0.748055056
+2008,Guyana,South America,2.083255358
+2009,Guyana,South America,2.085662452
+2010,Guyana,South America,2.282864015
+2011,Guyana,South America,2.357722028
+2008,Hong Kong,Asia,5.543874932
+2009,Hong Kong,Asia,5.305811582
+2010,Hong Kong,Asia,5.166229891
+2011,Hong Kong,Asia,5.695268539
+2008,Honduras,North America,1.194640242
+2009,Honduras,North America,1.058414368
+2010,Honduras,North America,1.080473355
+2011,Honduras,North America,1.103745053
+2008,Croatia,Europe,5.269158157
+2009,Croatia,Europe,4.866616935
+2010,Croatia,Europe,4.728821777
+2011,Croatia,Europe,4.801530011
+2008,Haiti,North America,0.250131013
+2009,Haiti,North America,0.229630548
+2010,Haiti,North America,0.211960718
+2011,Haiti,North America,0.217962048
+2008,Hungary,Europe,5.463501182
+2009,Hungary,Europe,4.867185924
+2010,Hungary,Europe,5.074749628
+2011,Hungary,Europe,4.862989931
+2008,Indonesia,Asia,1.752149102
+2009,Indonesia,Asia,1.90009103
+2010,Indonesia,Asia,1.80860092
+2011,Indonesia,Asia,2.303780983
+2008,India,Asia,1.497886363
+2009,India,Asia,1.619048654
+2010,India,Asia,1.584869945
+2011,India,Asia,1.662873483
+2008,Ireland,Europe,9.527000515
+2009,Ireland,Europe,8.891436541
+2010,Ireland,Europe,8.810150532
+2011,Ireland,Europe,7.880759326
+2008,Iran,Asia,7.533279752
+2009,Iran,Asia,7.59209277
+2010,Iran,Asia,7.698029098
+2011,Iran,Asia,7.802145093
+2008,Iraq,Asia,3.194050322
+2009,Iraq,Asia,3.47996689
+2010,Iraq,Asia,3.610434779
+2011,Iraq,Asia,4.20163513
+2008,Iceland,Europe,6.677481144
+2009,Iceland,Europe,6.447492771
+2010,Iceland,Europe,6.168528586
+2011,Iceland,Europe,5.896828979
+2008,Israel,Asia,9.340594762
+2009,Israel,Asia,8.612962755
+2010,Israel,Asia,9.036666273
+2011,Israel,Asia,8.952413531
+2008,Italy,Europe,7.60176497
+2009,Italy,Europe,6.795651486
+2010,Italy,Europe,6.83837457
+2011,Italy,Europe,6.702557614
+2008,Jamaica,North America,4.476814921
+2009,Jamaica,North America,3.204231319
+2010,Jamaica,North America,2.672410756
+2011,Jamaica,North America,2.872655693
+2008,Jordan,Asia,3.689815762
+2009,Jordan,Asia,3.70109721
+2010,Jordan,Asia,3.50324049
+2011,Jordan,Asia,3.601147064
+2008,Japan,Asia,9.4229613
+2009,Japan,Asia,8.598621998
+2010,Japan,Asia,9.127185047
+2011,Japan,Asia,9.291834303
+2008,Kazakhstan,Asia,14.65957764
+2009,Kazakhstan,Asia,13.30972781
+2010,Kazakhstan,Asia,15.14647827
+2011,Kazakhstan,Asia,15.81009754
+2008,Kenya,Africa,0.267801815
+2009,Kenya,Africa,0.31450114
+2010,Kenya,Africa,0.307975417
+2011,Kenya,Africa,0.327569171
+2008,Kyrgyz Republic,Asia,1.069343449
+2009,Kyrgyz Republic,Asia,1.180486133
+2010,Kyrgyz Republic,Asia,1.129467501
+2011,Kyrgyz Republic,Asia,1.199591629
+2008,Cambodia,Asia,0.285282402
+2009,Cambodia,Asia,0.292181175
+2010,Cambodia,Asia,0.291550731
+2011,Cambodia,Asia,0.308073152
+2008,Kiribati,Oceania,0.558783791
+2009,Kiribati,Oceania,0.401099775
+2010,Kiribati,Oceania,0.607308472
+2011,Kiribati,Oceania,0.595622098
+2008,St. Kitts And Nevis,North America,4.880433719
+2009,St. Kitts And Nevis,North America,5.034263395
+2010,St. Kitts And Nevis,North America,4.973200642
+2011,St. Kitts And Nevis,North America,5.050964187
+2008,South Korea,Asia,10.36983266
+2009,South Korea,Asia,10.3465061
+2010,South Korea,Asia,11.46958747
+2011,South Korea,Asia,11.84075687
+2008,Kuwait,Asia,30.58126375
+2009,Kuwait,Asia,29.72170379
+2010,Kuwait,Asia,29.69343348
+2011,Kuwait,Asia,28.10266175
+2008,Lebanon,Asia,4.202060939
+2009,Lebanon,Asia,5.001002214
+2010,Lebanon,Asia,4.632411885
+2011,Lebanon,Asia,4.668312508
+2008,Liberia,Africa,0.156752837
+2009,Liberia,Africa,0.138178275
+2010,Liberia,Africa,0.202899199
+2011,Liberia,Africa,0.218425012
+2008,Libya,Africa,9.136624366
+2009,Libya,Africa,10.0370768
+2010,Libya,Africa,10.54269589
+2011,Libya,Africa,6.204914344
+2008,St. Lucia,North America,2.292817072
+2009,St. Lucia,North America,2.197738533
+2010,St. Lucia,North America,2.273826502
+2011,St. Lucia,North America,2.270423588
+2008,Liechtenstein,Europe,1.95047731
+2009,Liechtenstein,Europe,1.527746917
+2010,Liechtenstein,Europe,1.617377881
+2011,Liechtenstein,Europe,1.405096204
+2008,Sri Lanka,Asia,0.602955794
+2009,Sri Lanka,Asia,0.644280244
+2010,Sri Lanka,Asia,0.64824563
+2011,Sri Lanka,Asia,0.72992084
+2008,Lesotho,Africa,1.056111113
+2009,Lesotho,Africa,1.06118278
+2010,Lesotho,Africa,1.123489371
+2011,Lesotho,Africa,1.082269608
+2008,Lithuania,Europe,4.598897641
+2009,Lithuania,Europe,3.925637608
+2010,Lithuania,Europe,4.319017771
+2011,Lithuania,Europe,4.537558514
+2008,Luxembourg,Europe,22.38547222
+2009,Luxembourg,Europe,20.87712517
+2010,Luxembourg,Europe,21.6351358
+2011,Luxembourg,Europe,20.8978117
+2008,Latvia,Europe,3.629405756
+2009,Latvia,Europe,3.443266443
+2010,Latvia,Europe,3.963228139
+2011,Latvia,Europe,3.786801437
+2008,Morocco,Africa,1.687375568
+2009,Morocco,Africa,1.654806038
+2010,Morocco,Africa,1.742832779
+2011,Morocco,Africa,1.737915547
+2008,Moldova,Europe,1.337336013
+2009,Moldova,Europe,1.276290637
+2010,Moldova,Europe,1.385659642
+2011,Moldova,Europe,1.398821793
+2008,Madagascar,Africa,0.099740761
+2009,Madagascar,Africa,0.092499326
+2010,Madagascar,Africa,0.098983365
+2011,Madagascar,Africa,0.112992805
+2008,Maldives,Asia,2.78570442
+2009,Maldives,Asia,2.964158333
+2010,Maldives,Asia,2.927604905
+2011,Maldives,Asia,2.927763926
+2008,Mexico,North America,4.126988108
+2009,Mexico,North America,3.857149599
+2010,Mexico,North America,3.752090816
+2011,Mexico,North America,3.876107611
+2008,Marshall Islands,Oceania,1.895961395
+2009,Marshall Islands,Oceania,1.962424266
+2010,Marshall Islands,Oceania,1.958419165
+2011,Marshall Islands,Oceania,1.954207191
+2008,Macedonia,Europe,4.574681817
+2009,Macedonia,Europe,4.224605133
+2010,Macedonia,Europe,4.171161094
+2011,Macedonia,Europe,4.519210141
+2008,Mali,Africa,0.075281844
+2009,Mali,Africa,0.078108539
+2010,Mali,Africa,0.081476607
+2011,Mali,Africa,0.079956379
+2008,Malta,Europe,6.252313871
+2009,Malta,Europe,5.796405618
+2010,Malta,Europe,6.316495701
+2011,Malta,Europe,6.034321639
+2008,Myanmar,Asia,0.176918537
+2009,Myanmar,Asia,0.202232171
+2010,Myanmar,Asia,0.173734652
+2011,Myanmar,Asia,0.200285212
+2008,Montenegro,Europe,4.457679397
+2009,Montenegro,Europe,2.953556075
+2010,Montenegro,Europe,4.167664361
+2011,Montenegro,Europe,4.145547583
+2008,Mongolia,Asia,3.81388549
+2009,Mongolia,Asia,4.140116094
+2010,Mongolia,Asia,4.243335224
+2011,Mongolia,Asia,6.915146531
+2008,Mozambique,Africa,0.101742097
+2009,Mozambique,Africa,0.108702094
+2010,Mozambique,Africa,0.118205418
+2011,Mozambique,Africa,0.131189805
+2008,Mauritania,Africa,0.567036613
+2009,Mauritania,Africa,0.608387039
+2010,Mauritania,Africa,0.595272317
+2011,Mauritania,Africa,0.627225464
+2008,Mauritius,Africa,3.029991456
+2009,Mauritius,Africa,2.963163435
+2010,Mauritius,Africa,3.132082534
+2011,Mauritius,Africa,3.127070817
+2008,Malawi,Africa,0.082545714
+2009,Malawi,Africa,0.073703111
+2010,Malawi,Africa,0.082179517
+2011,Malawi,Africa,0.079231485
+2008,Malaysia,Asia,7.656532739
+2009,Malaysia,Asia,7.373235988
+2010,Malaysia,Asia,7.986951475
+2011,Malaysia,Asia,7.898823573
+2008,Namibia,Africa,1.691632521
+2009,Namibia,Africa,1.478823448
+2010,Namibia,Africa,1.449319237
+2011,Namibia,Africa,1.239160489
+2008,New Caledonia,Oceania,13.53130952
+2009,New Caledonia,Oceania,11.57082986
+2010,New Caledonia,Oceania,15.680092
+2011,New Caledonia,Oceania,15.17329528
+2008,Niger,Africa,0.060771767
+2009,Niger,Africa,0.073470122
+2010,Niger,Africa,0.083054495
+2011,Niger,Africa,0.083958178
+2008,Nigeria,Africa,0.613327639
+2009,Nigeria,Africa,0.462535787
+2010,Nigeria,Africa,0.534553664
+2011,Nigeria,Africa,0.53749756
+2008,Nicaragua,North America,0.790487627
+2009,Nicaragua,North America,0.803730282
+2010,Nicaragua,North America,0.805909906
+2011,Nicaragua,North America,0.843541955
+2008,Netherlands,Europe,10.52945151
+2009,Netherlands,Europe,10.24561928
+2010,Netherlands,Europe,10.94931628
+2011,Netherlands,Europe,10.06448974
+2008,Norway,Europe,10.55446109
+2009,Norway,Europe,10.81860557
+2010,Norway,Europe,11.61619323
+2011,Norway,Europe,9.192879069
+2008,Nepal,Asia,0.11450154
+2009,Nepal,Asia,0.136102525
+2010,Nepal,Asia,0.161137874
+2011,Nepal,Asia,0.159474455
+2008,New Zealand,Oceania,8.044536128
+2009,New Zealand,Oceania,7.511955097
+2010,New Zealand,Oceania,7.297420185
+2011,New Zealand,Oceania,7.124050867
+2008,Oman,Asia,14.4797972
+2009,Oman,Asia,13.92679701
+2010,Oman,Asia,19.122607
+2011,Oman,Asia,20.20389451
+2008,Pakistan,Asia,0.975314124
+2009,Pakistan,Asia,0.962548786
+2010,Pakistan,Asia,0.957357369
+2011,Pakistan,Asia,0.941171125
+2008,Panama,North America,2.107748953
+2009,Panama,North America,2.415888235
+2010,Panama,North America,2.449051597
+2011,Panama,North America,2.625276244
+2008,Peru,South America,1.441345465
+2009,Peru,South America,1.771065546
+2010,Peru,South America,1.969722449
+2011,Peru,South America,1.783233144
+2008,Philippines,Asia,0.841040935
+2009,Philippines,Asia,0.816054812
+2010,Philippines,Asia,0.878135471
+2011,Philippines,Asia,0.867845343
+2008,Palau,Oceania,10.33366293
+2009,Palau,Oceania,10.27423319
+2010,Palau,Oceania,10.56927211
+2011,Palau,Oceania,10.85543046
+2008,Papua New Guinea,Oceania,0.73337006
+2009,Papua New Guinea,Oceania,0.760922609
+2010,Papua New Guinea,Oceania,0.681184727
+2011,Papua New Guinea,Oceania,0.746895234
+2008,Poland,Europe,8.273068216
+2009,Poland,Europe,7.81735027
+2010,Poland,Europe,8.334872118
+2011,Poland,Europe,8.335786706
+2008,North Korea,Asia,3.220672403
+2009,North Korea,Asia,3.08670211
+2010,North Korea,Asia,2.958833707
+2011,North Korea,Asia,2.987182112
+2008,Portugal,Europe,5.24374293
+2009,Portugal,Europe,5.158593379
+2010,Portugal,Europe,4.690094769
+2011,Portugal,Europe,4.709849624
+2008,Paraguay,South America,0.719800679
+2009,Paraguay,South America,0.737248172
+2010,Paraguay,South America,0.817267073
+2011,Paraguay,South America,0.841915242
+2008,French Polynesia,Oceania,3.306029055
+2009,French Polynesia,Oceania,3.288268805
+2010,French Polynesia,Oceania,3.296763845
+2011,French Polynesia,Oceania,3.167952684
+2008,Qatar,Asia,48.60161977
+2009,Qatar,Asia,44.83640145
+2010,Qatar,Asia,42.63907601
+2011,Qatar,Asia,44.01892637
+2008,Romania,Europe,4.658143211
+2009,Romania,Europe,3.997649195
+2010,Romania,Europe,3.918410158
+2011,Romania,Europe,4.210560124
+2008,Russian Federation,Asia,12.01913064
+2009,Russian Federation,Asia,11.02611624
+2010,Russian Federation,Asia,12.19843743
+2011,Russian Federation,Asia,12.64732823
+2008,Rwanda,Africa,0.055661387
+2009,Rwanda,Africa,0.057430655
+2010,Rwanda,Africa,0.05735438
+2011,Rwanda,Africa,0.062874197
+2008,Saudi Arabia,Asia,15.63931332
+2009,Saudi Arabia,Asia,17.69022548
+2010,Saudi Arabia,Asia,18.97762597
+2011,Saudi Arabia,Asia,18.07245072
+2008,Sudan,Africa,0.318940846
+2009,Sudan,Africa,0.343430682
+2010,Sudan,Africa,0.341750839
+2011,Sudan,Africa,0.349548724
+2008,Senegal,Africa,0.444968124
+2009,Senegal,Africa,0.464873613
+2010,Senegal,Africa,0.638487724
+2011,Senegal,Africa,0.58833415
+2008,Singapore,Asia,4.927577946
+2009,Singapore,Asia,4.778242444
+2010,Singapore,Asia,2.655230176
+2011,Singapore,Asia,4.320161437
+2008,Solomon Islands,Oceania,0.378784688
+2009,Solomon Islands,Oceania,0.377551397
+2010,Solomon Islands,Oceania,0.376333439
+2011,Solomon Islands,Oceania,0.368304169
+2008,Sierra Leone,Africa,0.120200375
+2009,Sierra Leone,Africa,0.115584129
+2010,Sierra Leone,Africa,0.12570608
+2011,Sierra Leone,Africa,0.152044168
+2008,El Salvador,North America,1.090169563
+2009,El Salvador,North America,1.070009174
+2010,El Salvador,North America,1.044537988
+2011,El Salvador,North America,1.103998574
+2008,Somalia,Africa,0.065850768
+2009,Somalia,Africa,0.063880736
+2010,Somalia,Africa,0.06391226
+2011,Somalia,Africa,0.05870688
+2008,Serbia,Europe,7.058387624
+2009,Serbia,Europe,6.300834457
+2010,Serbia,Europe,6.292016689
+2011,Serbia,Europe,6.799114997
+2008,Sao Tome And Principe,Africa,0.515547541
+2009,Sao Tome And Principe,Africa,0.548308572
+2010,Sao Tome And Principe,Africa,0.579406601
+2011,Sao Tome And Principe,Africa,0.587909256
+2008,Suriname,South America,4.84197988
+2009,Suriname,South America,4.829500002
+2010,Suriname,South America,4.621427372
+2011,Suriname,South America,3.649913361
+2008,Slovak Republic,Europe,7.010558568
+2009,Slovak Republic,Europe,6.319073237
+2010,Slovak Republic,Europe,6.721959562
+2011,Slovak Republic,Europe,6.367545917
+2008,Slovenia,Europe,8.532016271
+2009,Slovenia,Europe,7.547335376
+2010,Slovenia,Europe,7.530604813
+2011,Slovenia,Europe,7.504259702
+2008,Sweden,Europe,5.326109585
+2009,Sweden,Europe,4.704368708
+2010,Sweden,Europe,5.606000495
+2011,Sweden,Europe,5.518421481
+2008,Swaziland,Africa,0.950321127
+2009,Swaziland,Africa,0.890557455
+2010,Swaziland,Africa,0.869767204
+2011,Swaziland,Africa,0.864988313
+2008,Seychelles,Africa,7.970272322
+2009,Seychelles,Africa,8.485119934
+2010,Seychelles,Africa,7.679581152
+2011,Seychelles,Africa,6.835706362
+2008,Syria,Asia,3.360814123
+2009,Syria,Asia,3.012318451
+2010,Syria,Asia,2.971741072
+2011,Syria,Asia,2.736990943
+2008,Turks And Caicos Islands,North America,6.094874665
+2009,Turks And Caicos Islands,North America,5.940523027
+2010,Turks And Caicos Islands,North America,6.152486045
+2011,Turks And Caicos Islands,North America,6.010149084
+2008,Chad,Africa,0.045756274
+2009,Chad,Africa,0.042689415
+2010,Chad,Africa,0.043462549
+2011,Chad,Africa,0.043830424
+2008,Togo,Africa,0.285947797
+2009,Togo,Africa,0.270613774
+2010,Togo,Africa,0.269107041
+2011,Togo,Africa,0.319443622
+2008,Thailand,Asia,3.984059667
+2009,Thailand,Asia,4.198511915
+2010,Thailand,Asia,4.470426149
+2011,Thailand,Asia,4.534491734
+2008,Tajikistan,Asia,0.409462437
+2009,Tajikistan,Asia,0.382774553
+2010,Tajikistan,Asia,0.373872943
+2011,Tajikistan,Asia,0.35894763
+2008,Turkmenistan,Asia,11.55757176
+2009,Turkmenistan,Asia,10.11066086
+2010,Turkmenistan,Asia,11.35811103
+2011,Turkmenistan,Asia,12.18366658
+2008,Timor-Leste,Asia,0.185016931
+2009,Timor-Leste,Asia,0.174891045
+2010,Timor-Leste,Asia,0.171932157
+2011,Timor-Leste,Asia,0.16364808
+2008,Tonga,Oceania,1.17696662
+2009,Tonga,Oceania,1.276514272
+2010,Tonga,Oceania,1.128882988
+2011,Tonga,Oceania,0.983561959
+2008,Trinidad And Tobago,North America,35.45529782
+2009,Trinidad And Tobago,North America,36.56944789
+2010,Trinidad And Tobago,North America,38.33784104
+2011,Trinidad And Tobago,North America,37.14005424
+2008,Tunisia,Africa,2.403507634
+2009,Tunisia,Africa,2.374157343
+2010,Tunisia,Africa,2.535619365
+2011,Tunisia,Africa,2.402455639
+2008,Turkey,Asia,4.055396583
+2009,Turkey,Asia,3.898959122
+2010,Turkey,Asia,4.121154855
+2011,Turkey,Asia,4.383104516
+2008,Tanzania,Africa,0.147981815
+2009,Tanzania,Africa,0.139972868
+2010,Tanzania,Africa,0.150058649
+2011,Tanzania,Africa,0.1549349
+2008,Uganda,Africa,0.101918826
+2009,Uganda,Africa,0.105319919
+2010,Uganda,Africa,0.108297319
+2011,Uganda,Africa,0.110886576
+2008,Ukraine,Europe,6.724046202
+2009,Ukraine,Europe,5.64701422
+2010,Ukraine,Europe,6.638152001
+2011,Ukraine,Europe,6.262351962
+2008,Uruguay,South America,2.471053756
+2009,Uruguay,South America,2.401221496
+2010,Uruguay,South America,1.912604677
+2011,Uruguay,South America,2.296200685
+2008,United States,North America,18.48923375
+2009,United States,North America,17.1923791
+2010,United States,North America,17.48479218
+2011,United States,North America,17.02021634
+2008,Uzbekistan,Asia,4.434466025
+2009,Uzbekistan,Asia,3.912053019
+2010,Uzbekistan,Asia,3.693267688
+2011,Uzbekistan,Asia,3.914921266
+2008,St. Vincent And The Grenadines,North America,2.11625521
+2009,St. Vincent And The Grenadines,North America,2.114511922
+2010,St. Vincent And The Grenadines,North America,2.146876944
+2011,St. Vincent And The Grenadines,North America,2.179923359
+2008,Venezuela,South America,6.6048923
+2009,Venezuela,South America,6.525292813
+2010,Venezuela,South America,6.811756484
+2011,Venezuela,South America,6.416333581
+2008,Vietnam,Asia,1.497496085
+2009,Vietnam,Asia,1.636370776
+2010,Vietnam,Asia,1.76169543
+2011,Vietnam,Asia,1.971433571
+2008,Vanuatu,Oceania,0.406838707
+2009,Vanuatu,Oceania,0.508462532
+2010,Vanuatu,Oceania,0.496591183
+2011,Vanuatu,Oceania,0.591265773
+2008,West Bank And Gaza,Asia,0.570947494
+2009,West Bank And Gaza,Asia,0.564577775
+2010,West Bank And Gaza,Asia,0.534014834
+2011,West Bank And Gaza,Asia,0.572406877
+2008,Samoa,Oceania,1.039489751
+2009,Samoa,Oceania,1.072106118
+2010,Samoa,Oceania,1.103870902
+2011,Samoa,Oceania,1.252110076
+2008,Yemen,Asia,0.989904581
+2009,Yemen,Asia,1.026251462
+2010,Yemen,Asia,1.090060254
+2011,Yemen,Asia,0.919967617
+2008,South Africa,Africa,9.506481163
+2009,South Africa,Africa,9.545494788
+2010,South Africa,Africa,8.957153524
+2011,South Africa,Africa,9.257216472
+2008,Dem Rep Of Congo,Africa,0.048411373
+2009,Dem Rep Of Congo,Africa,0.045604097
+2010,Dem Rep Of Congo,Africa,0.049328064
+2011,Dem Rep Of Congo,Africa,0.050302688
+2008,Zambia,Africa,0.164691753
+2009,Zambia,Africa,0.184057876
+2010,Zambia,Africa,0.192078658
+2011,Zambia,Africa,0.212449645
+2008,Zimbabwe,Africa,0.569255428
+2009,Zimbabwe,Africa,0.600521157
+2010,Zimbabwe,Africa,0.646072745
+2011,Zimbabwe,Africa,0.691697897
