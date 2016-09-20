@@ -1,0 +1,15 @@
+Si bulk
+Electronic minimization
+   PREC   = Accurate
+   EDIFF  = 1e-6 
+   ENCUT  = 400 
+   NELMIN = 6
+   ICHARG = 11
+   LORBIT = 11
+
+Ionic relaxation
+   NSW    = 0 
+
+DOS related values
+   ISMEAR = 0 
+   SIGMA  = 0.05

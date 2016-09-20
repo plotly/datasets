@@ -1,0 +1,38 @@
+------------------------------------------------------------
+working directory :  /home/r/ecp/gvallver/Enseignement/Si/rhombo/DOS
+cd /home/r/ecp/gvallver/Enseignement/Si/rhombo/DOS
+Currently Loaded Modulefiles:
+  1) intel/compiler/64/11.1/075/ifort64-11.1
+  2) intel/mkl/em64t/10.2.7/041
+  3) intel/compiler+mkl/64/11.1/075
+  4) vasp/5.3.2-seq
+vasp : /opt/cluster/ecp/VASP/5.3.2-seq/bin/vasp
+------------------------------------------------------------
+ vasp.5.3.2 13Sep12 (build Nov 15 2012 16:01:14) complex                        
+  
+ POSCAR found type information on POSCAR  Si
+ POSCAR found :  1 types and       2 ions
+ LDA part: xc-table for Pade appr. of Perdew
+ found WAVECAR, reading the header
+  number of k-points has changed, file:    29 present:   816
+  trying to continue reading WAVECAR, but it might fail
+ WARNING: stress and forces are not correct
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ...
+ reading WAVECAR
+ the WAVECAR file was read sucessfully
+ charge-density read from file: unknown                                 
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.937265742092E+01   -0.93727E+01   -0.26142E+02 17472   0.535E+01
+DAV:   2    -0.108414843029E+02   -0.14688E+01   -0.14688E+01 19088   0.197E+01
+DAV:   3    -0.108496354621E+02   -0.81512E-02   -0.81512E-02 18832   0.144E+00
+DAV:   4    -0.108496736728E+02   -0.38211E-04   -0.38211E-04 18120   0.911E-02
+DAV:   5    -0.108496737368E+02   -0.63922E-07   -0.63922E-07 19272   0.297E-03
+DAV:   6    -0.108496737372E+02   -0.47206E-09   -0.47205E-09 17648   0.183E-04
+   1 F= -.10849674E+02 E0= -.10849674E+02  d E =0.000000E+00
+ writing wavefunctions
+
+real	5m25.213s
+user	5m21.386s
+sys	0m1.514s
