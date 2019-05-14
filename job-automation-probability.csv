@@ -1,0 +1,703 @@
+_ - rank,_ - code,prob,Average annual wage,education,occupation,short occupation,len,probability,numbEmployed,median_ann_wage,employed_may2016,average_ann_wage
+624,51-4033,0.95,34920,High school diploma or equivalent,"Grinding, Lapping, Polishing and Buffing Machine Tool Setters, Operators and Tenders, Metal and Plastic","Tool setters, operators and tenders",35,0.95,74600,32890,74600,34920
+517,51-9012,0.88,41450,High school diploma or equivalent,"Separating, Filtering, Clarifying, Precipitating and Still Machine Setters, Operators and Tenders","Tool setters, operators and tenders",35,0.88,47160,38360,47160,41450
+484,41-4012,0.85,68410,High school diploma or equivalent,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing",92,0.85,1404050,57140,1404050,68410
+105,53-1031,0.029,59800,High school diploma or equivalent,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,Supervisors Transportation,26,0.029,202760,57270,202760,59800
+620,51-4072,0.95,32660,High school diploma or equivalent,"Molding, Coremaking and Casting Machine Setters, Operators and Tenders, Metal and Plastic","Molding, Coremaking and Casting Machine Setters, Operators and Tenders, Metal and Plastic",89,0.95,145560,30480,145560,32660
+518,51-6091,0.88,35420,High school diploma or equivalent,"Extruding and Forming Machine Setters, Operators and Tenders, Synthetic and Glass Fibers","Extruding and Forming Machine Setters, Operators and Tenders, Synthetic and Glass Fibers",88,0.88,19340,34240,19340,35420
+427,51-4031,0.78,34210,High school diploma or equivalent,"Cutting, Punching and Press Machine Setters, Operators and Tenders, Metal and Plastic","Cutting, Punching and Press Machine Setters, Operators and Tenders, Metal and Plastic",85,0.78,192800,32370,192800,34210
+228,41-4011,0.25,92910,Bachelor's degree,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",85,0.25,328370,78980,328370,92910
+590,51-4032,0.94,38880,High school diploma or equivalent,"Drilling and Boring Machine Tool Setters, Operators and Tenders, Metal and Plastic","Drilling and Boring Machine Tool Setters, Operators and Tenders, Metal and Plastic",82,0.94,12290,36410,12290,38880
+584,51-9041,0.93,34370,High school diploma or equivalent,"Extruding, Forming, Pressing and Compacting Machine Setters, Operators and Tenders","Extruding, Forming, Pressing and Compacting Machine Setters, Operators and Tenders",82,0.93,71260,32510,71260,34370
+477,51-4034,0.84,39630,High school diploma or equivalent,"Lathe and Turning Machine Tool Setters, Operators and Tenders, Metal and Plastic","Lathe and Turning Machine Tool Setters, Operators and Tenders, Metal and Plastic",80,0.84,33850,38480,33850,39630
+560,51-4021,0.91,35340,High school diploma or equivalent,"Extruding and Drawing Machine Setters, Operators and Tenders, Metal and Plastic","Extruding and Drawing Machine Setters, Operators and Tenders, Metal and Plastic",79,0.91,71960,33870,71960,35340
+637,51-6064,0.96,28110,High school diploma or equivalent,"TextileWinding, Twisting and Drawing Out Machine Setters, Operators and Tenders","TextileWinding, Twisting and Drawing Out Machine Setters, Operators and Tenders",79,0.96,30340,27500,30340,28110
+323,37-1012,0.57,48790,High school diploma or equivalent,"First-Line Supervisors of Landscaping, Lawn Service and Groundskeeping Workers",Supervisors Groundskeeping,26,0.57,103070,45740,103070,48790
+634,43-6014,0.96,36140,High school diploma or equivalent,"Secretaries and Administrative Assistants, Except Legal, Medical and Executive",Secretaries and Administrative Assistants,41,0.96,2295510,34820,2295510,36140
+554,49-2093,0.91,59840,Postsecondary nondegree award,"Electrical and Electronics Installers and Repairers, Transportation Equipment","Electrical and Electronics Installers and Repairers, Transportation Equipment",77,0.91,13960,59280,13960,59840
+208,15-1179,0.21,67770,Associate's degree,"Information Security Analysts, Web Developers and Computer Network Architects","Information Security Analysts, Web Developers and Computer Network Architects",77,0.21,188740,62670,188740,67770
+678,51-4035,0.98,41180,High school diploma or equivalent,"Milling and Planing Machine Setters, Operators and Tenders, Metal and Plastic","Milling and Planing Machine Setters, Operators and Tenders, Metal and Plastic",77,0.98,17560,39840,17560,41180
+569,51-4193,0.92,33690,High school diploma or equivalent,"Plating and Coating Machine Setters, Operators and Tenders, Metal and Plastic","Plating and Coating Machine Setters, Operators and Tenders, Metal and Plastic",77,0.92,35570,31280,35570,33690
+254,49-2022,0.36,54520,Postsecondary nondegree award,"Telecommunications Equipment Installers and Repairers, Except Line Installers",Telecommunications Equipment Installers and Repairers,77,0.36,228430,53640,228430,54520
+253,51-4012,0.36,53560,High school diploma or equivalent,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic","Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",75,0.36,25180,50580,25180,53560
+548,51-3091,0.91,30970,No formal educational credential,"Food and Tobacco Roasting, Baking and Drying Machine Operators and Tenders","Food and Tobacco Roasting, Baking and Drying Machine Operators and Tenders",74,0.91,20080,28570,20080,30970
+103,17-2111,0.028,90190,Bachelor's degree,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",Health and Safety Engineers,74,0.028,25410,86720,25410,90190
+205,25-3011,0.19,55140,Bachelor's degree,Adult Basic and Secondary Education and Literacy Teachers and Instructors,Adult Basic and Secondary Education and Literacy Teachers and Instructors,73,0.19,58810,50650,58810,55140
+277,49-2094,0.41,56990,Postsecondary nondegree award,"Electrical and Electronics Repairers, Commercial and Industrial Equipment","Electrical and Electronics Repairers, Commercial and Industrial Equipment",73,0.41,67390,56250,67390,56990
+556,51-4191,0.91,39010,High school diploma or equivalent,"Heat Treating Equipment Setters, Operators and Tenders, Metal and Plastic","Heat Treating Equipment Setters, Operators and Tenders, Metal and Plastic",73,0.91,19780,37180,19780,39010
+463,47-3011,0.83,33610,No formal educational credential,"Helpers–Brickmasons, Blockmasons, Stonemasons and Tile and Marble Setters","Helpers–Brickmasons, Blockmasons, Stonemasons and Tile and Marble Setters",73,0.83,23950,30570,23950,33610
+373,33-9092,0.67,22640,No formal educational credential,"Lifeguards, Ski Patrol and Other Recreational Protective Service Workers","Lifeguards, Ski Patrol and Other Recreational Protective Service Workers",72,0.67,145100,20290,145100,22640
+430,43-5053,0.79,49710,High school diploma or equivalent,"Postal Service Mail Sorters, Processors and Processing Machine Operators","Postal Service Mail Sorters, Processors and Processing Machine Operators",72,0.79,110770,56220,110770,49710
+41,25-2031,0.0078,61420,Bachelor's degree,"Secondary School Teachers, Except Special and Career/Technical Education",Secondary School Teachers,72,0.0078,1003250,58030,1003250,61420
+652,51-9021,0.97,36050,High school diploma or equivalent,"Crushing, Grinding and Polishing Machine Setters, Operators and Tenders","Crushing, Grinding and Polishing Machine Setters, Operators and Tenders",71,0.97,29830,34390,29830,36050
+606,41-9091,0.94,28630,No formal educational credential,"Door-to-Door Sales Workers, News and Street Vendors and Related Workers","Door-to-Door Sales Workers, News and Street Vendors and Related Workers",71,0.94,8040,24330,8040,28630
+227,53-3011,0.25,25600,High school diploma or equivalent,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Ambulance Drivers and Attendants,32,0.25,17300,23850,17300,25600
+261,49-2095,0.38,74540,Postsecondary nondegree award,"Electrical and Electronics Repairers, Powerhouse, Substation and Relay","Electrical and Electronics Repairers, Powerhouse, Substation and Relay",70,0.38,23060,75670,23060,74540
+552,51-4081,0.91,36190,High school diploma or equivalent,"MultipleMachine Tool Setters, Operators and Tenders, Metal and Plastic","MultipleMachine Tool Setters, Operators and Tenders, Metal and Plastic",70,0.91,117300,34340,117300,36190
+551,51-9121,0.91,34460,High school diploma or equivalent,"Coating, Painting and Spraying Machine Setters, Operators and Tenders","Coating, Painting and Spraying Machine Setters, Operators and Tenders",69,0.91,85760,32790,85760,34460
+279,53-1021,0.42,50160,High school diploma or equivalent,"First-Line Supervisors of Helpers, Laborers and Material Movers, Hand","First-Line Supervisors of Helpers, Laborers and Material Movers, Hand",69,0.42,183620,47230,183620,50160
+200,25-2022,0.17,59800,Bachelor's degree,"Middle School Teachers, Except Special and Career/Technical Education",Middle School Teachers,69,0.17,626310,56720,626310,59800
+342,51-4122,0.61,38380,High school diploma or equivalent,"Welding, Soldering and Brazing Machine Setters, Operators and Tenders","Welding, Soldering and Brazing Machine Setters, Operators and Tenders",69,0.61,46920,36980,46920,38380
+445,51-9192,0.81,30590,No formal educational credential,"Cleaning, Washing and Metal Pickling Equipment Operators and Tenders","Cleaning, Washing and Metal Pickling Equipment Operators and Tenders",68,0.81,17860,28550,17860,30590
+199,47-1011,0.17,68040,High school diploma or equivalent,First-Line Supervisors of Construction Trades and Extraction Workers,First-Line Supervisors of Construction Trades and Extraction Workers,68,0.17,538220,62980,"Secondary School Teachers, Except Special and Career/Technical Education",68040
+362,49-9021,0.65,48320,Postsecondary nondegree award,"Heating, Air Conditioning and Refrigeration Mechanics and Installers","Heating, Air Conditioning and Refrigeration Mechanics and Installers",68,0.65,294730,45910,294730,48320
+242,13-1078,0.31,64250,Bachelor's degree,"Human Resources, Training and Labor Relations Specialists, All Other","Human Resources, Training and Labor Relations Specialists, All Other",68,0.31,79430,62310,79430,64250
+65,43-1011,0.014,57890,High school diploma or equivalent,First-Line Supervisors of Office and Administrative Support Workers,First-Line Supervisors of Office and Administrative Support Workers,67,0.014,1443150,54340,1443150,57890
+400,51-6063,0.73,28380,High school diploma or equivalent,"Textile Knitting and Weaving Machine Setters, Operators and Tenders","Textile Knitting and Weaving Machine Setters, Operators and Tenders",67,0.73,21550,27470,21550,28380
+571,35-3021,0.92,20460,No formal educational credential,"Combined Food Preparation and Serving Workers, Including Fast Food","Combined Food Preparation and Serving Workers, Including Fast Food",66,0.92,3426090,19440,3426090,20460
+347,49-9012,0.63,56180,High school diploma or equivalent,"Control and Valve Installers and Repairers, Except Mechanical Door",Control and Valve Installers and Repairers,66,0.63,45740,54520,45740,56180
+419,19-4091,0.77,47930,Associate's degree,"Environmental Science and Protection Technicians, Including Health","Environmental Science and Protection Technicians, Including Health",66,0.77,32950,44190,32950,47930
+189,17-2151,0.14,103010,Bachelor's degree,"Mining and Geological Engineers, Including Mining Safety Engineers","Mining and Geological Engineers, Including Mining Safety Engineers",66,0.14,6940,93720,6940,103010
+587,51-4022,0.93,38710,High school diploma or equivalent,"Forging Machine Setters, Operators and Tenders, Metal and Plastic","Forging Machine Setters, Operators and Tenders, Metal and Plastic",65,0.93,19160,36930,19160,38710
+471,51-4023,0.83,41900,High school diploma or equivalent,"Rolling Machine Setters, Operators and Tenders, Metal and Plastic","Rolling Machine Setters, Operators and Tenders, Metal and Plastic",65,0.83,29060,40680,29060,41900
+645,51-7042,0.97,29850,High school diploma or equivalent,"Woodworking Machine Setters, Operators and Tenders, Except Sawing","Woodworking Machine Setters, Operators and Tenders",65,0.97,76130,28510,76130,29850
+220,13-1011,0.24,86560,Bachelor's degree,"Agents and Business Managers of Artists, Performers and Athletes","Agents and Business Managers of Artists, Performers and Athletes",64,0.24,13470,62080,13470,86560
+71,11-9031,0.015,52150,Bachelor's degree,"Education Administrators, Preschool and Childcare Center/Program","Education Administrators, Preschool and Childcare Center/Program",64,0.015,48530,45790,48530,52150
+361,49-2097,0.65,39340,Postsecondary nondegree award,Electronic Home Entertainment Equipment Installers and Repairers,Electronic Home Entertainment Equipment Installers and Repairers,64,0.65,25550,37410,25550,39340
+318,45-1011,0.57,48820,High school diploma or equivalent,"First-Line Supervisors of Farming, Fishing and Forestry Workers","First-Line Supervisors of Farming, Fishing and Forestry Workers",63,0.57,19550,45320,19550,48820
+207,39-4831,0.2,54700,Associate's degree,"Funeral Service Managers, Directors, Morticians and Undertakers","Funeral Service Managers, Directors, Morticians and Undertakers",63,0.2,25850,50090,25850,54700
+389,51-8093,0.71,67870,High school diploma or equivalent,"Petroleum Pump System Operators, Refinery Operators and Gaugers","Petroleum Pump System Operators, Refinery Operators and Gaugers",63,0.71,41630,67400,41630,67870
+632,35-3022,0.96,21380,No formal educational credential,"Counter Attendants, Cafeteria, Food Concession and Coffee Shop","Counter Attendants, Cafeteria, Food Concession and Coffee Shop",62,0.96,499550,19970,499550,21380
+10,33-1021,0.0036,77050,Postsecondary nondegree award,First-Line Supervisors of Fire Fighting and Prevention Workers,First-Line Supervisors of Fire Fighting and Prevention Workers,62,0.0036,57170,74540,57170,77050
+349,35-1012,0.63,34700,High school diploma or equivalent,First-Line Supervisors of Food Preparation and Serving Workers,First-Line Supervisors of Food Preparation and Serving Workers,62,0.63,908550,31480,908550,34700
+617,47-2073,0.95,50560,High school diploma or equivalent,Operating Engineers and Other Construction Equipment Operators,Operating Engineers and Other Construction Equipment Operators,62,0.95,356750,45890,356750,50560
+338,43-4181,0.61,38050,High school diploma or equivalent,Reservation and Transportation Ticket Agents and Travel Clerks,Reservation and Transportation Ticket Agents and Travel Clerks,62,0.61,146350,35230,146350,38050
+498,51-4011,0.86,39590,High school diploma or equivalent,"Computer-Controlled Machine Tool Operators, Metal and Plastic","Computer-Controlled Machine Tool Operators, Metal and Plastic",61,0.86,146190,37880,146190,39590
+334,49-2096,0.61,34200,Postsecondary nondegree award,"Electronic Equipment Installers and Repairers, Motor Vehicles","Electronic Equipment Installers and Repairers, Motor Vehicles",61,0.61,11750,32220,11750,34200
+490,43-6011,0.86,57910,High school diploma or equivalent,Executive Secretaries and Executive Administrative Assistants,Executive Secretaries and Executive Administrative Assistants,61,0.86,631610,55860,631610,57910
+2,49-1011,0.003,66730,High school diploma or equivalent,"First-Line Supervisors of Mechanics, Installers and Repairers","First-Line Supervisors of Mechanics, Installers and Repairers",61,0.003,453330,63540,453330,66730
+367,37-2011,0.66,27030,No formal educational credential,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",Janitors and Cleaners,61,0.66,2161740,24190,2161740,27030
+591,43-9051,0.94,30580,High school diploma or equivalent,"Mail Clerks and Mail Machine Operators, Except Postal Service",Mail Clerks and Mail Machine Operators,61,0.94,91530,29160,91530,30580
+694,51-9151,0.99,31740,High school diploma or equivalent,Photographic Process Workers and Processing Machine Operators,Photographic Process Workers and Processing Machine Operators,61,0.99,26430,26470,26430,31740
+423,13-1023,0.77,67420,Bachelor's degree,"Purchasing Agents, Except Wholesale, Retail and Farm Products",Purchasing Agents,61,0.77,297600,63300,"Education Administrators, Preschool and Childcare Center/Program",67420
+353,23-1021,0.64,95240,Doctoral or professional degree,"Administrative Law Judges, Adjudicators and Hearing Officers","Administrative Law Judges, Adjudicators and Hearing Officers",60,0.64,14540,92110,14540,95240
+436,51-2011,0.79,52530,High school diploma or equivalent,"Aircraft Structure, Surfaces, Rigging and Systems Assemblers","Aircraft Structure, Surfaces, Rigging and Systems Assemblers",60,0.79,42010,50050,42010,52530
+131,27-1013,0.042,57410,Bachelor's degree,"Fine Artists, Including Painters, Sculptors and Illustrators","Fine Artists, Including Painters, Sculptors and Illustrators",60,0.042,11520,50790,11520,57410
+607,37-1011,0.94,41240,High school diploma or equivalent,First-Line Supervisors of Housekeeping and JanitorialWorkers,First-Line Supervisors of Housekeeping and JanitorialWorkers,60,0.94,161140,38190,161140,41240
+603,47-3014,0.94,28760,No formal educational credential,"Helpers–Painters, Paperhangers, Plasterers and Stucco Masons","Helpers–Painters, Paperhangers, Plasterers and Stucco Masons",60,0.94,10780,27310,10780,28760
+597,49-9091,0.94,34860,High school diploma or equivalent,"Coin, Vending and Amusement Machine Servicers and Repairers","Coin, Vending and Amusement Machine Servicers and Repairers",59,0.94,33600,33070,33600,34860
+255,51-9051,0.37,37600,High school diploma or equivalent,"Furnace, Kiln, Oven, Drier and Kettle Operators and Tenders","Furnace, Kiln, Oven, Drier and Kettle Operators and Tenders",59,0.37,19520,36040,19520,37600
+74,41-3031,0.016,102260,Bachelor's degree,"Securities, Commodities and Financial Services Sales Agents","Securities, Commodities and Financial Services Sales Agents",59,0.016,353780,67310,353780,102260
+496,51-9032,0.86,34000,High school diploma or equivalent,"Cutting and Slicing Machine Setters, Operators and Tenders","Cutting and Slicing Machine Setters, Operators and Tenders",58,0.86,61330,32870,61330,34000
+555,35-9011,0.91,22340,No formal educational credential,Dining Room and Cafeteria Attendants and Bartender Helpers,Dining Room and Cafeteria Attendants and Bartender Helpers,58,0.91,423080,20200,423080,22340
+113,19-2041,0.033,75360,Bachelor's degree,"Environmental Scientists and Specialists, Including Health","Environmental Scientists and Specialists, Including Health",58,0.033,84250,68910,84250,75360
+73,51-1011,0.016,61450,High school diploma or equivalent,First-Line Supervisors of Production and Operating Workers,First-Line Supervisors of Production and Operating Workers,58,0.016,610480,57780,610480,61450
+320,47-3015,0.57,30640,High school diploma or equivalent,"Helpers–Pipelayers, Plumbers, Pipefitters and Steamfitters","Helpers–Pipelayers, Plumbers, Pipefitters and Steamfitters",58,0.57,54080,29030,54080,30640
+532,43-4161,0.9,40100,Associate's degree,"Human Resources Assistants, Except Payroll and Timekeeping",Human Resources Assistants,58,0.9,137150,39020,137150,40100
+582,49-2021,0.93,53620,Associate's degree,"Radio, Cellular and Tower Equipment Installers and Repairs","Radio, Cellular and Tower Equipment Installers and Repairs",58,0.93,14120,52480,14120,53620
+650,51-6061,0.97,28480,High school diploma or equivalent,Textile Bleaching and Dyeing Machine Operators and Tenders,Textile Bleaching and Dyeing Machine Operators and Tenders,58,0.97,10860,27270,10860,28480
+22,11-9032,0.0046,95390,Master's degree,"Education Administrators, Elementary and Secondary School","Education Administrators, Elementary and Secondary School",57,0.0046,242970,92510,242970,95390
+292,47-5031,0.48,54580,High school diploma or equivalent,"ExplosivesWorkers, Ordnance Handling Experts and Blasters","ExplosivesWorkers, Ordnance Handling Experts and Blasters",57,0.48,6310,52170,6310,54580
+142,29-9799,0.055,57960,Postsecondary nondegree award,"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other",57,0.055,36000,48820,36000,57960
+462,51-9023,0.83,37630,High school diploma or equivalent,"Mixing and BlendingMachine Setters, Operators and Tenders","Mixing and BlendingMachine Setters, Operators and Tenders",57,0.83,130480,35680,130480,37630
+224,21-1092,0.25,55380,Bachelor's degree,Probation Officers and Correctional Treatment Specialists,Probation Officers and Correctional Treatment Specialists,57,0.25,87500,50160,87500,55380
+339,51-8031,0.61,47930,High school diploma or equivalent,Water and Wastewater Treatment Plant and System Operators,Water and Wastewater Treatment Plant and System Operators,57,0.61,115840,45760,115840,47930
+611,43-5111,0.95,31080,High school diploma or equivalent,"Weighers, Measurers, Checkers and Samplers, Recordkeeping","Weighers, Measurers, Checkers and Samplers, Recordkeeping",57,0.95,74460,28790,74460,31080
+340,19-4099,0.61,49270,Associate's degree,"Life, Physical and Social Science Technicians, All Other","Life, Physical and Social Science Technicians, All Other",56,0.61,68540,46040,68540,49270
+578,49-3053,0.93,35320,High school diploma or equivalent,Outdoor Power Equipment and Other Small Engine Mechanics,Outdoor Power Equipment and Other Small Engine Mechanics,56,0.93,33020,33730,33020,35320
+654,37-3012,0.97,35720,High school diploma or equivalent,"Pesticide Handlers, Sprayers and Applicators, Vegetation","Pesticide Handlers, Sprayers and Applicators, Vegetation",56,0.97,25230,33740,25230,35720
+446,11-9141,0.81,70290,High school diploma or equivalent,"Property, Real Estate and Community Association Managers","Property, Real Estate and Community Association Managers",56,0.81,180290,57040,180290,70290
+405,49-2011,0.74,39410,"Some college, no degree","Computer, Automated Teller and Office Machine Repairers","Computer, Automated Teller and Office Machine Repairers",55,0.74,102170,37100,102170,39410
+44,21-1012,0.0085,57620,Master's degree,"Educational, Guidance, School and Vocational Counselors","Educational, Guidance, School and Vocational Counselors",55,0.0085,260670,54560,260670,57620
+85,29-1199,0.02,84800,Master's degree,"Health Diagnosing and Treating Practitioners, All Other","Health Diagnosing and Treating Practitioners, All Other",55,0.02,36280,74530,36280,84800
+668,35-9031,0.97,21410,No formal educational credential,"Hosts and Hostesses, Restaurant, Lounge and Coffee Shop",Hosts and Hostesses,19,0.97,404360,19980,404360,21410
+300,49-9799,0.5,41810,High school diploma or equivalent,"Installation, Maintenance and Repair Workers, All Other","Installation, Maintenance and Repair Workers, All Other",55,0.5,146460,38480,146460,41810
+332,27-4031,0.6,63200,Bachelor's degree,"Camera Operators, Television, Video and Motion Picture","Camera Operators, Television, Video and Motion Picture",54,0.6,21710,55080,21710,63200
+540,51-9195,0.9,32590,High school diploma or equivalent,"Molders, Shapers and Casters, Except Metal and Plastic","Molders, Shapers and Casters",54,0.9,39450,30610,39450,32590
+612,51-6062,0.95,27860,High school diploma or equivalent,"Textile Cutting Machine Setters, Operators and Tenders","Textile Cutting Machine Setters, Operators and Tenders",54,0.95,15040,26090,15040,27860
+495,31-9096,0.86,26810,High school diploma or equivalent,Veterinary Assistants and Laboratory Animal Caretakers,Veterinary Assistants and Laboratory Animal Caretakers,54,0.86,79990,25250,79990,26810
+404,49-3031,0.73,46710,High school diploma or equivalent,Bus and Truck Mechanics and Diesel Engine Specialists,Bus and Truck Mechanics and Diesel Engine Specialists,53,0.73,254280,45170,254280,46710
+45,25-2032,0.0088,59480,Bachelor's degree,"Career/Technical Education Teachers, Secondary School","Career/Technical Education Teachers, Secondary School",53,0.0088,80100,57320,80100,59480
+602,53-7032,0.94,45230,High school diploma or equivalent,Excavating and Loading Machine and Dragline Operators,Excavating and Loading Machine and Dragline Operators,53,0.94,48320,41030,48320,45230
+615,33-9031,0.95,35280,High school diploma or equivalent,Gaming Surveillance Officers and Gaming Investigators,Gaming Surveillance Officers and Gaming Investigators,53,0.95,10460,32630,10460,35280
+483,53-7062,0.85,28720,No formal educational credential,"Laborers and Freight, Stock and Material Movers, Hand","Laborers and Freight, Stock and Material Movers, Hand",53,0.85,2587900,25980,2587900,28720
+528,47-4061,0.89,52810,High school diploma or equivalent,Rail-Track Laying and Maintenance Equipment Operators,Rail-Track Laying and Maintenance Equipment Operators,53,0.89,14250,53970,14250,52810
+574,51-9193,0.93,32100,High school diploma or equivalent,Cooling and Freezing Equipment Operators and Tenders,Cooling and Freezing Equipment Operators and Tenders,52,0.93,8170,29190,8170,32100
+20,25-2021,0.0044,59020,Bachelor's degree,"Elementary School Teachers, Except Special Education",Elementary School Teachers,52,0.0044,1392660,55800,1392660,59020
+434,49-9098,0.79,29370,High school diploma or equivalent,"Helpers–Installation, Maintenance and Repair Workers","Helpers–Installation, Maintenance and Repair Workers",52,0.79,118720,27510,118720,29370
+270,25-9011,0.39,50130,Bachelor's degree,Audio-Visual and Multimedia Collections Specialists,Audio-Visual and Multimedia Collections Specialists,51,0.39,10300,47840,10300,50130
+286,13-1141,0.47,66490,Bachelor's degree,"Compensation, Benefits and Job Analysis Specialists","Compensation, Benefits and Job Analysis Specialists",51,0.47,79190,62080,79190,66490
+221,17-3029,0.24,64050,Associate's degree,"Engineering Technicians, Except Drafters, All Other",Engineering Technicians,51,0.24,74290,62330,74290,64050
+670,51-9061,0.98,40340,High school diploma or equivalent,"Inspectors, Testers, Sorters, Samplers and Weighers","Inspectors, Testers, Sorters, Samplers and Weighers",51,0.98,518950,36780,518950,40340
+681,51-9111,0.98,30910,High school diploma or equivalent,Packaging and Filling Machine Operators and Tenders,Packaging and Filling Machine Operators and Tenders,51,0.98,386520,28290,386520,30910
+493,51-7041,0.86,29960,High school diploma or equivalent,"Sawing Machine Setters, Operators and Tenders, Wood","Sawing Machine Setters, Operators and Tenders, Wood",51,0.86,50640,28380,50640,29960
+412,53-6061,0.75,31080,High school diploma or equivalent,"Transportation Attendants, Except Flight Attendants",Transportation Attendants,51,0.75,18410,26060,18410,31080
+229,25-2023,0.26,60350,Bachelor's degree,"Career/Technical Education Teachers, Middle School","Career/Technical Education Teachers, Middle School",50,0.26,12730,57560,12730,60350
+474,17-3023,0.84,62950,Associate's degree,Electrical and Electronics Engineering Technicians,Electrical and Electronics Engineering Technicians,50,0.84,134870,62190,134870,62950
+156,41-1012,0.075,85830,High school diploma or equivalent,First-Line Supervisors of Non-Retail Sales Workers,First-Line Supervisors of Non-Retail Sales Workers,50,0.075,252670,73150,252670,85830
+157,39-1021,0.076,39830,High school diploma or equivalent,First-Line Supervisors of Personal Service Workers,First-Line Supervisors of Personal Service Workers,50,0.076,190420,36700,190420,39830
+346,19-2042,0.63,106390,Bachelor's degree,"Geoscientists, Except Hydrologists and Geographers",Geoscientists,50,0.63,30420,89780,30420,106390
+280,39-3093,0.43,24390,High school diploma or equivalent,"Locker Room, Coatroom and Dressing Room Attendants","Locker Room, Coatroom and Dressing Room Attendants",50,0.43,18040,21720,18040,24390
+337,13-1161,0.61,70620,Bachelor's degree,Market Research Analysts and Marketing Specialists,Market Research Analysts and Marketing Specialists,50,0.61,558630,62560,558630,70620
+550,29-2071,0.91,41460,Postsecondary nondegree award,Medical Records and Health Information Technicians,Medical Records and Health Information Technicians,50,0.91,200140,38040,200140,41460
+369,51-9196,0.67,38570,High school diploma or equivalent,"Paper Goods Machine Setters, Operators and Tenders","Paper Goods Machine Setters, Operators and Tenders",50,0.67,93100,36990,93100,38570
+553,53-4013,0.91,52320,High school diploma or equivalent,"Rail Yard Engineers, Dinkey Operators and Hostlers","Rail Yard Engineers, Dinkey Operators and Hostlers",50,0.91,4530,50470,4530,52320
+451,49-9045,0.82,47000,High school diploma or equivalent,"Refractory Materials Repairers, Except Brickmasons",Refractory Materials Repairers,50,0.82,1540,45230,1540,47000
+114,21-1011,0.033,44160,Bachelor's degree,Substance Abuse and Behavioral Disorder Counselors,Substance Abuse and Behavioral Disorder Counselors,50,0.033,91040,41070,91040,44160
+631,43-2011,0.96,29720,High school diploma or equivalent,"Switchboard Operators, Including Answering Service","Switchboard Operators, Including Answering Service",50,0.96,90910,28030,90910,29720
+137,11-9013,0.047,75790,High school diploma or equivalent,"Farmers, Ranchers and Other Agricultural Managers","Farmers, Ranchers and Other Agricultural Managers",49,0.047,4560,66360,4560,75790
+138,33-2022,0.048,44300,High school diploma or equivalent,Forest Fire Inspectors and Prevention Specialists,Forest Fire Inspectors and Prevention Specialists,49,0.048,1650,36230,1650,44300
+144,29-2061,0.058,44840,Postsecondary nondegree award,Licensed Practical and Licensed Vocational Nurses,Licensed Practical and Licensed Vocational Nurses,49,0.058,702400,44090,702400,44840
+472,47-2071,0.83,43800,High school diploma or equivalent,"Paving, Surfacing and Tamping Equipment Operators","Paving, Surfacing and Tamping Equipment Operators",49,0.83,51880,38970,51880,43800
+328,11-3071,0.59,97630,High school diploma or equivalent,"Transportation, Storage and Distribution Managers","Transportation, Storage and Distribution Managers",49,0.59,113270,89190,113270,97630
+237,13-1022,0.29,60040,Bachelor's degree,"Wholesale and Retail Buyers, Except Farm Products",Wholesale and Retail Buyers,49,0.29,109440,53340,109440,60040
+290,17-3021,0.48,71070,Associate's degree,Aerospace Engineering and Operations Technicians,Aerospace Engineering and Operations Technicians,48,0.48,11970,68020,11970,71070
+417,49-2092,0.76,44720,Postsecondary nondegree award,"Electric Motor, Power Tool and Related Repairers","Electric Motor, Power Tool and Related Repairers",48,0.76,17050,41570,17050,44720
+414,49-3041,0.75,39310,High school diploma or equivalent,Farm Equipment Mechanics and Service Technicians,Farm Equipment Mechanics and Service Technicians,48,0.75,35110,37820,35110,39310
+438,47-2042,0.79,42370,No formal educational credential,"Floor Layers, Except Carpet, Wood and Hard Tiles",Floor Layers,48,0.79,10340,37840,10340,42370
+549,53-7071,0.91,59620,High school diploma or equivalent,Gas Compressor and Gas Pumping Station Operators,Gas Compressor and Gas Pumping Station Operators,48,0.91,3890,60470,3890,59620
+203,49-9095,0.18,31030,High school diploma or equivalent,Manufactured Building and Mobile Home Installers,Manufactured Building and Mobile Home Installers,48,0.18,3200,29810,3200,31030
+4,21-1023,0.0031,47880,Bachelor's degree,Mental Health and Substance Abuse Social Workers,Mental Health and Substance Abuse Social Workers,48,0.0031,114040,42700,114040,47880
+272,49-3042,0.4,50810,High school diploma or equivalent,"Mobile Heavy Equipment Mechanics, Except Engines",Mobile Heavy Equipment Mechanics,48,0.4,123570,49370,123570,50810
+448,51-6021,0.81,22270,No formal educational credential,"Pressers, Textile, Garment and Related Materials","Pressers, Textile, Garment and Related Materials",48,0.81,45150,21300,45150,22270
+127,19-3099,0.04,80860,Bachelor's degree,"Social Scientists and Related Workers, All Other","Social Scientists and Related Workers, All Other",48,0.04,36380,77020,36380,80860
+297,49-9052,0.49,54700,High school diploma or equivalent,Telecommunications Line Installers and Repairers,Telecommunications Line Installers and Repairers,48,0.49,100080,52590,100080,54700
+96,33-1011,0.025,65100,High school diploma or equivalent,First-Line Supervisors of Correctional Officers,First-Line Supervisors of Correctional Officers,47,0.025,43230,60560,43230,65100
+18,33-1012,0.0044,88400,High school diploma or equivalent,First-Line Supervisors of Police and Detectives,First-Line Supervisors of Police and Detectives,47,0.0044,100200,84840,100200,88400
+273,29-2799,0.4,46020,High school diploma or equivalent,"Health Technologists and Technicians, All Other","Health Technologists and Technicians, All Other",47,0.4,122170,41070,122170,46020
+191,25-2012,0.15,55460,Bachelor's degree,"Kindergarten Teachers, Except Special Education",Kindergarten Teachers,47,0.15,151290,52620,151290,55460
+586,13-2081,0.93,57950,Bachelor's degree,Tax Examiners and Collectors and Revenue Agents,Tax Examiners and Collectors and Revenue Agents,47,0.93,58450,52060,58450,57950
+622,51-9191,0.95,34610,High school diploma or equivalent,Adhesive Bonding Machine Operators and Tenders,Adhesive Bonding Machine Operators and Tenders,46,0.95,16940,32290,16940,34610
+627,43-5032,0.96,41190,High school diploma or equivalent,"Dispatchers, Except Police, Fire and Ambulance",Dispatchers,46,0.96,197910,37940,197910,41190
+621,51-2022,0.95,33700,High school diploma or equivalent,Electrical and Electronic Equipment Assemblers,Electrical and Electronic Equipment Assemblers,46,0.95,218530,31310,218530,33700
+166,49-9051,0.097,67160,High school diploma or equivalent,Electrical Power-Line Installers and Repairers,Electrical Power-Line Installers and Repairers,46,0.097,117670,68010,117670,67160
+233,41-1011,0.28,43910,High school diploma or equivalent,First-Line Supervisors of Retail Sales Workers,First-Line Supervisors of Retail Sales Workers,46,0.28,1194220,39040,1194220,43910
+204,53-2011,0.18,152770,Bachelor's degree,"Airline Pilots, Copilots and Flight Engineers","Airline Pilots, Copilots and Flight Engineers",45,0.18,81520,127820,81520,152770
+675,13-1031,0.98,64990,High school diploma or equivalent,"Claims Adjusters, Examiners and Investigators","Claims Adjusters, Examiners and Investigators",45,0.98,274420,63680,274420,64990
+24,19-3031,0.0047,78690,Doctoral or professional degree,"Clinical, Counseling and School Psychologists","Clinical, Counseling and School Psychologists",45,0.0047,107980,73270,107980,78690
+97,21-2021,0.025,44840,Bachelor's degree,"Directors, Religious Activities and Education","Directors, Religious Activities and Education",45,0.025,20590,38610,20590,44840
+383,43-4061,0.7,43550,High school diploma or equivalent,"Eligibility Interviewers, Government Programs","Eligibility Interviewers, Government Programs",45,0.7,135940,43350,135940,43550
+176,39-5012,0.11,29590,Postsecondary nondegree award,"Hairdressers, Hairstylists and Cosmetologists","Hairdressers, Hairstylists and Cosmetologists",45,0.11,352380,24260,352380,29590
+689,43-9041,0.98,40780,High school diploma or equivalent,Insurance Claims and Policy Processing Clerks,Insurance Claims and Policy Processing Clerks,45,0.98,274350,38430,274350,40780
+626,51-9071,0.95,42310,High school diploma or equivalent,Jewelers and Precious Stone and Metal Workers,Jewelers and Precious Stone and Metal Workers,45,0.95,26480,38200,26480,42310
+299,53-7033,0.5,51260,No formal educational credential,"Loading Machine Operators, Underground Mining","Loading Machine Operators, Underground Mining",45,0.5,2550,53420,2550,51260
+533,29-2011,0.9,62440,Bachelor's degree,Medical and Clinical Laboratory Technologists,Medical and Clinical Laboratory Technologists,45,0.9,166730,61070,166730,62440
+327,47-5042,0.59,50670,High school diploma or equivalent,Mine Cutting and Channeling Machine Operators,Mine Cutting and Channeling Machine Operators,45,0.59,5930,51900,5930,50670
+468,47-4071,0.83,38870,No formal educational credential,Septic Tank Servicers and Sewer Pipe Cleaners,Septic Tank Servicers and Sewer Pipe Cleaners,45,0.83,26320,36430,26320,38870
+467,53-6031,0.83,24280,No formal educational credential,Automotive and Watercraft Service Attendants,Automotive and Watercraft Service Attendants,44,0.83,109790,22420,109790,24280
+330,49-3023,0.59,41400,Postsecondary nondegree award,Automotive Service Technicians and Mechanics,Automotive Service Technicians and Mechanics,44,0.59,647380,38470,647380,41400
+219,29-2031,0.23,57100,Associate's degree,Cardiovascular Technologists and Technicians,Cardiovascular Technologists and Technicians,44,0.23,53760,55570,53760,57100
+69,15-1111,0.015,116320,Doctoral or professional degree,Computer and Information Research Scientists,Computer and Information Research Scientists,44,0.015,26580,111840,26580,116320
+139,29-2041,0.049,36110,Postsecondary nondegree award,Emergency Medical Technicians and Paramedics,Emergency Medical Technicians and Paramedics,44,0.049,244960,32670,244960,36110
+516,51-4051,0.88,41840,High school diploma or equivalent,Metal-Refining Furnace Operators and Tenders,Metal-Refining Furnace Operators and Tenders,44,0.88,17730,41040,17730,41840
+37,25-2011,0.0074,33300,Associate's degree,"Preschool Teachers, Except Special Education",Preschool Teachers,44,0.0074,385550,28790,385550,33300
+40,25-2054,0.0077,64020,Bachelor's degree,"Special Education Teachers, Secondary School","Special Education Teachers, Secondary School",44,0.0077,132490,59700,132490,64020
+684,27-2023,0.98,35540,High school diploma or equivalent,"Umpires, Referees and Other Sports Officials","Umpires, Referees and Other Sports Officials",44,0.98,18660,25660,18660,35540
+671,43-3031,0.98,40220,"Some college, no degree","Bookkeeping, Accounting and Auditing Clerks","Bookkeeping, Accounting and Auditing Clerks",43,0.98,1566960,38390,1566960,40220
+506,13-1021,0.87,63910,Bachelor's degree,"Buyers and Purchasing Agents, Farm Products","Buyers and Purchasing Agents, Farm Products",43,0.87,11490,58430,11490,63910
+658,49-9061,0.97,43920,Associate's degree,Camera and Photographic Equipment Repairers,Camera and Photographic Equipment Repairers,43,0.97,3760,41060,3760,43920
+230,53-5021,0.27,81520,Postsecondary nondegree award,"Captains, Mates and Pilots of Water Vessels","Captains, Mates and Pilots of Water Vessels",43,0.27,36720,72680,36720,81520
+390,47-4799,0.71,40480,High school diploma or equivalent,"Construction and Related Workers, All Other","Construction and Related Workers, All Other",43,0.71,35340,36890,35340,40480
+465,47-2131,0.83,39490,No formal educational credential,"Insulation Workers, Floor, Ceiling and Wall","Insulation Workers, Floor, Ceiling and Wall",43,0.83,29500,35660,29500,39490
+593,51-3022,0.94,25510,No formal educational credential,"Meat, Poultry and Fish Cutters and Trimmers","Meat, Poultry and Fish Cutters and Trimmers",43,0.94,149800,24490,149800,25510
+288,29-2012,0.47,41700,Associate's degree,Medical and Clinical Laboratory Technicians,Medical and Clinical Laboratory Technicians,43,0.47,160190,38950,160190,41700
+368,49-3051,0.66,40860,High school diploma or equivalent,Motorboat Mechanics and Service Technicians,Motorboat Mechanics and Service Technicians,43,0.66,20260,38780,20260,40860
+109,15-1142,0.03,84500,Bachelor's degree,Network and Computer Systems Administrators,Network and Computer Systems Administrators,43,0.03,376820,79700,376820,84500
+458,53-4021,0.83,55320,High school diploma or equivalent,"Railroad Brake, Signal and Switch Operators","Railroad Brake, Signal and Switch Operators",43,0.83,19860,56570,19860,55320
+576,47-5013,0.93,53520,No formal educational credential,"Service Unit Operators, Oil, Gas and Mining","Service Unit Operators, Oil, Gas and Mining",43,0.93,42890,48610,42890,53520
+387,49-3011,0.71,61190,Postsecondary nondegree award,Aircraft Mechanics and Service Technicians,Aircraft Mechanics and Service Technicians,42,0.71,128570,60170,128570,61190
+216,13-1199,0.23,74870,Bachelor's degree,"Business Operations Specialists, All Other","Business Operations Specialists, All Other",42,0.23,958670,69040,958670,74870
+341,51-3093,0.61,30330,High school diploma or equivalent,Food Cooking Machine Operators and Tenders,Food Cooking Machine Operators and Tenders,42,0.61,36520,28350,36520,30330
+544,39-3012,0.91,25710,High school diploma or equivalent,Gaming and Sports Book Writers and Runners,Gaming and Sports Book Writers and Runners,42,0.91,11460,22600,11460,25710
+274,45-2041,0.41,24280,No formal educational credential,"Graders and Sorters, Agricultural Products","Graders and Sorters, Agricultural Products",42,0.41,38780,22520,38780,24280
+50,39-5091,0.01,71590,Postsecondary nondegree award,"Makeup Artists, Theatrical and Performance","Makeup Artists, Theatrical and Performance",42,0.01,3600,60970,3600,71590
+21,19-1042,0.0045,95000,Doctoral or professional degree,"Medical Scientists, Except Epidemiologists",Medical Scientists,42,0.0045,108870,80530,108870,95000
+291,27-1026,0.48,30090,High school diploma or equivalent,Merchandise Displayers and Window Trimmers,Merchandise Displayers and Window Trimmers,42,0.48,114690,26700,114690,30090
+196,29-9011,0.17,72480,Bachelor's degree,Occupational Health and Safety Specialists,Occupational Health and Safety Specialists,42,0.17,76630,70920,76630,72480
+223,29-9012,0.25,52520,High school diploma or equivalent,Occupational Health and Safety Technicians,Occupational Health and Safety Technicians,42,0.25,16560,48820,16560,52520
+513,43-5061,0.88,49050,High school diploma or equivalent,"Production, Planning and Expediting Clerks","Production, Planning and Expediting Clerks",42,0.88,321780,46760,321780,49050
+399,27-3012,0.72,42740,High school diploma or equivalent,Public Address System and Other Announcers,Public Address System and Other Announcers,42,0.72,8020,28940,8020,42740
+450,49-2098,0.82,45660,High school diploma or equivalent,Security and Fire Alarm Systems Installers,Security and Fire Alarm Systems Installers,42,0.82,67700,44330,67700,45660
+701,23-2093,0.99,51490,High school diploma or equivalent,"Title Examiners, Abstractors and Searchers","Title Examiners, Abstractors and Searchers",42,0.99,54560,45800,54560,51490
+642,39-3031,0.96,21740,No formal educational credential,"Ushers, Lobby Attendants and Ticket Takers","Ushers, Lobby Attendants and Ticket Takers",42,0.96,117920,19920,117920,21740
+665,19-4011,0.97,40470,Associate's degree,Agricultural and Food Science Technicians,Agricultural and Food Science Technicians,41,0.97,20420,37550,20420,40470
+313,49-3022,0.55,36140,High school diploma or equivalent,Automotive Glass Installers and Repairers,Automotive Glass Installers and Repairers,41,0.55,18610,34340,18610,36140
+118,11-3021,0.035,145740,Bachelor's degree,Computer and Information Systems Managers,Computer and Information Systems Managers,41,0.035,352510,135800,352510,145740
+164,39-9031,0.085,42780,High school diploma or equivalent,Fitness Trainers and Aerobics Instructors,Fitness Trainers and Aerobics Instructors,41,0.085,257410,38160,257410,42780
+600,43-4111,0.94,33640,High school diploma or equivalent,"Interviewers, Except Eligibility and Loan","Interviewers, Except Eligibility and Loan",41,0.94,186030,32150,186030,33640
+271,23-1023,0.4,115460,Doctoral or professional degree,Judges,Judges,41,0.4,27210,125880,27210,115460
+561,43-9071,0.92,32390,High school diploma or equivalent,"Office Machine Operators, Except Computer",Office Machine Operators,41,0.92,58160,30460,58160,32390
+67,11-2031,0.015,123360,Bachelor's degree,Public Relations and Fundraising Managers,Public Relations and Fundraising Managers,41,0.015,63970,107320,63970,123360
+585,53-7081,0.93,37690,No formal educational credential,Refuse and Recyclable Material Collectors,Refuse and Recyclable Material Collectors,41,0.93,114680,35270,114680,37690
+76,25-2053,0.016,61910,Bachelor's degree,"Special Education Teachers, Middle School","Special Education Teachers, Middle School",41,0.016,90250,58560,90250,61910
+529,51-8021,0.89,61410,High school diploma or equivalent,Stationary Engineers and Boiler Operators,Stationary Engineers and Boiler Operators,41,0.89,33720,59400,33720,61410
+416,51-9011,0.76,50300,High school diploma or equivalent,Chemical Equipment Operators and Tenders,Chemical Equipment Operators and Tenders,40,0.76,73840,47780,73840,50300
+470,41-2012,0.83,25940,High school diploma or equivalent,Gaming Change Persons and Booth Cashiers,Gaming Change Persons and Booth Cashiers,40,0.83,23120,23780,23120,25940
+380,53-3033,0.69,34790,High school diploma or equivalent,Light Truck or Delivery Services Drivers,Light Truck or Delivery Services Drivers,40,0.69,858710,30580,858710,34790
+567,51-9123,0.92,32040,No formal educational credential,"Painting, Coating and Decorating Workers","Painting, Coating and Decorating Workers",40,0.92,15450,30030,15450,32040
+218,29-2037,0.23,69240,Associate's degree,Ambulance Drivers and Attendants,Radiologic Technologists and Technicians,40,0.23,35850,68420,35850,69240
+329,49-3092,0.59,38040,High school diploma or equivalent,Recreational Vehicle Service Technicians,Recreational Vehicle Service Technicians,40,0.59,13520,36430,13520,38040
+275,51-2041,0.41,40000,High school diploma or equivalent,Structural Metal Fabricators and Fitters,Structural Metal Fabricators and Fitters,40,0.41,77270,37730,77270,40000
+106,29-2056,0.029,33870,Associate's degree,Veterinary Technologists and Technicians,Veterinary Technologists and Technicians,40,0.029,99390,32490,99390,33870
+541,13-2021,0.9,58030,Bachelor's degree,Appraisers and Assessors of Real Estate,Appraisers and Assessors of Real Estate,39,0.9,60770,51850,60770,58030
+146,23-1022,0.06,72730,Bachelor's degree,"Arbitrators, Mediators and Conciliators","Arbitrators, Mediators and Conciliators",39,0.06,6300,59770,6300,72730
+102,21-1021,0.028,47510,Bachelor's degree,"Child, Family and School Social Workers","Child, Family and School Social Workers",39,0.028,298840,43250,298840,47510
+667,43-4041,0.97,39320,High school diploma or equivalent,"Credit Authorizers, Checkers and Clerks","Credit Authorizers, Checkers and Clerks",39,0.97,37680,36930,37680,39320
+52,11-9033,0.01,105770,Master's degree,"Education Administrators, Postsecondary","Education Administrators, Postsecondary",39,0.01,138430,90760,138430,105770
+431,53-3032,0.79,43590,Postsecondary nondegree award,Heavy and Tractor-Trailer Truck Drivers,Heavy and Tractor-Trailer Truck Drivers,39,0.79,1704520,41340,1704520,43590
+57,19-3032,0.012,104570,Master's degree,Industrial-Organizational Psychologists,Industrial-Organizational Psychologists,39,0.012,1020,82760,1020,104570
+352,49-9071,0.64,39360,High school diploma or equivalent,"Maintenance and Repair Workers, General","Maintenance and Repair Workers, General",39,0.64,1332480,36940,1332480,39360
+545,49-9063,0.91,37690,High school diploma or equivalent,Musical Instrument Repairers and Tuners,Musical Instrument Repairers and Tuners,39,0.91,7980,35010,7980,37690
+542,53-7072,0.9,46270,High school diploma or equivalent,"Pump Operators, Except Wellhead Pumpers",Pump Operators,39,0.9,12030,42470,12030,46270
+598,51-4121,0.94,42450,High school diploma or equivalent,"Welders, Cutters, Solderers and Brazers","Welders, Cutters, Solderers and Brazers",39,0.94,382730,39390,382730,42450
+82,17-1011,0.018,84470,Bachelor's degree,"Architects, Except Landscape and Naval",Architects,38,0.018,99860,76930,99860,84470
+78,11-9041,0.017,143870,Bachelor's degree,Architectural and Engineering Managers,Architectural and Engineering Managers,38,0.017,178390,134730,178390,143870
+648,51-2023,0.97,35410,High school diploma or equivalent,Electromechanical Equipment Assemblers,Electromechanical Equipment Assemblers,38,0.97,45540,33350,45540,35410
+98,17-2072,0.025,103760,Bachelor's degree,"Electronics Engineers, Except Computer",Electronics Engineers,38,0.025,132100,99210,132100,103760
+588,53-7051,0.93,34260,No formal educational credential,Industrial Truck and Tractor Operators,Industrial Truck and Tractor Operators,38,0.93,542750,32460,542750,34260
+623,37-3011,0.95,28560,No formal educational credential,Landscaping and Groundskeeping Workers,Landscaping and Groundskeeping Workers,38,0.95,906570,26320,906570,28560
+121,13-1121,0.037,52020,Bachelor's degree,"Meeting, Convention and Event Planners","Meeting, Convention and Event Planners",38,0.037,95850,47350,95850,52020
+411,47-2141,0.75,41510,No formal educational credential,"Painters, Construction and Maintenance","Painters, Construction and Maintenance",38,0.75,217280,37570,217280,41510
+249,47-2152,0.35,56030,High school diploma or equivalent,"Plumbers, Pipefitters and Steamfitters","Plumbers, Pipefitters and Steamfitters",38,0.35,411870,51450,411870,56030
+298,43-5031,0.49,41070,High school diploma or equivalent,"Police, Fire and Ambulance Dispatchers","Police, Fire and Ambulance Dispatchers",38,0.49,95170,38870,95170,41070
+679,43-5071,0.98,33150,High school diploma or equivalent,"Shipping, Receiving and Traffic Clerks","Shipping, Receiving and Traffic Clerks",38,0.98,676990,31180,676990,33150
+304,51-6041,0.52,26040,High school diploma or equivalent,Shoe and Leather Workers and Repairers,Shoe and Leather Workers and Repairers,38,0.52,7780,23940,7780,26040
+479,51-6052,0.84,30670,No formal educational credential,"Tailors, Dressmakers and Custom Sewers","Tailors, Dressmakers and Custom Sewers",38,0.84,21660,28240,21660,30670
+690,51-2093,0.98,42470,High school diploma or equivalent,Timing Device Assemblers and Adjusters,Timing Device Assemblers and Adjusters,38,0.98,790,37040,790,42470
+316,27-4011,0.55,47450,Postsecondary nondegree award,Audio and Video Equipment Technicians,Audio and Video Equipment Technicians,37,0.55,69670,42230,69670,47450
+558,49-3021,0.91,45180,High school diploma or equivalent,Automotive Body and Related Repairers,Automotive Body and Related Repairers,37,0.91,143940,41540,143940,45180
+525,53-3022,0.89,31110,High school diploma or equivalent,"Bus Drivers, School or Special Client","Bus Drivers, School or Special Client",37,0.89,515020,30150,515020,31110
+246,33-3021,0.34,81490,High school diploma or equivalent,Detectives and Criminal Investigators,Detectives and Criminal Investigators,37,0.34,104980,78120,104980,81490
+225,17-3025,0.25,52500,Associate's degree,Environmental Engineering Technicians,Environmental Engineering Technicians,37,0.25,16550,49170,16550,52500
+575,51-2091,0.93,33020,High school diploma or equivalent,Fiberglass Laminators and Fabricators,Fiberglass Laminators and Fabricators,37,0.93,19400,30870,19400,33020
+348,31-9799,0.63,37720,High school diploma or equivalent,"Healthcare Support Workers, All Other","Healthcare Support Workers, All Other",37,0.63,93830,36330,93830,37720
+51,17-2121,0.01,99860,Bachelor's degree,Marine Engineers and Naval Architects,Marine Engineers and Naval Architects,37,0.01,8120,93350,8120,99860
+491,51-8099,0.86,55340,High school diploma or equivalent,"Plant and System Operators, All Other","Plant and System Operators, All Other",37,0.86,11970,54930,11970,55340
+33,11-9151,0.0067,70870,Bachelor's degree,Social and Community Service Managers,Social and Community Service Managers,37,0.0067,126230,64680,126230,70870
+181,15-1133,0.13,110590,Bachelor's degree,"Software Developers, Systems Software","Software Developers, Systems Software",37,0.13,409820,106860,409820,110590
+595,47-2051,0.94,43720,No formal educational credential,Cement Masons and Concrete Finishers,Cement Masons and Concrete Finishers,36,0.94,173920,39180,173920,43720
+350,47-4011,0.63,61250,High school diploma or equivalent,Construction and Building Inspectors,Construction and Building Inspectors,36,0.63,94960,58480,94960,61250
+557,19-4041,0.91,62240,Associate's degree,Geological and Petroleum Technicians,Geological and Petroleum Technicians,36,0.91,15100,56470,15100,62240
+653,51-9022,0.97,30860,No formal educational credential,"Grinding and Polishing Workers, Hand","Grinding and Polishing Workers, Hand",36,0.97,26670,28720,26670,30860
+36,11-9111,0.0073,109370,Bachelor's degree,Medical and Health Services Managers,Medical and Health Services Managers,36,0.0073,332150,96540,332150,109370
+167,33-3051,0.098,62760,High school diploma or equivalent,Police and Sheriff’s Patrol Officers,Police and Sheriff’s Patrol Officers,36,0.098,657690,59680,657690,62760
+409,11-9131,0.75,71980,High school diploma or equivalent,Postmasters and Mail Superintendents,Postmasters and Mail Superintendents,36,0.75,14720,71670,14720,71980
+243,33-9021,0.31,53530,High school diploma or equivalent,Private Detectives and Investigators,Private Detectives and Investigators,36,0.31,28490,48190,28490,53530
+628,43-4171,0.96,29120,High school diploma or equivalent,Receptionists and Information Clerks,Receptionists and Information Clerks,36,0.96,997770,27920,997770,29120
+520,51-4194,0.88,38860,High school diploma or equivalent,"Tool Grinders, Filers and Sharpeners","Tool Grinders, Filers and Sharpeners",36,0.88,9550,36650,9550,38860
+64,13-1151,0.014,63350,Bachelor's degree,Training and Development Specialists,Training and Development Specialists,36,0.014,269710,59020,269710,63350
+124,11-2011,0.039,117810,Bachelor's degree,Advertising and Promotions Managers,Advertising and Promotions Managers,35,0.039,28860,100810,28860,117810
+149,53-1011,0.066,51900,High school diploma or equivalent,Aircraft Cargo Handling Supervisors,Aircraft Cargo Handling Supervisors,35,0.066,7460,47360,7460,51900
+393,39-3091,0.72,22000,No formal educational credential,Amusement and Recreation Attendants,Amusement and Recreation Attendants,35,0.72,286740,20160,286740,22000
+515,17-1021,0.88,66160,Bachelor's degree,Cartographers and Photogrammetrists,Cartographers and Photogrammetrists,35,0.88,12100,62750,12100,66160
+487,51-8091,0.85,59430,High school diploma or equivalent,Chemical Plant and System Operators,Chemical Plant and System Operators,35,0.85,33300,59920,33300,59430
+119,27-1021,0.037,70880,Bachelor's degree,Commercial and Industrial Designers,Commercial and Industrial Designers,35,0.037,31860,67790,31860,70880
+309,47-5041,0.54,52650,No formal educational credential,Continuous Mining Machine Operators,Continuous Mining Machine Operators,35,0.54,12030,51840,12030,52650
+285,43-4031,0.46,39160,High school diploma or equivalent,"Court, Municipal and License Clerks","Court, Municipal and License Clerks",35,0.46,128620,36670,128620,39160
+302,41-9011,0.51,30570,High school diploma or equivalent,Demonstrators and Product Promoters,Demonstrators and Product Promoters,35,0.51,86500,25610,86500,30570
+433,47-2081,0.79,47400,No formal educational credential,Drywall and Ceiling Tile Installers,Drywall and Ceiling Tile Installers,35,0.79,93180,41090,93180,47400
+443,17-3012,0.81,63390,Associate's degree,Electrical and Electronics Drafters,Electrical and Electronics Drafters,35,0.81,26750,59970,26750,63390
+449,51-2031,0.82,43090,High school diploma or equivalent,Engine and Other Machine Assemblers,Engine and Other Machine Assemblers,35,0.82,38150,41210,38150,43090
+456,45-3011,0.83,30740,No formal educational credential,Fishers and Related Fishing Workers,Fishers and Related Fishing Workers,35,0.83,520,27110,520,30740
+278,19-4093,0.42,38630,Associate's degree,Forest and Conservation Technicians,Forest and Conservation Technicians,35,0.42,30090,35560,30090,38630
+307,47-4041,0.53,45500,High school diploma or equivalent,Hazardous Materials Removal Workers,Hazardous Materials Removal Workers,35,0.53,44280,40640,44280,45500
+604,43-4081,0.94,23530,High school diploma or equivalent,"Hotel, Motel and Resort Desk Clerks","Hotel, Motel and Resort Desk Clerks",35,0.94,248440,22070,248440,23530
+326,25-4013,0.59,44780,Bachelor's degree,Museum Technicians and Conservators,Museum Technicians and Conservators,35,0.59,10970,40040,10970,44780
+618,51-5113,0.95,33270,High school diploma or equivalent,Print Binding and Finishing Workers,Print Binding and Finishing Workers,35,0.95,52730,31410,52730,33270
+459,53-4031,0.83,58220,High school diploma or equivalent,Railroad Conductors and Yardmasters,Railroad Conductors and Yardmasters,35,0.83,42880,57480,42880,58220
+306,47-5012,0.53,57140,No formal educational credential,"Rotary Drill Operators, Oil and Gas","Rotary Drill Operators, Oil and Gas",35,0.53,17400,54430,17400,57140
+185,21-1093,0.13,34120,High school diploma or equivalent,Social and Human Service Assistants,Social and Human Service Assistants,35,0.13,360650,31810,360650,34120
+48,25-3999,0.0095,30900,Bachelor's degree,"Teachers and Instructors, All Other","Teachers and Instructors, All Other",35,0.0095,609960,28010,609960,30900
+372,53-3021,0.67,41780,High school diploma or equivalent,"Bus Drivers, Transit and Intercity","Bus Drivers, Transit and Intercity",34,0.67,169680,39790,169680,41780
+566,51-7011,0.92,34800,High school diploma or equivalent,Cabinetmakers and Bench Carpenters,Cabinetmakers and Bench Carpenters,34,0.92,97980,33050,97980,34800
+256,53-7061,0.37,24660,No formal educational credential,Cleaners of Vehicles and Equipment,Cleaners of Vehicles and Equipment,34,0.37,348770,22220,348770,24660
+403,51-2021,0.73,35340,High school diploma or equivalent,"Coil Winders, Tapers and Finishers","Coil Winders, Tapers and Finishers",34,0.73,14090,33940,14090,35340
+630,11-3111,0.96,126900,Bachelor's degree,Compensation and Benefits Managers,Benefits Managers,17,0.96,15230,116240,15230,126900
+488,47-5021,0.85,51240,High school diploma or equivalent,"Earth Drillers, Except Oil and Gas","Earth Drillers, Except Oil and Gas",34,0.85,18500,44360,18500,51240
+108,17-3026,0.03,56920,Associate's degree,Industrial Engineering Technicians,Industrial Engineering Technicians,34,0.03,63220,53330,63220,56920
+263,17-3027,0.38,57180,Associate's degree,Mechanical Engineering Technicians,Mechanical Engineering Technicians,34,0.38,45510,54480,45510,57180
+501,45-2090,0.87,24860,No formal educational credential,Miscellaneous Agricultural Workers,Miscellaneous Agricultural Workers,34,0.87,342870,22520,342870,24860
+382,51-9122,0.69,46270,High school diploma or equivalent,"Painters, Transportation Equipment","Painters, Transportation Equipment",34,0.69,54860,42150,54860,46270
+355,51-8012,0.64,81500,High school diploma or equivalent,Power Distributors and Dispatchers,Power Distributors and Dispatchers,34,0.64,11380,81900,11380,81500
+534,47-2171,0.9,53600,High school diploma or equivalent,Reinforcing Iron and Rebar Workers,Reinforcing Iron and Rebar Workers,34,0.9,20020,47600,20020,53600
+186,25-3021,0.13,43150,High school diploma or equivalent,Self-Enrichment Education Teachers,Self-Enrichment Education Teachers,34,0.13,229840,37330,229840,43150
+647,51-6042,0.97,26530,High school diploma or equivalent,Shoe Machine Operators and Tenders,Shoe Machine Operators and Tenders,34,0.97,3500,26150,3500,26530
+357,19-4061,0.65,46820,Bachelor's degree,Social Science Research Assistants,Social Science Research Assistants,34,0.65,30030,43190,30030,46820
+240,19-1023,0.3,64890,Bachelor's degree,Zoologists and Wildlife Biologists,Zoologists and Wildlife Biologists,34,0.3,17720,60520,17720,64890
+39,19-3091,0.0077,66440,Master's degree,Anthropologists and Archeologists,Anthropologists and Archeologists,33,0.0077,6470,63190,6470,66440
+331,33-3012,0.6,46750,High school diploma or equivalent,Correctional Officers and Jailers,Correctional Officers and Jailers,33,0.6,431600,42820,431600,46750
+268,47-4021,0.39,76860,High school diploma or equivalent,Elevator Installers and Repairers,Elevator Installers and Repairers,33,0.39,22240,78890,22240,76860
+38,25-9021,0.0075,52150,Master's degree,Farm and Home Management Advisors,Farm and Home Management Advisors,33,0.0075,8620,49490,8620,52150
+289,33-2021,0.48,61660,Postsecondary nondegree award,Fire Inspectors and Investigators,Fire Inspectors and Investigators,33,0.48,11910,58440,11910,61660
+158,19-1012,0.077,71270,Bachelor's degree,Food Scientists and Technologists,Food Scientists and Technologists,33,0.077,14200,63950,14200,71270
+685,13-1032,0.98,65930,Postsecondary nondegree award,"Insurance Appraisers, Auto Damage","Insurance Appraisers, Auto Damage",33,0.98,15130,63510,15130,65930
+476,51-4192,0.84,47720,High school diploma or equivalent,"Layout Workers, Metal and Plastic","Layout Workers, Metal and Plastic",33,0.84,9070,45820,9070,47720
+656,51-9083,0.97,34220,High school diploma or equivalent,Ophthalmic Laboratory Technicians,Ophthalmic Laboratory Technicians,33,0.97,28570,30640,28570,34220
+543,49-9097,0.9,62710,High school diploma or equivalent,Signal and Track Switch Repairers,Signal and Track Switch Repairers,33,0.9,8680,65350,8680,62710
+130,15-1132,0.042,104300,Bachelor's degree,"Software Developers, Applications","Software Developers, Applications",33,0.042,794000,100080,794000,104300
+457,47-2221,0.83,56040,High school diploma or equivalent,Structural Iron and Steel Workers,Structural Iron and Steel Workers,33,0.83,69440,51800,69440,56040
+635,17-3031,0.96,45490,High school diploma or equivalent,Surveying and Mapping Technicians,Surveying and Mapping Technicians,33,0.96,53920,42450,53920,45490
+30,11-3131,0.0063,115180,Bachelor's degree,Training and Development Managers,Training and Development Managers,33,0.0063,32880,105830,32880,115180
+401,11-3011,0.73,98930,Bachelor's degree,Administrative Services Managers,Administrative Services Managers,32,0.73,266280,90050,266280,98930
+305,17-3011,0.52,54290,Associate's degree,Architectural and Civil Drafters,Architectural and Civil Drafters,32,0.52,96810,51640,96810,54290
+371,19-2021,0.67,94840,Bachelor's degree,Atmospheric and Space Scientists,Atmospheric and Space Scientists,32,0.67,9800,92460,9800,94840
+66,19-1029,0.015,77830,Bachelor's degree,"Biological Scientists, All Other","Biological Scientists, All Other",32,0.015,35110,74790,35110,77830
+460,35-2012,0.83,26370,No formal educational credential,"Cooks, Institution and Cafeteria","Cooks, Institution and Cafeteria",32,0.83,409850,24750,409850,26370
+315,43-4051,0.55,35170,High school diploma or equivalent,Customer Service Representatives,Customer Service Representatives,32,0.55,2707040,32300,2707040,35170
+26,51-6092,0.0049,48460,High school diploma or equivalent,Fabric and Apparel Patternmakers,Fabric and Apparel Patternmakers,32,0.0049,5310,39650,5310,48460
+245,13-2099,0.33,76230,Bachelor's degree,"Financial Specialists, All Other","Financial Specialists, All Other",32,0.33,123270,69470,123270,76230
+392,51-6011,0.71,23210,No formal educational credential,Laundry and Dry-Cleaning Workers,Laundry and Dry-Cleaning Workers,32,0.71,207710,21510,207710,23210
+68,27-1014,0.015,72200,Bachelor's degree,Multimedia Artists and Animators,Multimedia Artists and Animators,32,0.015,29810,65300,29810,72200
+539,51-4062,0.9,44490,High school diploma or equivalent,"Patternmakers, Metal and Plastic","Patternmakers, Metal and Plastic",32,0.9,3420,44210,3420,44490
+660,51-5111,0.97,40640,Postsecondary nondegree award,Prepress Technicians and Workers,Prepress Technicians and Workers,32,0.97,33340,38930,33340,40640
+396,53-7121,0.72,39590,No formal educational credential,"Tank Car, Truck and Ship Loaders","Tank Car, Truck and Ship Loaders",32,0.72,10920,35770,10920,39590
+388,53-2022,0.71,52380,High school diploma or equivalent,Airfield Operations Specialists,Airfield Operations Specialists,31,0.71,8760,48910,8760,52380
+234,27-2021,0.28,83730,No formal educational credential,Athletes and Sports Competitors,Athletes and Sports Competitors,31,0.28,10260,47710,10260,83730
+212,15-1799,0.22,88880,Bachelor's degree,"Computer Occupations, All Other","Computer Occupations, All Other",31,0.22,261210,86510,261210,88880
+251,29-2032,0.35,71750,Associate's degree,Diagnostic Medical Sonographers,Diagnostic Medical Sonographers,31,0.35,65790,69650,65790,71750
+502,45-4011,0.87,31200,High school diploma or equivalent,Forest and Conservation Workers,Forest and Conservation Workers,31,0.87,7170,26940,7170,31200
+195,11-1021,0.16,122090,Bachelor's degree,General and Operations Managers,General and Operations Managers,31,0.16,2188870,99310,2188870,122090
+381,37-2012,0.69,23830,No formal educational credential,Maids and Housekeeping Cleaners,Maids and Housekeeping Cleaners,31,0.69,924640,21820,924640,23830
+581,51-4061,0.93,50360,High school diploma or equivalent,"Model Makers, Metal and Plastic","Model Makers, Metal and Plastic",31,0.93,6250,48550,6250,50360
+614,51-8011,0.95,91370,High school diploma or equivalent,Nuclear Power Reactor Operators,Nuclear Power Reactor Operators,31,0.95,7170,91170,7170,91370
+101,31-2011,0.028,59530,Associate's degree,Occupational Therapy Assistants,Occupational Therapy Assistants,31,0.028,38170,59010,38170,59530
+9,29-1022,0.0036,232870,Doctoral or professional degree,Oral and Maxillofacial Surgeons,Oral and Maxillofacial Surgeons,31,0.0036,5380,232870,5380,232870
+609,23-2011,0.94,53180,Associate's degree,Paralegals and Legal Assistants,Paralegals and Legal Assistants,31,0.94,277310,49500,277310,53180
+171,27-3011,0.1,48170,Bachelor's degree,Radio and Television Announcers,Radio and Television Announcers,31,0.1,29210,31400,29210,48170
+174,29-2054,0.1,50520,Associate's degree,Respiratory Therapy Technicians,Respiratory Therapy Technicians,31,0.1,10600,49780,10600,50520
+577,53-7011,0.93,33870,No formal educational credential,Conveyor Operators and Tenders,Conveyor Operators and Tenders,30,0.93,28590,31410,28590,33870
+440,47-5011,0.8,51140,No formal educational credential,"Derrick Operators, Oil and Gas","Derrick Operators, Oil and Gas",30,0.8,11580,48130,11580,51140
+444,17-3024,0.81,57860,Associate's degree,Electro-Mechanical Technicians,Electro-Mechanical Technicians,30,0.81,13710,55610,13710,57860
+3,11-9161,0.003,78060,Bachelor's degree,Emergency Management Directors,Emergency Management Directors,30,0.003,9570,70500,9570,78060
+640,49-9093,0.96,27670,No formal educational credential,"Fabric Menders, Except Garment",Fabric Menders,30,0.96,550,26920,550,27670
+374,49-9041,0.67,51890,High school diploma or equivalent,Industrial Machinery Mechanics,Industrial Machinery Mechanics,30,0.67,334490,50040,334490,51890
+107,11-3051,0.03,107060,Bachelor's degree,Industrial Production Managers,Industrial Production Managers,30,0.03,168400,97140,168400,107060
+356,47-2132,0.64,51100,High school diploma or equivalent,"Insulation Workers, Mechanical","Insulation Workers, Mechanical",30,0.64,27270,45430,27270,51100
+580,53-7063,0.93,30490,No formal educational credential,Machine Feeders and Offbearers,Machine Feeders and Offbearers,30,0.93,88070,28410,88070,30490
+499,49-9043,0.86,46000,High school diploma or equivalent,"Maintenance Workers, Machinery","Maintenance Workers, Machinery",30,0.86,89630,44550,89630,46000
+62,21-1013,0.014,54090,Master's degree,Marriage and Family Therapists,Marriage and Family Therapists,30,0.014,36960,49170,36960,54090
+180,29-2033,0.13,75960,Associate's degree,Nuclear Medicine Technologists,Nuclear Medicine Technologists,30,0.13,19650,74350,19650,75960
+666,43-3051,0.97,43580,High school diploma or equivalent,Payroll and Timekeeping Clerks,Payroll and Timekeeping Clerks,30,0.97,159650,42390,159650,43580
+281,19-2099,0.43,98460,Bachelor's degree,"Physical Scientists, All Other","Physical Scientists, All Other",30,0.43,18960,96070,18960,98460
+354,43-5081,0.64,26670,No formal educational credential,Stock Clerks and Order Fillers,Stock Clerks and Order Fillers,30,0.64,2016340,23840,2016340,26670
+494,53-4041,0.86,62380,High school diploma or equivalent,Subway and Streetcar Operators,Subway and Streetcar Operators,30,0.86,12350,64680,12350,62380
+519,47-2053,0.88,45990,High school diploma or equivalent,Terrazzo Workers and Finishers,Terrazzo Workers and Finishers,30,0.88,3420,40930,3420,45990
+99,19-1021,0.027,94340,Doctoral or professional degree,Biochemists and Biophysicists,Biochemists and Biophysicists,29,0.027,29200,82180,29200,94340
+413,17-3022,0.75,52120,Associate's degree,Civil Engineering Technicians,Civil Engineering Technicians,29,0.75,72150,49980,72150,52120
+651,51-9081,0.97,40760,High school diploma or equivalent,Dental Laboratory Technicians,Dental Laboratory Technicians,29,0.97,37110,37680,37110,40760
+420,49-9094,0.77,42180,High school diploma or equivalent,Locksmiths and Safe Repairers,Locksmiths and Safe Repairers,29,0.77,18640,40420,18640,42180
+284,51-9082,0.45,39880,High school diploma or equivalent,Medical Appliance Technicians,Medical Appliance Technicians,29,0.45,14570,35980,14570,39880
+659,39-3021,0.97,24750,No formal educational credential,Motion Picture Projectionists,Motion Picture Projectionists,29,0.97,5480,22100,5480,24750
+72,27-2041,0.015,60630,Bachelor's degree,Music Directors and Composers,Music Directors and Composers,29,0.015,18380,50110,18380,60630
+83,31-2021,0.018,56850,Associate's degree,Physical Therapist Assistants,Physical Therapist Assistants,29,0.018,85580,56610,85580,56850
+572,51-9399,0.92,32380,High school diploma or equivalent,"Production Workers, All Other","Production Workers, All Other",29,0.92,251670,28770,251670,32380
+481,43-9081,0.84,39640,Bachelor's degree,Proofreaders and Copy Markers,Proofreaders and Copy Markers,29,0.84,11430,36960,11430,39640
+333,51-3023,0.6,27040,No formal educational credential,Slaughterers and Meat Packers,Slaughterers and Meat Packers,29,0.6,80780,26590,80780,27040
+187,27-4014,0.13,65240,Postsecondary nondegree award,Sound Engineering Technicians,Sound Engineering Technicians,29,0.13,15210,53680,15210,65240
+469,39-6011,0.83,24910,High school diploma or equivalent,Baggage Porters and Bellhops,Baggage Porters and Bellhops,28,0.83,44750,22260,44750,24910
+359,15-1150,0.65,56600,Bachelor's degree,Computer Support Specialists,Computer Support Specialists,28,0.65,791580,52160,791580,56600
+11,29-1031,0.0039,59670,Bachelor's degree,Dietitians and Nutritionists,Dietitians and Nutritionists,28,0.0039,61430,58920,61430,59670
+49,19-4092,0.0095,60690,Bachelor's degree,Forensic Science Technicians,Forensic Science Technicians,28,0.0095,14800,56750,14800,60690
+265,27-3091,0.38,51260,Bachelor's degree,Interpreters and Translators,Interpreters and Translators,28,0.38,51350,46120,51350,51260
+616,43-4121,0.95,27450,High school diploma or equivalent,"Library Assistants, Clerical","Library Assistants, Clerical",28,0.95,98560,25220,98560,27450
+563,43-4131,0.92,40300,High school diploma or equivalent,Loan Interviewers and Clerks,Loan Interviewers and Clerks,28,0.92,224340,38630,224340,40300
+117,15-2031,0.035,84340,Bachelor's degree,Operations Research Analysts,Operations Research Analysts,28,0.035,109150,79200,109150,84340
+475,47-2161,0.84,44070,No formal educational credential,Plasterers and Stucco Masons,Plasterers and Stucco Masons,28,0.84,22810,38890,22810,44070
+375,43-5052,0.68,50610,High school diploma or equivalent,Postal Service Mail Carriers,Postal Service Mail Carriers,28,0.68,328950,58110,328950,50610
+201,27-3031,0.18,66540,Bachelor's degree,Public Relations Specialists,Public Relations Specialists,28,0.18,226940,58020,226940,66540
+177,27-3022,0.11,49770,Bachelor's degree,Reporters and Correspondents,Reporters and Correspondents,28,0.11,40090,37820,40090,49770
+31,29-1127,0.0064,78210,Master's degree,Speech-Language Pathologists,Speech-Language Pathologists,28,0.0064,135980,74680,135980,78210
+613,43-3011,0.95,37620,High school diploma or equivalent,Bill and Account Collectors,Bill and Account Collectors,27,0.95,298960,35350,298960,37620
+455,47-2021,0.82,53440,High school diploma or equivalent,Brickmasons and Blockmasons,Brickmasons and Blockmasons,27,0.82,64370,49250,64370,53440
+214,17-2061,0.22,118700,Bachelor's degree,Computer Hardware Engineers,Computer Hardware Engineers,27,0.22,72950,115080,72950,118700
+509,47-2043,0.87,38890,No formal educational credential,Floor Sanders and Finishers,Floor Sanders and Finishers,27,0.87,4590,36860,4590,38890
+492,35-3041,0.86,23490,No formal educational credential,"Food Servers, Nonrestaurant","Food Servers, Nonrestaurant",27,0.86,261520,21240,261520,23490
+370,51-4071,0.67,36030,High school diploma or equivalent,Foundry Mold and Coremakers,Foundry Mold and Coremakers,27,0.67,12810,34790,12810,36030
+511,47-4051,0.87,39540,High school diploma or equivalent,Highway Maintenance Workers,Highway Maintenance Workers,27,0.87,143320,38130,143320,39540
+437,45-4022,0.79,38880,High school diploma or equivalent,Logging Equipment Operators,Logging Equipment Operators,27,0.79,27250,37490,27250,38880
+610,39-5092,0.95,24330,Postsecondary nondegree award,Manicurists and Pedicurists,Manicurists and Pedicurists,27,0.95,90630,22150,90630,24330
+426,31-9093,0.78,35960,High school diploma or equivalent,Medical Equipment Preparers,Medical Equipment Preparers,27,0.78,52500,34400,52500,35960
+232,49-9062,0.27,50910,Associate's degree,Medical Equipment Repairers,Medical Equipment Repairers,27,0.27,43370,48070,43370,50910
+7,29-2091,0.0035,69920,Master's degree,Orthotists and Prosthetists,Orthotists and Prosthetists,27,0.0035,7500,65630,7500,69920
+264,53-7064,0.38,24430,No formal educational credential,"Packers and Packagers, Hand","Packers and Packagers, Hand",27,0.38,705660,22130,705660,24430
+482,33-3041,0.84,39650,High school diploma or equivalent,Parking Enforcement Workers,Parking Enforcement Workers,27,0.84,8920,37950,8920,39650
+324,13-2052,0.58,123100,Bachelor's degree,Personal Financial Advisors,Financial Advisors,18,0.58,201850,90530,201850,123100
+531,53-3041,0.89,26790,No formal educational credential,Taxi Drivers and Chauffeurs,Drivers,7,0.89,188860,24300,188860,26790
+384,49-3093,0.7,27150,High school diploma or equivalent,Tire Repairers and Changers,Tire Repairers and Changers,27,0.7,109350,25040,109350,27150
+322,33-3052,0.57,67850,High school diploma or equivalent,Transit and Railroad Police,Transit and Railroad Police,27,0.57,4810,66610,4810,67850
+184,19-3051,0.13,73060,Master's degree,Urban and Regional Planners,Urban and Regional Planners,27,0.13,34810,70020,34810,73060
+442,43-9022,0.81,39970,High school diploma or equivalent,Word Processors and Typists,Word Processors and Typists,27,0.81,67230,38740,67230,39970
+643,43-3021,0.96,37570,High school diploma or equivalent,Billing and Posting Clerks,Billing and Posting Clerks,26,0.96,485220,36150,485220,37570
+351,51-9031,0.64,29580,No formal educational credential,"Cutters and Trimmers, Hand","Cutters and Trimmers, Hand",26,0.64,14250,27600,14250,29580
+258,47-5081,0.37,37160,High school diploma or equivalent,Helpers–Extraction Workers,Helpers–Extraction Workers,26,0.37,17660,35790,17660,37160
+365,51-9198,0.66,26930,No formal educational credential,Helpers–Production Workers,Helpers–Production Workers,26,0.66,429890,24830,429890,26930
+16,25-9031,0.0042,65500,Master's degree,Instructional Coordinators,Instructional Coordinators,26,0.0042,147330,62460,147330,65500
+260,53-7111,0.37,56370,No formal educational credential,Mine Shuttle Car Operators,Mine Shuttle Car Operators,26,0.37,1590,56450,1590,56370
+231,31-2012,0.27,31840,High school diploma or equivalent,Occupational Therapy Aides,Occupational Therapy Aides,26,0.27,7210,28330,7210,31840
+503,51-4052,0.87,37300,High school diploma or equivalent,"Pourers and Casters, Metal","Pourers and Casters, Metal",26,0.87,8560,36180,8560,37300
+583,51-3021,0.93,31740,No formal educational credential,Butchers and Meat Cutters,Butchers and Meat Cutters,25,0.93,133880,29870,133880,31740
+32,15-1121,0.0065,91620,Bachelor's degree,Computer Systems Analysts,Computer Systems Analysts,25,0.0065,568960,87220,568960,91620
+661,41-2021,0.97,29390,No formal educational credential,Counter and Rental Clerks,Counter and Rental Clerks,25,0.97,450330,25550,450330,29390
+536,53-7021,0.9,55280,High school diploma or equivalent,Crane and Tower Operators,Crane and Tower Operators,25,0.9,45020,52170,45020,55280
+8,21-1022,0.0035,55510,Master's degree,Healthcare Social Workers,Healthcare Social Workers,25,0.0035,159310,53760,159310,55510
+363,53-7041,0.65,50020,No formal educational credential,Hoist and Winch Operators,Hoist and Winch Operators,25,0.65,2960,42530,2960,50020
+547,49-9011,0.91,40420,High school diploma or equivalent,Mechanical Door Repairers,Mechanical Door Repairers,25,0.91,19840,38480,19840,40420
+523,31-9094,0.89,37150,Postsecondary nondegree award,Medical Transcriptionists,Medical Transcriptionists,25,0.89,54070,35720,54070,37150
+80,11-9121,0.018,136150,Bachelor's degree,Natural Sciences Managers,Natural Sciences Managers,25,0.018,54780,119850,54780,136150
+452,39-2021,0.82,24420,High school diploma or equivalent,Nonfarm Animal Caretakers,Nonfarm Animal Caretakers,25,0.82,187360,21990,187360,24420
+47,21-1015,0.0094,38740,Master's degree,Rehabilitation Counselors,Rehabilitation Counselors,25,0.0094,103030,34670,103030,38740
+461,53-5011,0.83,46170,No formal educational credential,Sailors and Marine Oilers,Sailors and Marine Oilers,25,0.83,32530,42060,32530,46170
+27,27-1027,0.0055,57600,Bachelor's degree,Set and Exhibit Designers,Set and Exhibit Designers,25,0.0055,12060,50990,12060,57600
+86,19-1013,0.021,69290,Bachelor's degree,Soil and Plant Scientists,Soil and Plant Scientists,25,0.021,14690,62300,14690,69290
+538,53-6051,0.9,72650,High school diploma or equivalent,Transportation Inspectors,Transportation Inspectors,25,0.9,27430,72220,27430,72650
+421,37-3013,0.77,37310,High school diploma or equivalent,Tree Trimmers and Pruners,Tree Trimmers and Pruners,25,0.77,40680,35030,40680,37310
+589,13-2011,0.94,76730,Bachelor's degree,Accountants and Auditors,Accountants and Auditors,24,0.94,1246540,68150,1246540,76730
+312,41-3011,0.54,63660,High school diploma or equivalent,Advertising Sales Agents,Advertising Sales Agents,24,0.54,141100,50380,141100,63660
+696,43-5011,0.99,44250,High school diploma or equivalent,Cargo and Freight Agents,Cargo and Freight Agents,24,0.99,88920,41920,88920,44250
+241,35-2013,0.3,42220,Postsecondary nondegree award,"Cooks, Private Household","Cooks, Private Household",24,0.3,370,32060,370,42220
+508,35-2021,0.87,22920,No formal educational credential,Food Preparation Workers,Food Preparation Workers,24,0.87,850670,21440,850670,22920
+397,49-9031,0.72,40390,High school diploma or equivalent,Home Appliance Repairers,Home Appliance Repairers,24,0.72,33480,37570,33480,40390
+28,11-3121,0.0055,120210,Bachelor's degree,Human Resources Managers,Human Resources Managers,24,0.0055,129810,106910,129810,120210
+699,15-2091,0.99,58490,Bachelor's degree,Mathematical Technicians,Mathematical Technicians,24,0.99,510,49660,510,58490
+25,21-1014,0.0048,46050,Master's degree,Mental Health Counselors,Mental Health Counselors,24,0.0048,139820,42840,139820,46050
+485,43-5041,0.85,41890,High school diploma or equivalent,"Meter Readers, Utilities","Meter Readers, Utilities",24,0.85,34070,38940,34070,41890
+335,31-2022,0.61,27890,High school diploma or equivalent,Physical Therapist Aides,Physical Therapist Aides,24,0.61,50030,25680,50030,27890
+466,51-5112,0.83,37460,High school diploma or equivalent,Printing Press Operators,Printing Press Operators,24,0.83,169910,35530,169910,37460
+17,19-3039,0.0043,94650,Master's degree,"Psychologists, All Other","Psychologists, All Other",24,0.0043,13310,95710,13310,94650
+497,41-9022,0.86,59360,High school diploma or equivalent,Real Estate Sales Agents,Real Estate Sales Agents,24,0.86,151840,44090,151840,59360
+376,47-5071,0.68,40480,No formal educational credential,"Roustabouts, Oil and Gas","Roustabouts, Oil and Gas",24,0.68,51290,37340,51290,40480
+514,51-9141,0.88,37890,Associate's degree,Semiconductor Processors,Semiconductor Processors,24,0.88,24430,35660,24430,37890
+530,51-6031,0.89,25830,No formal educational credential,Sewing Machine Operators,Sewing Machine Operators,24,0.89,139500,23670,139500,25830
+608,45-2011,0.94,44260,Bachelor's degree,Agricultural Inspectors,Agricultural Inspectors,23,0.94,14710,42800,14710,44260
+178,53-2021,0.11,118200,Associate's degree,Air Traffic Controllers,Air Traffic Controllers,23,0.11,23240,122410,23240,118200
+644,53-6011,0.97,46680,High school diploma or equivalent,Bridge and Lock Tenders,Bridge and Lock Tenders,23,0.97,3510,49090,3510,46680
+151,27-3021,0.067,78200,Bachelor's degree,Broadcast News Analysts,Broadcast News Analysts,23,0.067,5070,56680,5070,78200
+75,19-1031,0.016,65130,Bachelor's degree,Conservation Scientists,Conservation Scientists,23,0.016,20470,61810,20470,65130
+599,43-5021,0.94,29920,High school diploma or equivalent,Couriers and Messengers,Couriers and Messengers,23,0.94,74120,28170,74120,29920
+110,15-1141,0.03,87130,Bachelor's degree,Database Administrators,Database Administrators,23,0.03,113730,84950,113730,87130
+81,17-2081,0.018,88530,Bachelor's degree,Environmental Engineers,Environmental Engineers,23,0.018,52280,84890,52280,88530
+655,45-4023,0.97,38150,High school diploma or equivalent,Log Graders and Scalers,Log Graders and Scalers,23,0.97,3020,37090,3020,38150
+6,29-1122,0.0035,83730,Master's degree,Occupational Therapists,Occupational Therapists,23,0.0035,118070,81910,118070,83730
+15,29-1060,0.0042,210170,Doctoral or professional degree,Physicians and Surgeons,Physicians and Surgeons,23,0.0042,649850,205560,649850,210170
+92,27-2012,0.022,93840,Bachelor's degree,Producers and Directors,Producers and Directors,23,0.022,114510,70950,114510,93840
+132,29-2053,0.043,35870,Postsecondary nondegree award,Psychiatric Technicians,Psychiatric Technicians,23,0.043,61720,30970,61720,35870
+1,29-1125,0.0028,48190,Bachelor's degree,Recreational Therapists,Recreational Therapists,23,0.0028,18100,46410,18100,48190
+410,47-2044,0.75,44770,No formal educational credential,Tile and Marble Setters,Tile and Marble Setters,23,0.75,36830,40460,36830,44770
+546,39-7011,0.91,28100,High school diploma or equivalent,Tour Guides and Escorts,Tour Guides and Escorts,23,0.91,38660,24920,38660,28100
+295,17-2021,0.49,77330,Bachelor's degree,Agricultural Engineers,Agricultural Engineers,22,0.49,1980,73640,1980,77330
+210,33-9011,0.21,36600,High school diploma or equivalent,Animal Control Workers,Animal Control Workers,22,0.21,12970,34550,12970,36600
+238,19-4021,0.3,46130,Bachelor's degree,Biological Technicians,Biological Technicians,22,0.3,74720,42520,74720,46130
+649,13-1074,0.97,47290,No formal educational credential,Farm Labor Contractors,Farm Labor Contractors,22,0.97,810,35160,810,47290
+244,27-4032,0.31,82190,Bachelor's degree,Film and Video Editors,Film and Video Editors,22,0.31,29880,62760,29880,82190
+565,41-3021,0.92,67760,High school diploma or equivalent,Insurance Sales Agents,Insurance Sales Agents,22,0.92,385700,49990,385700,67760
+698,13-2053,0.99,75480,Bachelor's degree,Insurance Underwriters,Insurance Underwriters,22,0.99,91650,67680,91650,75480
+629,43-9061,0.96,33010,High school diploma or equivalent,"Office Clerks, General","Office Clerks, General",22,0.96,2955550,30580,2955550,33010
+510,53-6021,0.87,23250,No formal educational credential,Parking Lot Attendants,Parking Lot Attendants,22,0.87,146350,21730,146350,23250
+112,25-1000,0.032,81880,High school diploma or equivalent,Postsecondary Teachers,Postsecondary Teachers,22,0.032,1530010,66500,1530010,81880
+150,29-1126,0.066,60640,Associate's degree,Respiratory Therapists,Respiratory Therapists,22,0.066,126770,58670,126770,60640
+633,47-5051,0.96,34860,No formal educational credential,"Rock Splitters, Quarry","Rock Splitters, Quarry",22,0.96,3770,34020,3770,34860
+366,43-9111,0.66,48300,Bachelor's degree,Statistical Assistants,Statistical Assistants,22,0.66,10900,46850,10900,48300
+247,29-2055,0.34,46800,Postsecondary nondegree award,Surgical Technologists,Surgical Technologists,22,0.34,105720,45160,105720,46800
+592,35-3031,0.94,24410,No formal educational credential,Waiters and Waitresses,Waiters and Waitresses,22,0.94,2564610,19990,2564610,24410
+407,27-4012,0.74,45430,Associate's degree,Broadcast Technicians,Broadcast Technicians,21,0.74,30330,38550,30330,45430
+512,47-2061,0.88,37890,No formal educational credential,Construction Laborers,Construction Laborers,21,0.88,912100,33430,912100,37890
+154,11-9021,0.071,99510,Bachelor's degree,Construction Managers,Construction Managers,21,0.071,249650,89300,249650,99510
+500,43-4021,0.86,37660,High school diploma or equivalent,Correspondence Clerks,Correspondence Clerks,21,0.86,6780,36370,6780,37660
+682,51-9194,0.98,34390,High school diploma or equivalent,Etchers and Engravers,Etchers and Engravers,21,0.98,9520,31110,9520,34390
+160,33-3031,0.08,54760,Bachelor's degree,Fish and Game Wardens,Fish and Game Wardens,21,0.08,6610,51730,6610,54760
+162,11-9051,0.083,56010,High school diploma or equivalent,Food Service Managers,Food Service Managers,21,0.083,201470,50820,201470,56010
+155,27-2042,0.074,61862.4,No formal educational credential,Musicians and Singers,Musicians and Singers,21,0.074,40110,45000.6,40110,61862.4
+391,29-2081,0.71,37860,High school diploma or equivalent,"Opticians, Dispensing","Opticians, Dispensing",21,0.71,75270,35530,75270,37860
+454,47-2072,0.82,61740,High school diploma or equivalent,Pile-Driver Operators,Pile-Driver Operators,21,0.82,3570,55070,3570,61740
+625,43-5051,0.95,48360,High school diploma or equivalent,Postal Service Clerks,Postal Service Clerks,21,0.95,82030,56790,82030,48360
+486,51-8013,0.85,73800,High school diploma or equivalent,Power Plant Operators,Power Plant Operators,21,0.85,35010,74690,35010,73800
+386,49-2091,0.7,61390,Associate's degree,Avionics Technicians,Avionics Technicians,20,0.7,17330,60760,17330,61390
+120,17-2031,0.037,89970,Bachelor's degree,Biomedical Engineers,Biomedical Engineers,20,0.037,20590,85620,20590,89970
+169,35-1011,0.1,47390,High school diploma or equivalent,Chefs and Head Cooks,Chefs and Head Cooks,20,0.1,134190,43180,134190,47390
+319,19-4031,0.57,49770,Associate's degree,Chemical Technicians,Chemical Technicians,20,0.57,65510,45840,65510,49770
+293,15-1131,0.48,85180,Bachelor's degree,Computer Programmers,Computer Programmers,20,0.48,271200,79840,271200,85180
+183,29-2051,0.13,29360,Associate's degree,Dietetic Technicians,Dietetic Technicians,20,0.13,32240,26350,32240,29360
+674,53-3031,0.98,28440,High school diploma or equivalent,Driver/Sales Workers,Driver/Sales Workers,20,0.98,426310,22830,426310,28440
+172,17-2071,0.1,98620,Bachelor's degree,Electrical Engineers,Electrical Engineers,20,0.1,183770,94210,183770,98620
+63,17-2199,0.014,99250,Bachelor's degree,"Engineers, All Other","Engineers, All Other",20,0.014,123390,97300,123390,99250
+408,47-3013,0.74,30980,High school diploma or equivalent,Helpers–Electricians,Helpers–Electricians,20,0.74,71890,29530,71890,30980
+425,45-3021,0.77,30740,No formal educational credential,Hunters and Trappers,Hunters and Trappers,20,0.77,520,27110,520,30740
+104,17-2112,0.029,88530,Bachelor's degree,Industrial Engineers,Industrial Engineers,20,0.029,256550,84310,256550,88530
+133,17-1012,0.045,68820,Bachelor's degree,Landscape Architects,Landscape Architects,20,0.045,19420,63480,19420,68820
+638,53-4011,0.96,61020,High school diploma or equivalent,Locomotive Engineers,Locomotive Engineers,20,0.96,39900,57670,39900,61020
+87,19-2032,0.021,101570,Bachelor's degree,Materials Scientists,Materials Scientists,20,0.021,7750,99430,7750,101570
+53,17-2141,0.011,89800,Bachelor's degree,Mechanical Engineers,Mechanical Engineers,20,0.011,285790,84190,285790,89800
+435,49-3052,0.79,37040,Postsecondary nondegree award,Motorcycle Mechanics,Motorcycle Mechanics,20,0.79,16000,34720,16000,37040
+364,37-2021,0.66,35020,High school diploma or equivalent,Pest Control Workers,Pest Control Workers,20,0.66,72830,33040,72830,35020
+562,29-2052,0.92,32170,High school diploma or equivalent,Pharmacy Technicians,Pharmacy Technicians,20,0.92,398390,30920,398390,32170
+190,29-1071,0.14,102090,Master's degree,Physician Assistants,Physician Assistants,20,0.14,104050,101480,104050,102090
+125,19-3094,0.039,112250,Master's degree,Political Scientists,Political Scientists,20,0.039,6350,114290,6350,112250
+248,29-1124,0.34,84980,Associate's degree,Radiation Therapists,Radiation Therapists,20,0.34,17450,80160,17450,84980
+148,39-9041,0.064,27690,High school diploma or equivalent,Residential Advisors,Residential Advisors,20,0.064,110330,25570,110330,27690
+296,47-5061,0.49,58110,High school diploma or equivalent,"Roof Bolters, Mining","Roof Bolters, Mining",20,0.49,3930,56780,3930,58110
+236,39-5094,0.29,35160,Postsecondary nondegree award,Skincare Specialists,Skincare Specialists,20,0.29,43980,30270,43980,35160
+79,17-2011,0.017,112010,Bachelor's degree,Aerospace Engineers,Aerospace Engineers,19,0.017,68510,109650,68510,112010
+159,13-1041,0.08,70250,Bachelor's degree,Compliance Officers,Compliance Officers,19,0.08,273910,66540,273910,70250
+198,13-2061,0.17,88940,Bachelor's degree,Financial Examiners,Financial Examiners,19,0.17,49750,79280,49750,88940
+507,51-7021,0.87,32330,High school diploma or equivalent,Furniture Finishers,Furniture Finishers,19,0.87,17370,30550,17370,32330
+269,43-3041,0.39,28120,High school diploma or equivalent,Gaming Cage Workers,Gaming Cage Workers,19,0.39,18810,25990,18810,28120
+429,51-8092,0.78,67980,High school diploma or equivalent,Gas Plant Operators,Gas Plant Operators,19,0.78,17350,67580,17350,67980
+276,23-1012,0.41,59840,Doctoral or professional degree,Judicial Law Clerks,Judicial Law Clerks,19,0.41,13410,51760,13410,59840
+692,25-4031,0.99,34780,Postsecondary nondegree award,Library Technicians,Library Technicians,19,0.99,93410,32890,93410,34780
+182,13-1111,0.13,91910,Bachelor's degree,Management Analysts,Management Analysts,19,0.13,637690,81330,637690,91910
+226,11-9199,0.25,112150,Bachelor's degree,"Managers, All Other","Managers, All Other",19,0.25,403670,104970,403670,112150
+88,17-2131,0.021,97050,Bachelor's degree,Materials Engineers,Materials Engineers,19,0.021,26800,93310,26800,97050
+378,17-3013,0.68,57480,Associate's degree,Mechanical Drafters,Mechanical Drafters,19,0.68,63630,54480,63630,57480
+447,43-6013,0.81,35060,High school diploma or equivalent,Medical Secretaries,Medical Secretaries,19,0.81,556820,33730,556820,35060
+343,53-5022,0.62,43340,Postsecondary nondegree award,Motorboat Operators,Motorboat Operators,19,0.62,3290,40210,3290,43340
+693,43-4141,0.99,36480,High school diploma or equivalent,New Accounts Clerks,New Accounts Clerks,19,0.99,41630,34990,41630,36480
+489,19-4051,0.85,77820,Associate's degree,Nuclear Technicians,Nuclear Technicians,19,0.85,6840,79140,6840,77820
+559,51-7032,0.91,47850,High school diploma or equivalent,"Patternmakers, Wood","Patternmakers, Wood",19,0.91,970,46510,970,47850
+406,39-9021,0.74,22710,No formal educational credential,Personal Care Aides,Personal Care Aides,19,0.74,1492250,21920,1492250,22710
+193,17-2171,0.16,147030,Bachelor's degree,Petroleum Engineers,Petroleum Engineers,19,0.16,32780,128230,32780,147030
+90,29-1123,0.021,87220,Doctoral or professional degree,Physical Therapists,Physical Therapists,19,0.021,216920,85400,216920,87220
+111,11-3061,0.03,117720,Bachelor's degree,Purchasing Managers,Purchasing Managers,19,0.03,71750,111590,71750,117720
+663,41-9021,0.97,79340,High school diploma or equivalent,Real Estate Brokers,Real Estate Brokers,19,0.97,40850,56790,40850,79340
+570,41-2031,0.92,27180,No formal educational credential,Retail Salespersons,Retail Salespersons,19,0.92,4528550,22680,4528550,27180
+453,47-2211,0.82,51080,High school diploma or equivalent,Sheet Metal Workers,Sheet Metal Workers,19,0.82,134450,46940,134450,51080
+664,43-2021,0.97,43030,High school diploma or equivalent,Telephone Operators,Telephone Operators,19,0.97,8860,37000,8860,43030
+473,51-4111,0.84,51610,High school diploma or equivalent,Tool and Die Makers,Tool and Die Makers,19,0.84,72210,51060,72210,51610
+537,53-6041,0.9,48650,High school diploma or equivalent,Traffic Technicians,Traffic Technicians,19,0.9,6410,45150,6410,48650
+123,27-3043,0.038,71920,Bachelor's degree,Writers and Authors,Writers and Authors,19,0.038,44690,61240,44690,71920
+77,17-2041,0.017,105420,Bachelor's degree,Chemical Engineers,Chemical Engineers,18,0.017,31990,98340,31990,105420
+58,27-2022,0.013,41000,Bachelor's degree,Coaches and Scouts,Coaches and Scouts,18,0.013,230930,31460,230930,41000
+428,43-9011,0.78,43880,High school diploma or equivalent,Computer Operators,Computer Operators,18,0.78,46810,42270,46810,43880
+601,35-2015,0.94,23130,No formal educational credential,"Cooks, Short Order","Cooks, Short Order",18,0.94,183990,21890,183990,23130
+336,39-3092,0.61,50470,High school diploma or equivalent,Costume Attendants,Costume Attendants,18,0.61,6640,45900,6640,50470
+194,43-9031,0.16,44380,Associate's degree,Desktop Publishers,Desktop Publishers,18,0.16,13090,41090,13090,44380
+217,13-2051,0.23,97640,Bachelor's degree,Financial Analysts,Financial Analysts,18,0.23,281610,81760,281610,97640
+152,11-3031,0.069,139720,Bachelor's degree,Financial Managers,Financial Managers,18,0.069,543300,121750,543300,139720
+257,39-4021,0.37,27110,High school diploma or equivalent,Funeral Attendants,Funeral Attendants,18,0.37,35770,24830,35770,27110
+235,39-1011,0.28,50810,High school diploma or equivalent,Gaming Supervisors,Gaming Supervisors,18,0.28,22130,50520,22130,50810
+573,47-3012,0.92,30200,No formal educational credential,Helpers–Carpenters,Helpers–Carpenters,18,0.92,35890,28810,35890,30200
+93,27-1025,0.022,56220,Bachelor's degree,Interior Designers,Interior Designers,18,0.022,53160,49810,53160,56220
+61,11-2021,0.014,144140,Bachelor's degree,Marketing Managers,Marketing Managers,18,0.014,205900,131180,205900,144140
+311,31-9011,0.54,44480,Postsecondary nondegree award,Massage Therapists,Massage Therapists,18,0.54,95830,39860,95830,44480
+239,31-9092,0.3,32850,Postsecondary nondegree award,Medical Assistants,Medical Assistants,18,0.3,623560,31540,623560,32850
+636,51-7031,0.96,47480,High school diploma or equivalent,"Model Makers, Wood","Model Makers, Wood",18,0.96,1040,40890,1040,47480
+676,41-2022,0.98,33220,No formal educational credential,Parts Salespersons,Parts Salespersons,18,0.98,248740,29780,248740,33220
+680,43-3061,0.98,41980,High school diploma or equivalent,Procurement Clerks,Procurement Clerks,18,0.98,72120,41410,72120,41980
+521,49-3043,0.88,53590,High school diploma or equivalent,Rail Car Repairers,Rail Car Repairers,18,0.88,22090,55000,22090,53590
+29,39-9032,0.0061,27230,High school diploma or equivalent,Recreation Workers,Recreation Workers,18,0.0061,336880,23870,336880,27230
+215,19-3022,0.23,59950,Master's degree,Survey Researchers,Survey Researchers,18,0.23,11930,54470,11930,59950
+317,25-9041,0.56,27120,"Some college, no degree",Teacher Assistants,Teacher Assistants,18,0.56,1263820,25410,1263820,27120
+147,19-1011,0.061,72890,Bachelor's degree,Animal Scientists,Animal Scientists,17,0.061,2470,60330,2470,72890
+35,29-9091,0.0071,47880,Bachelor's degree,Athletic Trainers,Athletic Trainers,17,0.0071,24130,45630,24130,47880
+596,49-3091,0.94,28520,High school diploma or equivalent,Bicycle Repairers,Bicycle Repairers,17,0.94,12560,27630,12560,28520
+504,47-2041,0.87,44310,No formal educational credential,Carpet Installers,Carpet Installers,17,0.87,25660,38280,25660,44310
+163,39-9011,0.084,22930,High school diploma or equivalent,Childcare Workers,Childcare Workers,17,0.084,569370,21170,569370,22930
+202,49-9092,0.18,53990,Postsecondary nondegree award,Commercial Divers,Commercial Divers,17,0.18,3370,49090,3370,53990
+314,53-2012,0.55,86260,High school diploma or equivalent,Commercial Pilots,Commercial Pilots,17,0.55,38980,77200,38980,86260
+641,35-2014,0.96,25430,No formal educational credential,"Cooks, Restaurant","Cooks, Restaurant",17,0.96,1217370,24140,1217370,25430
+126,13-2071,0.04,49480,Bachelor's degree,Credit Counselors,Credit Counselors,17,0.04,34110,44380,34110,49480
+691,43-9021,0.99,31640,High school diploma or equivalent,Data Entry Keyers,Data Entry Keyers,17,0.99,194810,30100,194810,31640
+303,31-9091,0.51,37890,Postsecondary nondegree award,Dental Assistants,Dental Assistants,17,0.51,327290,36940,327290,37890
+379,29-2021,0.68,73440,Associate's degree,Dental Hygienists,Dental Hygienists,17,0.68,204990,72910,204990,73440
+19,29-1021,0.0044,173860,Doctoral or professional degree,"Dentists, General",Dentists,17,0.0044,105620,153900,105620,173860
+89,27-1022,0.021,76480,Bachelor's degree,Fashion Designers,Fashion Designers,17,0.021,19230,65170,19230,76480
+250,53-2031,0.35,51620,High school diploma or equivalent,Flight Attendants,Flight Attendants,17,0.35,113390,48500,113390,51620
+161,27-1024,0.082,52290,Bachelor's degree,Graphic Designers,Graphic Designers,17,0.082,210710,47640,210710,52290
+266,31-1011,0.39,23600,No formal educational credential,Home Health Aides,Home Health Aides,17,0.39,814300,22600,814300,23600
+672,43-6012,0.98,47900,High school diploma or equivalent,Legal Secretaries,Legal Secretaries,17,0.98,191200,44180,191200,47900
+579,53-4012,0.93,63750,High school diploma or equivalent,Locomotive Firers,Locomotive Firers,17,0.93,1210,58230,1210,63750
+153,17-2161,0.07,105950,Bachelor's degree,Nuclear Engineers,Nuclear Engineers,17,0.07,17680,102220,17680,105950
+287,31-1013,0.47,28770,High school diploma or equivalent,Psychiatric Aides,Psychiatric Aides,17,0.47,67410,26720,67410,28770
+46,29-1111,0.009,144110,Doctoral or professional degree,Registered Nurses,Registered Nurses,17,0.009,9800,124830,9800,144110
+526,27-3042,0.89,73160,Bachelor's degree,Technical Writers,Technical Writers,17,0.89,49780,69850,49780,73160
+688,43-4011,0.98,52380,High school diploma or equivalent,Brokerage Clerks,Brokerage Clerks,16,0.98,59820,49200,59820,52380
+70,11-1011,0.015,194350,Bachelor's degree,Chief Executives,Chief Executives,16,0.015,223260,181210,223260,194350
+441,35-2011,0.81,20570,No formal educational credential,"Cooks, Fast Food","Cooks, Fast Food",16,0.81,513200,19860,513200,20570
+564,53-7031,0.92,46530,High school diploma or equivalent,Dredge Operators,Dredge Operators,16,0.92,1760,42420,1760,46530
+136,27-1023,0.047,27610,High school diploma or equivalent,Floral Designers,Floral Designers,16,0.047,43990,25850,43990,27610
+385,51-3092,0.7,30130,High school diploma or equivalent,Food Batchmakers,Food Batchmakers,16,0.7,148540,27810,148540,30130
+134,21-1091,0.045,57900,Bachelor's degree,Health Educators,Health Educators,16,0.045,57570,53070,57570,57900
+12,11-9081,0.0039,59410,High school diploma or equivalent,Lodging Managers,Lodging Managers,16,0.0039,35410,51840,35410,59410
+464,47-4091,0.83,34160,High school diploma or equivalent,Segmental Pavers,Segmental Pavers,16,0.83,1720,33530,1720,34160
+310,39-1012,0.54,38300,High school diploma or equivalent,Slot Supervisors,Slot Supervisors,16,0.54,7640,36080,7640,38300
+480,53-7073,0.84,50730,High school diploma or equivalent,Wellhead Pumpers,Wellhead Pumpers,16,0.84,11610,49610,11610,50730
+619,45-2021,0.95,42340,High school diploma or equivalent,Animal Breeders,Animal Breeders,15,0.95,1270,35690,1270,42340
+170,39-2011,0.1,34580,High school diploma or equivalent,Animal Trainers,Animal Trainers,15,0.1,13590,27690,13590,34580
+594,13-2031,0.94,77170,Bachelor's degree,Budget Analysts,Budget Analysts,15,0.94,54700,73840,54700,77170
+84,17-2051,0.019,89730,Bachelor's degree,Civil Engineers,Civil Engineers,15,0.019,287800,83540,287800,89730
+321,13-1051,0.57,66620,Bachelor's degree,Cost Estimators,Cost Estimators,15,0.57,214610,61790,214610,66620
+301,23-2091,0.5,56940,Postsecondary nondegree award,Court Reporters,Court Reporters,15,0.5,17700,51320,17700,56940
+677,13-2041,0.98,81160,Bachelor's degree,Credit Analysts,Credit Analysts,15,0.98,72930,69930,72930,81160
+294,33-9091,0.49,29190,No formal educational credential,Crossing Guards,Crossing Guards,15,0.49,72900,26700,72900,29190
+206,19-1041,0.2,77720,Master's degree,Epidemiologists,Epidemiologists,15,0.2,5690,70820,5690,77720
+165,11-9071,0.091,79690,High school diploma or equivalent,Gaming Managers,Gaming Managers,15,0.091,4280,69180,4280,79690
+395,47-3016,0.72,28890,No formal educational credential,Helpers–Roofers,Helpers–Roofers,15,0.72,10190,27670,10190,28890
+56,19-1022,0.012,76850,Bachelor's degree,Microbiologists,Microbiologists,15,0.012,21670,66850,21670,76850
+141,29-1024,0.055,168140,Doctoral or professional degree,Prosthodontists,Prosthodontists,15,0.055,750,126050,750,168140
+673,27-4013,0.98,46780,High school diploma or equivalent,Radio Operators,Radio Operators,15,0.98,870,46250,870,46780
+14,41-9031,0.0041,108880,Bachelor's degree,Sales Engineers,Sales Engineers,15,0.0041,74330,100000,74330,108880
+478,33-9032,0.84,29730,High school diploma or equivalent,Security Guards,Security Guards,15,0.84,1103120,25770,1103120,29730
+646,51-2092,0.97,32550,High school diploma or equivalent,Team Assemblers,Team Assemblers,15,0.97,1112780,30060,1112780,32550
+697,49-9064,0.99,39720,High school diploma or equivalent,Watch Repairers,Watch Repairers,15,0.99,1620,36740,1620,39720
+13,27-2032,0.004,53610,High school diploma or equivalent,Choreographers,Choreographers,14,0.004,5160,48240,5160,53610
+568,47-4031,0.92,36380,No formal educational credential,Fence Erectors,Fence Erectors,14,0.92,21500,33150,21500,36380
+639,39-3011,0.96,21990,High school diploma or equivalent,Gaming Dealers,Gaming Dealers,14,0.96,94570,19290,94570,21990
+135,15-2021,0.047,105600,Master's degree,Mathematicians,Mathematicians,14,0.047,2730,105810,2730,105600
+394,31-9095,0.72,28420,High school diploma or equivalent,Pharmacy Aides,Pharmacy Aides,14,0.72,36660,25240,36660,28420
+59,11-2022,0.013,135090,Bachelor's degree,Sales Managers,Sales Managers,14,0.013,365230,117960,365230,135090
+129,53-5031,0.041,74120,Postsecondary nondegree award,Ship Engineers,Ship Engineers,14,0.041,9750,70570,9750,74120
+95,27-1011,0.023,101170,Bachelor's degree,Art Directors,Art Directors,13,0.023,36210,89820,36210,101170
+100,29-1011,0.027,81210,Doctoral or professional degree,Chiropractors,Chiropractors,13,0.027,32960,67520,32960,81210
+116,27-1012,0.035,38900,No formal educational credential,Craft Artists,Craft Artists,13,0.035,5070,33440,5070,38900
+686,13-2072,0.98,76260,Bachelor's degree,Loan Officers,Loan Officers,13,0.98,305700,63650,305700,76260
+94,29-1023,0.023,228780,Doctoral or professional degree,Orthodontists,Orthodontists,13,0.023,5200,228780,5200,228780
+91,27-4021,0.021,42640,High school diploma or equivalent,Photographers,Photographers,13,0.021,48660,34070,48660,42640
+213,15-2041,0.22,85160,Master's degree,Statisticians,Statisticians,13,0.22,33440,80500,33440,85160
+695,13-2082,0.99,45340,High school diploma or equivalent,Tax Preparers,Tax Preparers,13,0.99,70030,36550,70030,45340
+702,41-9041,0.99,27170,No formal educational credential,Telemarketers,Telemarketers,13,0.99,215290,24300,215290,27170
+605,51-9197,0.94,42230,High school diploma or equivalent,Tire Builders,Tire Builders,13,0.94,22280,41680,22280,42230
+168,41-3041,0.099,39900,High school diploma or equivalent,Travel Agents,Travel Agents,13,0.099,68680,36460,68680,39900
+143,39-7012,0.057,35930,High school diploma or equivalent,Travel Guides,Travel Guides,13,0.057,3030,32100,3030,35930
+122,29-1131,0.038,100560,Doctoral or professional degree,Veterinarians,Veterinarians,13,0.038,67650,88770,67650,100560
+5,29-1181,0.0033,79290,Doctoral or professional degree,Audiologists,Audiologists,12,0.0033,12310,75980,12310,79290
+377,47-2011,0.68,62200,High school diploma or equivalent,Boilermakers,Boilermakers,12,0.68,16660,62060,16660,62200
+192,47-2111,0.15,56650,High school diploma or equivalent,Electricians,Electricians,12,0.15,607120,52720,607120,56650
+197,33-2011,0.17,50520,Postsecondary nondegree award,Firefighters,Firefighters,12,0.17,315910,48030,315910,50520
+60,19-2043,0.014,83740,Bachelor's degree,Hydrologists,Hydrologists,12,0.014,6300,80480,6300,83740
+55,13-1081,0.012,77810,Bachelor's degree,Logisticians,Logisticians,12,0.012,146060,74170,146060,77810
+188,29-1041,0.14,117580,Doctoral or professional degree,Optometrists,Optometrists,12,0.14,36430,106140,36430,117580
+687,43-4151,0.98,35160,High school diploma or equivalent,Order Clerks,Order Clerks,12,0.98,176850,33370,176850,35160
+505,47-2142,0.87,36470,No formal educational credential,Paperhangers,Paperhangers,12,0.87,3190,33770,3190,36470
+700,51-6051,0.99,25630,No formal educational credential,"Sewers, Hand","Sewers, Hand",12,0.99,6540,24520,6540,25630
+145,19-3041,0.059,86840,Master's degree,Sociologists,Sociologists,12,0.059,2870,79750,2870,86840
+267,51-6093,0.39,34640,High school diploma or equivalent,Upholsterers,Upholsterers,12,0.39,32520,33050,32520,34640
+128,19-2011,0.041,110380,Doctoral or professional degree,Astronomers,Astronomers,11,0.041,1830,104740,1830,110380
+424,35-9021,0.77,21260,No formal educational credential,Dishwashers,Dishwashers,11,0.77,506450,20800,506450,21260
+662,43-4071,0.97,31260,High school diploma or equivalent,File Clerks,File Clerks,11,0.97,130950,29090,130950,31260
+222,19-3092,0.25,74090,Bachelor's degree,Geographers,Geographers,11,0.25,1370,74260,1370,74090
+325,49-9044,0.59,53950,High school diploma or equivalent,Millwrights,Millwrights,11,0.59,39670,52440,39670,53950
+54,29-1051,0.012,120270,Doctoral or professional degree,Pharmacists,Pharmacists,11,0.012,305510,122230,305510,120270
+23,29-1081,0.0046,144110,Doctoral or professional degree,Hosts and Hostesses,Podiatrists,11,0.0046,9800,124830,9800,144110
+524,47-2022,0.89,43650,High school diploma or equivalent,Stonemasons,Stonemasons,11,0.89,13190,39780,13190,43650
+415,25-4011,0.76,54570,Master's degree,Archivists,Archivists,10,0.76,5760,50500,5760,54570
+422,35-3011,0.77,25580,No formal educational credential,Bartenders,Bartenders,10,0.77,603320,20800,603320,25580
+398,47-2031,0.72,48340,High school diploma or equivalent,Carpenters,Carpenters,10,0.72,676980,43600,676980,48340
+211,39-6012,0.21,31440,High school diploma or equivalent,Concierges,Concierges,10,0.21,32020,29250,32020,31440
+282,19-3011,0.43,112860,Master's degree,Economists,Economists,10,0.43,19380,101050,19380,112860
+283,19-3093,0.44,60990,Master's degree,Historians,Historians,10,0.44,2950,55110,2950,60990
+360,25-4021,0.65,59870,Master's degree,Librarians,Librarians,10,0.65,129350,57680,129350,59870
+358,51-4041,0.65,43220,High school diploma or equivalent,Machinists,Machinists,10,0.65,391120,41700,391120,43220
+175,19-2012,0.1,121770,Doctoral or professional degree,Physicists,Physicists,10,0.1,16680,115870,16680,121770
+345,47-2151,0.62,42860,No formal educational credential,Pipelayers,Pipelayers,10,0.62,39620,38410,39620,42860
+432,39-5093,0.79,20960,No formal educational credential,Shampooers,Shampooers,10,0.79,15240,19700,15240,20960
+209,15-2011,0.21,114120,Bachelor's degree,Actuaries,Actuaries,9,0.21,19940,100610,19940,114120
+308,39-4011,0.54,42260,Postsecondary nondegree award,Embalmers,Embalmers,9,0.54,3710,40150,3710,42260
+43,19-1032,0.0081,60300,Bachelor's degree,Foresters,Foresters,9,0.0081,8420,58700,8420,60300
+262,17-1022,0.38,63480,Bachelor's degree,Surveyors,Surveyors,9,0.38,43340,59390,43340,63480
+252,33-3011,0.36,45740,High school diploma or equivalent,Bailiffs,Bailiffs,8,0.36,17880,42670,17880,45740
+657,41-2011,0.97,21680,No formal educational credential,Cashiers,Cashiers,8,0.97,3541010,20180,3541010,21680
+173,19-2031,0.1,80820,Bachelor's degree,Chemists,Chemists,8,0.1,86660,73740,86660,80820
+34,25-4012,0.0068,58910,Master's degree,Curators,Curators,8,0.0068,11170,53360,11170,58910
+402,47-2121,0.73,47260,High school diploma or equivalent,Glaziers,Glaziers,8,0.73,47140,41920,47140,47260
+439,39-5011,0.8,29900,Postsecondary nondegree award,Barbers,Barbers,7,0.8,15900,25760,15900,29900
+179,27-2031,0.13,32739.1,No formal educational credential,Dancers,Dancers,7,0.13,10060,24594.6,10060,32739.1
+140,27-3041,0.055,66080,Bachelor's degree,Editors,Editors,7,0.055,97170,57210,97170,66080
+418,45-4021,0.76,42900,High school diploma or equivalent,Fallers,Fallers,7,0.76,5370,37370,5370,42900
+115,23-1011,0.035,139880,Doctoral or professional degree,Lawyers,Lawyers,7,0.035,619530,118160,619530,139880
+527,49-9096,0.89,49030,High school diploma or equivalent,Riggers,Riggers,7,0.89,21020,45690,21020,49030
+535,47-2181,0.9,42080,No formal educational credential,Roofers,Roofers,7,0.9,116410,37760,116410,42080
+683,43-3071,0.98,28060,High school diploma or equivalent,Tellers,Tellers,7,0.98,496760,27260,496760,28060
+259,27-2011,0.37,71313.6,"Some college, no degree",Actors,Actors,6,0.37,48620,33473,48620,71313.6
+522,51-3011,0.89,27110,No formal educational credential,Bakers,Bakers,6,0.89,180450,25090,180450,27110
+42,21-2011,0.0081,49450,Bachelor's degree,Clergy,Clergy,6,0.0081,49320,45740,49320,49450
+669,41-9012,0.98,36560,No formal educational credential,Models,Models,6,0.98,4390,21870,4390,36560
+344,47-2082,0.62,53790,No formal educational credential,Tapers,Tapers,6,0.62,18480,48990,18480,53790
