@@ -1,7 +1,5 @@
 # Plotly Sample Datasets
 
-License: [GPL-3](https://github.com/plotly/datasets/blob/master/LICENSE)
-
 | Dataset name | Best for | Origin | Chart example | Download | Open in Plotly |
 | --- | --- | --- | ---  | ---  | ---  |
 | Walmart store openings | Maps | Unknown | [Python](https://plot.ly/python/map-subplots-and-small-multiples/) | [Download](https://github.com/plotly/datasets/blob/master/1962_2006_walmart_store_openings.csv) | [Open](https://plot.ly/16263/~jackp/) |
