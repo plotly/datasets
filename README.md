@@ -23,6 +23,7 @@
 | Inset plot | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/insets) | [Download](https://github.com/plotly/datasets/blob/master/inset.csv) | [Open](https://plot.ly/7954/~Dreamshot/) |
 | Text scatter charts | Basic | Unknown | [Excel](http://help.plot.ly/excel/text-scatter-chart) | [Download](https://github.com/plotly/datasets/blob/master/label-text.csv) | [Open](https://plot.ly/7956/~Dreamshot/) |
 | LaTeX typesetting | Basic | Unknown | [Excel](http://help.plot.ly/excel/LaTeX) | [Download](https://github.com/plotly/datasets/blob/master/latex-typesetting-with-excel.csv) | [Open](https://plot.ly/7958/~Dreamshot/) |
+| NYC Uber rides | Maps | Unknown | [R](https://plot.ly/r/scattermapbox/) | [Download](https://github.com/plotly/datasets/blob/master/uber-rides-data1.csv) | N.A. |
 | Online dating | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/graph-with-multiple-axes/) | [Download](https://github.com/plotly/datasets/blob/master/multiple_y_axis.csv) | [Open](https://plot.ly/7960/~Dreamshot/) |
 | OKCupid compatibility by religion | Basic | Unknown | [Excel](http://help.plot.ly/excel/heatmap) | [Download](https://github.com/plotly/datasets/blob/master/okcupid-compatibility-by-religion.csv) | [Open](https://plot.ly/7962/~Dreamshot/) |
 | Pareto chart | Basic | Unknown | [Excel](http://help.plot.ly/excel/pareto-chart) | [Download](https://github.com/plotly/datasets/blob/master/pareto-chart.csv) | [Open](https://plot.ly/7964/~Dreamshot/) |
