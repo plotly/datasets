@@ -37,3 +37,4 @@
 | Volcano | Maps | Unknown | [Pandas](https://plot.ly/pandas/3d-surface-plots/) | [Download](https://github.com/plotly/datasets/blob/master/volcano.csv) | [Open](https://plot.ly/7980/~Dreamshot/) |
 | Wind rose | Maps | Unknown | [Python](https://plot.ly/python/wind-rose-charts/) | [Download](https://github.com/plotly/datasets/blob/master/wind_rose.csv) | [Open](https://plot.ly/7982/~Dreamshot/) |
 | Wind speed | Statistical | Unknown | [Pandas](https://plot.ly/pandas/error-bars/) | [Download](https://github.com/plotly/datasets/blob/master/wind_speed_laurel_nebraska.csv) | [Open](https://plot.ly/7984/~Dreamshot/) |
+| Prostate cancer | Clustergram | [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) | [Dash Bio](https://dash-bio.plotly.host/dash-clustergram/) | [Download](https://github.com/plotly/datasets/blob/master/clustergram_GDS5373.soft) | NA |
