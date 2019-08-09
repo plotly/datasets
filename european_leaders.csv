@@ -1,0 +1,173 @@
+"","pm_name","country_name","party_name_english","left_right","stint_start","stint_end","median_x","vert_min","vert_max","median_y","size"
+"1","Klima","Austria","Social Democratic Party of Austria","3",2000-01-01,2000-02-04,2000-01-18,780.5,810.1,794.5,1006
+"2","Schuessel","Austria","Austrian People's Party","6",2000-02-04,2007-01-11,2003-07-24,780.5,810.1,794.5,74976
+"3","Gusenbauer","Austria","Social Democratic Party of Austria","3",2007-01-11,2008-12-02,2007-12-22,780.5,810.1,794.5,20453
+"4","Faymann","Austria","Social Democratic Party of Austria","3",2008-12-02,2016-05-17,2012-08-24,780.5,810.1,794.5,80600
+"5","Kern","Austria","Social Democratic Party of Austria","3",2016-05-17,2017-12-18,2017-03-03,780.5,810.1,794.5,17167
+"6","Kurz","Austria","Austrian People's Party","6",2017-12-18,2019-07-19,2018-10-03,780.5,810.1,794.5,17108
+"7","Verhofstadt","Belgium","Party of Liberty and Progress | Flemish Liberals and Democrats","7",2000-01-01,2008-03-20,2004-02-09,746.8,780.5,762.8,101133
+"8","Leterme","Belgium","Christian-Democrat and Flemish / New Flemish Alliance","6",2008-03-20,2008-12-30,2008-08-09,746.8,780.5,762.8,9604
+"9","Rompuy","Belgium","Flemish Christian Peoples Party","5",2008-12-30,2009-11-25,2009-06-13,746.8,780.5,762.8,11121
+"10","Leterme","Belgium","Flemish Christian Peoples Party","5",2009-11-25,2011-12-06,2010-11-30,746.8,780.5,762.8,24971
+"11","Di Rupo","Belgium","Socialist Party [Francophone]","2",2011-12-06,2014-10-11,2013-05-09,746.8,780.5,762.8,35048
+"12","Michel","Belgium","Reformist Movement","6",2014-10-11,2019-07-19,2017-02-28,746.8,780.5,762.8,58705
+"13","Kostov","Bulgaria","United Democratic Forces","6",2000-01-01,2001-07-24,2000-10-12,270.3,297,283.3,15218
+"14","Sakskoburggotski","Bulgaria","National Movement Simeon II","5",2001-07-24,2005-08-17,2003-08-05,270.3,297,283.3,39649
+"15","Stanishev","Bulgaria","Coalition for Bulgaria | Democratic Left","2",2005-08-17,2009-07-27,2007-08-07,270.3,297,283.3,38447
+"16","Borisov","Bulgaria","Citizens for European Development of Bulgaria","7",2009-07-27,2013-03-13,2011-05-20,270.3,297,283.3,35377
+"17","Raikov","Bulgaria","no party affiliation",NA,2013-03-13,2013-05-29,2013-04-20,270.3,297,283.3,2055
+"18","Oresharski","Bulgaria","no party affiliation",NA,2013-05-29,2014-08-05,2013-12-31,270.3,297,283.3,11561
+"19","Bliznashki","Bulgaria","no party affiliation",NA,2014-08-05,2014-11-07,2014-09-21,270.3,297,283.3,2509
+"20","Borisov","Bulgaria","Citizens for European Development of Bulgaria","7",2014-11-07,2017-01-25,2015-12-17,270.3,297,283.3,21626
+"21","Gerdzhikov","Bulgaria","National Movement Simeon II","5",2017-01-25,2017-05-04,2017-03-15,270.3,297,283.3,2643
+"22","Borisov","Bulgaria","Citizens for European Development of Bulgaria","7",2017-05-04,2019-07-19,2018-06-11,270.3,297,283.3,21520
+"23","Racan","Croatia","Social Democratic Party of Croatia","3",2000-01-27,2003-12-23,2002-01-09,249.9,270.3,259.9,29090
+"24","Sanader","Croatia","Croatian Democratic Union","7",2003-12-23,2009-07-06,2006-09-29,249.9,270.3,259.9,41248
+"25","Kosor","Croatia","Croatian Democratic Union","7",2009-07-06,2011-12-23,2010-09-29,249.9,270.3,259.9,18359
+"26","Milanovic","Croatia","Social Democratic Party of Croatia","3",2011-12-23,2016-01-22,2014-01-06,249.9,270.3,259.9,30416
+"27","Oreskovic","Croatia","no party affiliation",NA,2016-01-22,2016-10-19,2016-06-05,249.9,270.3,259.9,5528
+"28","Plenkovic","Croatia","Croatian Democratic Union","7",2016-10-19,2019-07-19,2018-03-04,249.9,270.3,259.9,20461
+"29","Clerides","Cyprus","Democratic Rally","8",2000-01-01,2003-02-28,2001-07-31,514.4,525.2,519.4,12463
+"30","Papadopoulos","Cyprus","Democratic Party","5",2003-02-28,2008-02-28,2005-08-29,514.4,525.2,519.4,19720
+"31","Christofias","Cyprus","Progressive Party of Working People","1",2008-02-28,2013-02-27,2010-08-29,514.4,525.2,519.4,19720
+"32","Anastasiades","Cyprus","Democratic Rally","8",2013-02-27,2019-07-19,2016-05-08,514.4,525.2,519.4,25196
+"33","Zeman","Czechia","Czech Social Democratic Party","3",2000-01-01,2002-07-15,2001-04-08,217.4,249.9,233.4,30095
+"34","Spidla","Czechia","Czech Social Democratic Party","3",2002-07-15,2004-08-04,2003-07-25,217.4,249.9,233.4,24407
+"35","Gross","Czechia","Czech Social Democratic Party","3",2004-08-04,2005-04-25,2004-12-14,217.4,249.9,233.4,8580
+"36","Paroubek","Czechia","Czech Social Democratic Party","3",2005-04-25,2006-08-16,2005-12-20,217.4,249.9,233.4,15535
+"37","Topolanek","Czechia","Civic Democratic Party","7",2006-08-16,2009-04-09,2007-12-12,217.4,249.9,233.4,31427
+"38","Fischer","Czechia","no party affiliation",NA,2009-04-09,2010-06-28,2009-11-17,217.4,249.9,233.4,14462
+"39","Necas","Czechia","Civic Democratic Party","7",2010-06-28,2013-07-10,2012-01-03,217.4,249.9,233.4,36010
+"40","Rusnok","Czechia","no party affiliation",NA,2013-07-10,2014-01-17,2013-10-13,217.4,249.9,233.4,6207
+"41","Sobotka","Czechia","Czech Social Democratic Party","3",2014-01-17,2017-12-13,2015-12-31,217.4,249.9,233.4,46345
+"42","Babis","Czechia","Action of Dissatisfied Citizens","6",2017-12-13,2019-07-19,2018-09-30,217.4,249.9,233.4,18947
+"43","Rasmussen N","Denmark","Social Democrats","3",2000-01-01,2001-11-27,2000-12-14,865,888.9,876,16634
+"44","Rasmussen F","Denmark","Liberal Party","7",2001-11-27,2009-04-05,2005-08-01,865,888.9,876,64195
+"45","Rasmussen L","Denmark","Liberal Party","7",2009-04-05,2011-10-02,2010-07-04,865,888.9,876,21749
+"46","Thorning-Schmidt","Denmark","Social Democrats","3",2011-10-02,2015-06-28,2013-08-14,865,888.9,876,32623
+"47","Rasmussen L","Denmark","Liberal Party","7",2015-06-28,2019-07-19,2017-07-08,865,888.9,876,35419
+"48","Laar","Estonia","Pro Patria Union","7",2000-01-01,2002-01-28,2001-01-14,205.9,217.4,210.9,8717
+"49","Kallas","Estonia","Estonian Reform Party","7",2002-01-28,2003-04-10,2002-09-03,205.9,217.4,210.9,5025
+"50","Parts","Estonia","Res Publica Party","8",2003-04-10,2005-04-13,2004-04-11,205.9,217.4,210.9,8441
+"51","Ansip","Estonia","Estonian Reform Party","7",2005-04-13,2014-03-26,2009-10-03,205.9,217.4,210.9,37593
+"52","Roivas","Estonia","Estonian Reform Party","7",2014-03-26,2016-11-20,2015-07-24,205.9,217.4,210.9,11155
+"53","Ratas","Estonia","Estonian Centre Party","3",2016-11-20,2019-07-19,2018-03-20,205.9,217.4,210.9,11166
+"54","Lipponen","Finland","Social Democratic Party of Finland","3",2000-01-01,2003-04-17,2001-08-24,841.6,865,852.6,28126
+"55","Jaatteenmaki","Finland","Centre Party","5",2003-04-17,2003-06-24,2003-05-21,841.6,865,852.6,1591
+"56","Vanhanen","Finland","Centre Party","5",2003-06-24,2010-06-22,2006-12-22,841.6,865,852.6,59786
+"57","Kiviniemi","Finland","Centre Party","5",2010-06-22,2011-06-22,2010-12-21,841.6,865,852.6,8540
+"58","Katainen","Finland","National Coalition Party","7",2011-06-22,2014-06-24,2012-12-22,841.6,865,852.6,25693
+"59","Stubb","Finland","National Coalition Party","7",2014-06-24,2015-05-29,2014-12-10,841.6,865,852.6,7932
+"60","Sipilae","Finland","Centre Party","5",2015-05-29,2019-07-19,2017-06-23,841.6,865,852.6,35380
+"61","Jospin","France","Socialist Party","3",2000-01-01,2002-05-07,2001-03-04,665,746.8,705,70102
+"62","Raffarin","France","Rally for the Republic","7",2002-05-07,2005-05-31,2003-11-18,665,746.8,705,91615
+"63","Villepin","France","Union for a Popular Movement | The Republicans","7",2005-05-31,2007-05-18,2006-05-24,665,746.8,705,58650
+"64","Fillon","France","Union for a Popular Movement | The Republicans","7",2007-05-18,2012-05-15,2009-11-15,665,746.8,705,149203
+"65","Ayrault","France","Socialist Party","3",2012-05-15,2014-03-31,2013-04-22,665,746.8,705,56032
+"66","Valls","France","Socialist Party","3",2014-03-31,2016-12-06,2015-08-03,665,746.8,705,80245
+"67","Cazeneuve","France","Socialist Party","3",2016-12-06,2017-06-14,2017-03-11,665,746.8,705,15541
+"68","Philippe","France","Union for a Popular Movement | The Republicans","7",2017-06-14,2019-07-19,2018-07-01,665,746.8,705,62576
+"69","Schroeder","Germany","Social Democratic Party of Germany","3",2000-01-01,2005-11-22,2002-12-12,574.1,665,619.1,195616
+"70","Merkel","Germany","Christian Democratic Union / Christian Social Union","6",2005-11-22,2019-07-19,2012-09-19,574.1,665,619.1,453318
+"71","Simitis","Greece","Panhellenic Socialist Movement","4",2000-01-01,2004-03-10,2002-02-04,481.6,514.4,497.6,50184
+"72","Karamanlis Kos","Greece","New Democracy","6",2004-03-10,2009-10-06,2006-12-23,481.6,514.4,497.6,66780
+"73","Papandreou G","Greece","Panhellenic Socialist Movement","4",2009-10-06,2011-11-11,2010-10-24,481.6,514.4,497.6,25124
+"74","Papademos","Greece","no party affiliation",NA,2011-11-11,2012-05-16,2012-02-12,481.6,514.4,497.6,6133
+"75","Pikramenos","Greece","no party affiliation",NA,2012-05-16,2012-06-20,2012-06-02,481.6,514.4,497.6,1148
+"76","Samaras","Greece","New Democracy","6",2012-06-20,2015-01-27,2013-10-08,481.6,514.4,497.6,31192
+"77","Tsipras","Greece","Coalition of the Radical Left","2",2015-01-27,2019-07-19,2017-04-23,481.6,514.4,497.6,53595
+"78","Orban","Hungary","Fidesz -- Hungarian Civic Union","6",2000-01-01,2002-05-27,2001-03-14,174.6,205.9,189.6,27450
+"79","Medgyessy","Hungary","Hungarian Socialist Party","2",2002-05-27,2004-09-29,2003-07-29,174.6,205.9,189.6,26792
+"80","Gyurcsany","Hungary","Hungarian Socialist Party","2",2004-09-29,2009-04-14,2007-01-06,174.6,205.9,189.6,51895
+"81","Bajnai","Hungary","no party affiliation",NA,2009-04-14,2010-05-29,2009-11-05,174.6,205.9,189.6,12833
+"82","Orban","Hungary","Fidesz -- Hungarian Civic Union","6",2010-05-29,2019-07-19,2014-12-23,174.6,205.9,189.6,104479
+"83","Ahern","Ireland","Fianna Fail","6",2000-01-01,2008-05-07,2004-03-04,969.9,991.7,979.9,66468
+"84","Cowen","Ireland","Fianna Fail","6",2008-05-07,2011-03-09,2009-10-07,969.9,991.7,979.9,22584
+"85","Kenny","Ireland","Fine Gael (Familiy of the Irish)","6",2011-03-09,2017-06-14,2014-04-26,969.9,991.7,979.9,49900
+"86","Varadkar","Ireland","Fine Gael (Familiy of the Irish)","6",2017-06-14,2019-07-19,2018-07-01,969.9,991.7,979.9,16677
+"87","D'Alema","Italy","Democrats of the Left","2",2000-01-01,2000-04-28,2000-02-29,403.8,481.6,441.8,9180
+"88","Amato","Italy","Prime minister",NA,2000-04-28,2001-06-11,2000-11-18,403.8,481.6,441.8,31820
+"89","Berlusconi","Italy","Go Italy -- The People of Freedom","7",2001-06-11,2006-05-17,2003-11-28,403.8,481.6,441.8,140117
+"90","Prodi","Italy","Centre Left","3",2006-05-17,2008-05-08,2007-05-13,403.8,481.6,441.8,56171
+"91","Berlusconi","Italy","Go Italy -- The People of Freedom","7",2008-05-08,2011-11-16,2010-02-10,403.8,481.6,441.8,100128
+"92","Monti","Italy","Prime minister",NA,2011-11-16,2013-04-27,2012-08-06,403.8,481.6,441.8,41078
+"93","Letta","Italy","Democratic Party","2",2013-04-27,2014-02-22,2013-09-24,403.8,481.6,441.8,23417
+"94","Renzi","Italy","Democratic Party","2",2014-02-22,2016-12-12,2015-07-19,403.8,481.6,441.8,79667
+"95","Gentiloni","Italy","Democratic Party","2",2016-12-12,2018-06-01,2017-09-06,403.8,481.6,441.8,41700
+"96","Conte","Italy","no party affiliation",NA,2018-06-01,2019-07-19,2018-12-24,403.8,481.6,441.8,32131
+"97","Skele","Latvia","People's Party","7",2000-01-01,2000-05-04,2000-03-03,160.6,174.6,167.6,1736
+"98","Berzins","Latvia","Latvian Way","6",2000-05-04,2002-11-07,2001-08-05,160.6,174.6,167.6,12838
+"99","Repse","Latvia","New Era","7",2002-11-07,2004-03-09,2003-07-09,160.6,174.6,167.6,6832
+"100","Emsis","Latvia","Green and Farmers' Union","5",2004-03-09,2004-12-02,2004-07-21,160.6,174.6,167.6,3752
+"101","Kalvitis","Latvia","People's Party","7",2004-12-02,2007-12-20,2006-06-11,160.6,174.6,167.6,15582
+"102","Godmanis","Latvia","Latvian First Party / Latvian Way Party","7",2007-12-20,2009-02-26,2008-07-24,160.6,174.6,167.6,6076
+"103","Dombrovskis","Latvia","New Era","7",2009-02-26,2014-01-22,2011-08-10,160.6,174.6,167.6,25074
+"104","Straujuma","Latvia","Unity","7",2014-01-22,2016-02-11,2015-02-01,160.6,174.6,167.6,10500
+"105","Kucinskis","Latvia","Green and Farmers' Union","5",2016-02-11,2019-01-23,2017-08-02,160.6,174.6,167.6,15078
+"106","Karins","Latvia","Unity","7",2019-01-23,2019-07-19,2019-04-21,160.6,174.6,167.6,2478
+"107","Kubilius","Lithuania","Homeland Union","7",2000-01-01,2000-10-26,2000-05-29,143.7,160.6,151.7,5053
+"108","Paksas","Lithuania","Liberal Union of Lithuania","6",2000-10-26,2001-07-03,2001-02-28,143.7,160.6,151.7,4224
+"109","Brazauskas","Lithuania","Lithuanian Social Democratic Party","3",2001-07-03,2006-07-04,2004-01-02,143.7,160.6,151.7,30876
+"110","Kirkilas","Lithuania","Lithuanian Social Democratic Party","3",2006-07-04,2008-11-27,2007-09-15,143.7,160.6,151.7,14821
+"111","Kubilius","Lithuania","Homeland Union","7",2008-11-27,2012-11-22,2010-11-25,143.7,160.6,151.7,24606
+"112","Butkevicius","Lithuania","Lithuanian Social Democratic Party","3",2012-11-22,2016-11-22,2014-11-22,143.7,160.6,151.7,24690
+"113","Skvernelis","Lithuania","Lithuanian Peasant Union","3",2016-11-22,2019-07-19,2018-03-21,143.7,160.6,151.7,16376
+"114","Juncker","Luxembourg","Christian Social People's Party","6",2000-01-01,2013-12-04,2006-12-18,566.5,574.1,569.5,38653
+"115","Bettel","Luxembourg","Democratic Party","6",2013-12-04,2019-07-19,2016-09-25,566.5,574.1,569.5,15602
+"116","Fenech Adami","Malta","Nationalist Party","5",2000-01-01,2004-03-23,2002-02-10,397.2,403.8,400.2,10183
+"117","Gonzi","Malta","Nationalist Party","5",2004-03-23,2013-03-11,2008-09-15,397.2,403.8,400.2,21615
+"118","Muscat","Malta","Malta Labour Party","4",2013-03-11,2019-07-19,2016-05-14,397.2,403.8,400.2,15318
+"119","Kok","Netherlands","Labour Party","3",2000-01-01,2002-07-22,2001-04-11,525.2,566.5,545.2,38532
+"120","Balkenende","Netherlands","Christian Democratic Appeal","5",2002-07-22,2010-10-14,2006-09-02,525.2,566.5,545.2,124147
+"121","Rutte","Netherlands","People's Party for Freedom and Democracy","7",2010-10-14,2019-07-19,2015-03-02,525.2,566.5,545.2,132160
+"122","Buzek","Poland","Solidarity Electoral Action","7",2000-01-01,2001-10-19,2000-11-24,82.1,143.7,112.1,40471
+"123","Miller","Poland","Democratic Left Alliance","2",2001-10-19,2004-05-02,2003-01-25,82.1,143.7,112.1,57041
+"124","Belka","Poland","Democratic Left Alliance","2",2004-05-02,2005-10-31,2005-01-30,82.1,143.7,112.1,33695
+"125","Marcinkiewicz","Poland","Law and Justice","7",2005-10-31,2006-07-14,2006-03-08,82.1,143.7,112.1,15769
+"126","Kaczynski","Poland","Law and Justice","7",2006-07-14,2007-11-16,2007-03-16,82.1,143.7,112.1,30184
+"127","Tusk","Poland","Civic Platform","6",2007-11-16,2014-09-22,2011-04-20,82.1,143.7,112.1,154123
+"128","Kopacz","Poland","Civic Platform","6",2014-09-22,2015-11-16,2015-04-20,82.1,143.7,112.1,25872
+"129","Szydlo","Poland","Law and Justice","7",2015-11-16,2017-12-11,2016-11-28,82.1,143.7,112.1,46569
+"130","Morawiecki","Poland","Law and Justice","7",2017-12-11,2019-07-19,2018-09-29,82.1,143.7,112.1,36036
+"131","Guterres","Portugal","Socialist Party","4",2000-01-01,2002-04-06,2001-02-17,365.1,397.2,381.1,26514
+"132","Barroso","Portugal","Social Democratic Party","6",2002-04-06,2004-07-23,2003-05-30,365.1,397.2,381.1,26931
+"133","Santana Lopes","Portugal","Social Democratic Party","6",2004-07-23,2005-03-12,2004-11-16,365.1,397.2,381.1,7447
+"134","Socrates","Portugal","Socialist Party","4",2005-03-12,2011-06-15,2008-04-28,365.1,397.2,381.1,73380
+"135","Passos Coelho","Portugal","Social Democratic Party","6",2011-06-15,2015-11-26,2013-09-04,365.1,397.2,381.1,52162
+"136","Costa","Portugal","Socialist Party","4",2015-11-26,2019-07-19,2017-09-21,365.1,397.2,381.1,42725
+"137","Isarescu","Romania","no party affiliation",NA,2000-01-01,2000-12-20,2000-06-26,37.7,82.1,59.7,15717
+"138","Nastase","Romania","Social Democratic Party","3",2000-12-20,2004-12-29,2002-12-25,37.7,82.1,59.7,65267
+"139","Popescu-Tariceanu","Romania","National Liberal Party","6",2004-12-29,2008-12-22,2006-12-26,37.7,82.1,59.7,64557
+"140","Boc","Romania","Democratic Liberal Party","5",2008-12-22,2012-02-09,2010-07-17,37.7,82.1,59.7,50793
+"141","Ungureanu","Romania","Democratic Liberal Party","5",2012-02-09,2012-05-07,2012-03-24,37.7,82.1,59.7,3907
+"142","Ponta","Romania","Social Democratic Party","3",2012-05-07,2015-11-10,2014-02-07,37.7,82.1,59.7,56920
+"143","Ciolos","Romania","no party affiliation",NA,2015-11-10,2017-01-04,2016-06-07,37.7,82.1,59.7,18692
+"144","Grindeanu","Romania","Social Democratic Party","3",2017-01-04,2017-06-29,2017-04-02,37.7,82.1,59.7,7814
+"145","Tudose","Romania","Social Democratic Party","3",2017-06-29,2018-01-29,2017-10-14,37.7,82.1,59.7,9501
+"146","Dancila","Romania","Social Democratic Party","3",2018-01-29,2019-07-19,2018-10-24,37.7,82.1,59.7,23798
+"147","Dzurinda","Slovakia","Slovak Democratic Coalition","7",2000-01-01,2006-07-04,2003-04-03,14.4000000000001,37.7,25.4000000000001,55360
+"148","Fico","Slovakia","Direction -- Social Democracy","3",2006-07-04,2010-07-08,2008-07-05,14.4000000000001,37.7,25.4000000000001,34134
+"149","Radicova","Slovakia","Slovak Democratic and Christian Union -- Democratic Party","7",2010-07-08,2012-04-04,2011-05-22,14.4000000000001,37.7,25.4000000000001,14818
+"150","Fico","Slovakia","Direction -- Social Democracy","3",2012-04-04,2018-03-22,2015-03-29,14.4000000000001,37.7,25.4000000000001,50747
+"151","Pellegrini","Slovakia","Direction -- Social Democracy","3",2018-03-22,2019-07-19,2018-11-19,14.4000000000001,37.7,25.4000000000001,11277
+"152","Drnovsek","Slovenia","Liberal Democracy of Slovenia","3",2000-01-01,2000-06-07,2000-03-20,0,14.4000000000001,7,2275
+"153","Bajuk","Slovenia","Slovenian People's Party","6",2000-06-07,2000-11-30,2000-09-03,0,14.4000000000001,7,2534
+"154","Drnovsek","Slovenia","Liberal Democracy of Slovenia","3",2000-11-30,2002-12-19,2001-12-09,0,14.4000000000001,7,10785
+"155","Rop","Slovenia","Liberal Democracy of Slovenia","3",2002-12-19,2004-12-03,2003-12-11,0,14.4000000000001,7,10296
+"156","Jansa","Slovenia","Slovenian Democratic Party","6",2004-12-03,2008-11-21,2006-11-27,0,14.4000000000001,7,20865
+"157","Pahor","Slovenia","United List -- Social Democrats","3",2008-11-21,2012-01-28,2010-06-25,0,14.4000000000001,7,16747
+"158","Jansa","Slovenia","Slovenian Democratic Party","6",2012-01-28,2013-03-20,2012-08-23,0,14.4000000000001,7,6004
+"159","Bratusek","Slovenia","Zoran Jankovic's List -- Positive Slovenia","3",2013-03-20,2014-08-25,2013-12-06,0,14.4000000000001,7,7531
+"160","Cerar","Slovenia","Party of Miro Cerar","3",2014-08-25,2018-08-17,2016-08-20,0,14.4000000000001,7,20923
+"161","Sarec","Slovenia","List of Marjan Sarec","3",2018-08-17,2019-07-19,2019-02-01,0,14.4000000000001,7,4838
+"162","Aznar","Spain","People's Alliance-Party","7",2000-01-01,2004-04-17,2002-02-23,297,365.1,331,106780
+"163","Zapatero","Spain","Spanish Socialist Workers Party","3",2004-04-17,2011-12-21,2008-02-18,297,365.1,331,190952
+"164","Rajoy","Spain","People's Alliance-Party","7",2011-12-21,2018-06-02,2015-03-12,297,365.1,331,160375
+"165","Sanchez","Spain","Spanish Socialist Workers Party","3",2018-06-02,2019-07-19,2018-12-25,297,365.1,331,28057
+"166","Persson","Sweden","Social Democrats","3",2000-01-01,2006-10-05,2003-05-19,810.1,841.6,825.1,77773
+"167","Reinfeldt","Sweden","Moderate Party","7",2006-10-05,2014-10-02,2010-10-03,810.1,841.6,825.1,91948
+"168","Lofven","Sweden","Social Democrats","3",2014-10-02,2019-07-19,2017-02-23,810.1,841.6,825.1,55156
+"169","Blair","United Kingdom","Labour","4",2000-01-01,2007-06-27,2003-09-29,888.9,969.9,928.9,221454
+"170","Brown","United Kingdom","Labour","4",2007-06-27,2010-05-11,2008-12-02,888.9,969.9,928.9,84969
+"171","Cameron","United Kingdom","Conservatives","7",2010-05-11,2016-07-13,2013-06-11,888.9,969.9,928.9,182655
+"172","May","United Kingdom","Conservatives","7",2016-07-13,2019-07-19,2018-01-14,888.9,969.9,928.9,89181
