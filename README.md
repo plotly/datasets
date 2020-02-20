@@ -8,6 +8,7 @@
 | 2011 February US airport traffic | Maps | Unknown | [JavaScript](https://plot.ly/javascript/scatter-plots-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_february_us_airport_traffic.csv) | [Open](https://plot.ly/7926/~Dreamshot/) |
 | 2011 US agriculture exports | Maps | Unknown | [R](https://plot.ly/r/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_us_ag_exports.csv) | [Open](https://plot.ly/7923/~Dreamshot/) |
 | 2014 Apple stock | Maps | Unknown | [Python](https://plot.ly/python/html-reports/) | [Download](https://github.com/plotly/datasets/blob/master/2014_apple_stock.csv) | [Open](https://plot.ly/7928/~Dreamshot/) |
+| 2015 Shooting Incidents | Maps | Unknown | [R](https://plot.ly/r/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/US-shooting-incidents.csv) | [Open](https://chart-studio.plot.ly/~mahdis/300) |
 | 2014 ebola | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_ebola.csv) | [Open](https://plot.ly/7930/~Dreamshot/) |
 | 2014 US cities population | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_us_cities.csv) | [Open](https://plot.ly/7932/~Dreamshot/) |
 | 2014 US states population | Maps | Unknown | [Python](https://plot.ly/python/bubble-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_usa_states.csv) | [Open](https://plot.ly/7934/~Dreamshot/) |
