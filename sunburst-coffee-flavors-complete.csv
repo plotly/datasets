@@ -1,6 +1,7 @@
 ids,labels,parents
-Aromas,Aromas,
-Tastes,Tastes,
+Coffee,Coffee Flavors,
+Aromas,Aromas,Coffee
+Tastes,Tastes,Coffee
 Aromas-Enzymatic,Enzymatic,Aromas
 Aromas-Sugar Browning,Sugar Browning,Aromas
 Aromas-Dry Distillation,Dry Distillation,Aromas
