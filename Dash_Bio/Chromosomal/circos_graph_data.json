@@ -90185,20 +90185,5 @@
       "color": "#CCCCCC",
       "len": 59373566
     }
-  ],
-  "layout_config": {
-    "labels": {
-      "size": 10,
-      "color": "#4d4d4d",
-      "radialOffset": 100
-    },
-    "ticks": {
-      "color": "#4d4d4d",
-      "labelColor": "#4d4d4d",
-      "spacing": 10000000,
-      "labelSuffix": "Mb",
-      "labelDenominator": 1000000,
-      "labelSize": 10
-    }
-  }
+  ]
 }
