@@ -1,2374 +1,2374 @@
 {
   "stack": [
     {
-      "chr": "chr9",
-      "start": 2728594,
-      "end": 2948764,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2728594,
+        "end": 2948764,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2768236,
-      "end": 2948764,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2768236,
+        "end": 2948764,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2878331,
-      "end": 2948764,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2878331,
+        "end": 2948764,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2885483,
-      "end": 2959281,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2885483,
+        "end": 2959281,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 703687,
-      "end": 964796,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 703687,
+        "end": 964796,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 785551,
-      "end": 945722,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 785551,
+        "end": 945722,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 800037,
-      "end": 964796,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 800037,
+        "end": 964796,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 800037,
-      "end": 917073,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 800037,
+        "end": 917073,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 836219,
-      "end": 936673,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 836219,
+        "end": 936673,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 839680,
-      "end": 870839,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 839680,
+        "end": 870839,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 839680,
-      "end": 870839,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 839680,
+        "end": 870839,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 839680,
-      "end": 870839,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 839680,
+        "end": 870839,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 839680,
-      "end": 870839,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 839680,
+        "end": 870839,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1761196,
-      "end": 1897751,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1761196,
+        "end": 1897751,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 1761196,
-      "end": 1897751,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1761196,
+        "end": 1897751,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 1822322,
-      "end": 1897752,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1822322,
+        "end": 1897752,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1828032,
-      "end": 1930341,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1828032,
+        "end": 1930341,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1855682,
-      "end": 1897752,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1855682,
+        "end": 1897752,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1858994,
-      "end": 1897752,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1858994,
+        "end": 1897752,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3710944,
-      "end": 4151047,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3710944,
+        "end": 4151047,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3877954,
-      "end": 4203694,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3877954,
+        "end": 4203694,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3896700,
-      "end": 4036139,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3896700,
+        "end": 4036139,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 3922597,
-      "end": 4031431,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3922597,
+        "end": 4031431,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4936566,
-      "end": 5086053,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4936566,
+        "end": 5086053,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4972245,
-      "end": 5114369,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4972245,
+        "end": 5114369,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4972245,
-      "end": 5114369,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4972245,
+        "end": 5114369,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4975409,
-      "end": 5053350,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4975409,
+        "end": 5053350,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4975448,
-      "end": 5061879,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4975448,
+        "end": 5061879,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4975571,
-      "end": 5043926,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4975571,
+        "end": 5043926,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4975686,
-      "end": 5058843,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4975686,
+        "end": 5058843,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4978212,
-      "end": 5043926,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4978212,
+        "end": 5043926,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4980199,
-      "end": 5058843,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4980199,
+        "end": 5058843,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4985539,
-      "end": 5043926,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4985539,
+        "end": 5043926,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4997209,
-      "end": 5086053,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4997209,
+        "end": 5086053,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 5898290,
-      "end": 6190199,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5898290,
+        "end": 6190199,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6074764,
-      "end": 6190199,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6074764,
+        "end": 6190199,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 37765,
-      "end": 192280,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 37765,
+        "end": 192280,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 140161,
-      "end": 192280,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 140161,
+        "end": 192280,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 174385,
-      "end": 435560,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 174385,
+        "end": 435560,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 256292,
-      "end": 416480,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 256292,
+        "end": 416480,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 270787,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 270787,
+        "end": 653686,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 270787,
-      "end": 387781,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 270787,
+        "end": 387781,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 306974,
-      "end": 407434,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 306974,
+        "end": 407434,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 310434,
-      "end": 341585,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 310434,
+        "end": 341585,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 310434,
-      "end": 341585,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 310434,
+        "end": 341585,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 310434,
-      "end": 341585,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 310434,
+        "end": 341585,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 310434,
-      "end": 341585,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 310434,
+        "end": 341585,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 433598,
-      "end": 569901,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 433598,
+        "end": 569901,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 494795,
-      "end": 622886,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 494795,
+        "end": 622886,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 578991,
-      "end": 622886,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 578991,
+        "end": 622886,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 578991,
-      "end": 622886,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 578991,
+        "end": 622886,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 580878,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 580878,
+        "end": 653686,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 580878,
-      "end": 614342,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 580878,
+        "end": 614342,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 583558,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 583558,
+        "end": 653686,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1014797,
-      "end": 1223029,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1014797,
+        "end": 1223029,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1014797,
-      "end": 1223029,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1014797,
+        "end": 1223029,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1014797,
-      "end": 1121418,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1014797,
+        "end": 1121418,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1273030,
-      "end": 1415834,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1273030,
+        "end": 1415834,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 1273030,
-      "end": 1415834,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1273030,
+        "end": 1415834,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 1309305,
-      "end": 1415834,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1309305,
+        "end": 1415834,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1323471,
-      "end": 1415834,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1323471,
+        "end": 1415834,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1465835,
-      "end": 1517951,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1465835,
+        "end": 1517951,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1465835,
-      "end": 1648955,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1465835,
+        "end": 1648955,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1599473,
-      "end": 1761196,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1599473,
+        "end": 1761196,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1599473,
-      "end": 1761196,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1599473,
+        "end": 1761196,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1617112,
-      "end": 1761196,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1617112,
+        "end": 1761196,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 1617112,
-      "end": 1732550,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1617112,
+        "end": 1732550,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1980342,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1980342,
+        "end": 2133214,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 1980342,
-      "end": 2087460,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1980342,
+        "end": 2087460,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1980342,
-      "end": 2041384,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1980342,
+        "end": 2041384,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1980342,
-      "end": 2041384,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1980342,
+        "end": 2041384,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1980342,
-      "end": 2041384,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1980342,
+        "end": 2041384,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2010640,
-      "end": 2041384,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2010640,
+        "end": 2041384,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2183215,
-      "end": 2339033,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2183215,
+        "end": 2339033,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2256323,
-      "end": 2355793,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2256323,
+        "end": 2355793,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2256323,
-      "end": 2355793,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2256323,
+        "end": 2355793,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2256323,
-      "end": 2355793,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2256323,
+        "end": 2355793,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2256323,
-      "end": 2355793,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2256323,
+        "end": 2355793,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2275254,
-      "end": 2355793,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2275254,
+        "end": 2355793,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2405794,
-      "end": 2532861,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2405794,
+        "end": 2532861,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 2416027,
-      "end": 2561498,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2416027,
+        "end": 2561498,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 2416027,
-      "end": 2580579,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2416027,
+        "end": 2580579,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2416027,
-      "end": 2798718,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2416027,
+        "end": 2798718,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2416027,
-      "end": 2449023,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2416027,
+        "end": 2449023,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2451948,
-      "end": 2552448,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2451948,
+        "end": 2552448,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2468724,
-      "end": 2552448,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2468724,
+        "end": 2552448,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2578617,
-      "end": 2714925,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2578617,
+        "end": 2714925,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 2639810,
-      "end": 2697587,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2639810,
+        "end": 2697587,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2639810,
-      "end": 2767931,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2639810,
+        "end": 2767931,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 2645520,
-      "end": 2714925,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2645520,
+        "end": 2714925,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2673143,
-      "end": 2721696,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2673143,
+        "end": 2721696,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2676142,
-      "end": 2721696,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2676142,
+        "end": 2721696,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2725895,
-      "end": 2881005,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2725895,
+        "end": 2881005,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 2768236,
-      "end": 2829006,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2768236,
+        "end": 2829006,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 2768236,
-      "end": 2875567,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2768236,
+        "end": 2875567,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 2967028,
-      "end": 3136000,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2967028,
+        "end": 3136000,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3014044,
-      "end": 3302403,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3014044,
+        "end": 3302403,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3014044,
-      "end": 3204271,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3014044,
+        "end": 3204271,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3024507,
-      "end": 3242427,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3024507,
+        "end": 3242427,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3079150,
-      "end": 3302403,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3079150,
+        "end": 3302403,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3151183,
-      "end": 3330259,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3151183,
+        "end": 3330259,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3278086,
-      "end": 3603951,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3278086,
+        "end": 3603951,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3302406,
-      "end": 3442470,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3302406,
+        "end": 3442470,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 3330910,
-      "end": 3603951,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3330910,
+        "end": 3603951,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3330910,
-      "end": 3419577,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3330910,
+        "end": 3419577,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3445755,
-      "end": 3585208,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3445755,
+        "end": 3585208,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 3445755,
-      "end": 3483308,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3445755,
+        "end": 3483308,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3450463,
-      "end": 3559305,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3450463,
+        "end": 3559305,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 3496784,
-      "end": 3601327,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3496784,
+        "end": 3601327,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 3557068,
-      "end": 3603951,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3557068,
+        "end": 3603951,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3559964,
-      "end": 3603951,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3559964,
+        "end": 3603951,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3653952,
-      "end": 3817889,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3653952,
+        "end": 3817889,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3667325,
-      "end": 3825172,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3667325,
+        "end": 3825172,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3710602,
-      "end": 3795159,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3710602,
+        "end": 3795159,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3710944,
-      "end": 3763506,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3710944,
+        "end": 3763506,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3728397,
-      "end": 3795162,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3728397,
+        "end": 3795162,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3728397,
-      "end": 3770565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3728397,
+        "end": 3770565,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3752077,
-      "end": 3924834,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3752077,
+        "end": 3924834,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 3771766,
-      "end": 3921938,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3771766,
+        "end": 3921938,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 4025509,
-      "end": 4124009,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4025509,
+        "end": 4124009,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4025571,
-      "end": 4123831,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4025571,
+        "end": 4123831,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4039425,
-      "end": 4179407,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4039425,
+        "end": 4179407,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4040855,
-      "end": 4126861,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4040855,
+        "end": 4126861,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4062317,
-      "end": 4151047,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4062317,
+        "end": 4151047,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4081786,
-      "end": 4123743,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4081786,
+        "end": 4123743,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4253695,
-      "end": 4362265,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4253695,
+        "end": 4362265,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4253695,
-      "end": 4408377,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4253695,
+        "end": 4408377,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 4253695,
-      "end": 4362265,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4253695,
+        "end": 4362265,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4253695,
-      "end": 4362265,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4253695,
+        "end": 4362265,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4301942,
-      "end": 4408377,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4301942,
+        "end": 4408377,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4365212,
-      "end": 4495438,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4365212,
+        "end": 4495438,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4365212,
-      "end": 4406488,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4365212,
+        "end": 4406488,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4365212,
-      "end": 4404113,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4365212,
+        "end": 4404113,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4365218,
-      "end": 4495438,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4365218,
+        "end": 4495438,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 4373773,
-      "end": 4406488,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4373773,
+        "end": 4406488,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4435173,
-      "end": 4592132,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4435173,
+        "end": 4592132,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 4509616,
-      "end": 4592132,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4509616,
+        "end": 4592132,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4509616,
-      "end": 4592132,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4509616,
+        "end": 4592132,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4509616,
-      "end": 4592109,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4509616,
+        "end": 4592109,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4509616,
-      "end": 4592109,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4509616,
+        "end": 4592109,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4599730,
-      "end": 4783953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4599730,
+        "end": 4783953,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 4599730,
-      "end": 4650323,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4599730,
+        "end": 4650323,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4599730,
-      "end": 4650323,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4599730,
+        "end": 4650323,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4731860,
-      "end": 4886565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4731860,
+        "end": 4886565,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 5116329,
-      "end": 5189772,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5116329,
+        "end": 5189772,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 5116329,
-      "end": 5346876,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5116329,
+        "end": 5346876,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 5116329,
-      "end": 5253308,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5116329,
+        "end": 5253308,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5123579,
-      "end": 5189772,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5123579,
+        "end": 5189772,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 5274659,
-      "end": 5409845,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5274659,
+        "end": 5409845,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5297921,
-      "end": 5346876,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5297921,
+        "end": 5346876,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5338087,
-      "end": 5521536,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5338087,
+        "end": 5521536,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 5398530,
-      "end": 5521536,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5398530,
+        "end": 5521536,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5407189,
-      "end": 5521536,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5407189,
+        "end": 5521536,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 5412609,
-      "end": 5567603,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5412609,
+        "end": 5567603,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 5460855,
-      "end": 5613319,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5460855,
+        "end": 5613319,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 5524482,
-      "end": 5567603,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5524482,
+        "end": 5567603,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5524482,
-      "end": 5565721,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5524482,
+        "end": 5565721,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5524488,
-      "end": 5567603,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5524488,
+        "end": 5567603,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5533026,
-      "end": 5565721,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5533026,
+        "end": 5565721,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5666643,
-      "end": 5708139,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5666643,
+        "end": 5708139,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5676513,
-      "end": 5822214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5676513,
+        "end": 5822214,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5676513,
-      "end": 5822214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5676513,
+        "end": 5822214,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5694097,
-      "end": 5818456,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5694097,
+        "end": 5818456,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5898290,
-      "end": 6020775,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5898290,
+        "end": 6020775,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5929964,
-      "end": 6074445,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5929964,
+        "end": 6074445,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5933691,
-      "end": 6056887,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5933691,
+        "end": 6056887,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 5933691,
-      "end": 6035360,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5933691,
+        "end": 6035360,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 5938992,
-      "end": 5987365,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5938992,
+        "end": 5987365,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5941140,
-      "end": 5994880,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5941140,
+        "end": 5994880,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6269576,
-      "end": 6559997,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6269576,
+        "end": 6559997,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6323115,
-      "end": 6492434,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6323115,
+        "end": 6492434,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6323115,
-      "end": 6421490,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6323115,
+        "end": 6421490,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 6331117,
-      "end": 6549638,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6331117,
+        "end": 6549638,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6369261,
-      "end": 6619074,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6369261,
+        "end": 6619074,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6436689,
-      "end": 6559997,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6436689,
+        "end": 6559997,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 6509464,
-      "end": 6705517,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6509464,
+        "end": 6705517,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6549642,
-      "end": 6613778,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6549642,
+        "end": 6613778,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6553156,
-      "end": 6619074,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6553156,
+        "end": 6619074,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6585079,
-      "end": 6705517,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6585079,
+        "end": 6705517,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 6755518,
-      "end": 7005235,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6755518,
+        "end": 7005235,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6755518,
-      "end": 6946177,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6755518,
+        "end": 6946177,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6755518,
-      "end": 6935819,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6755518,
+        "end": 6935819,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 6755518,
-      "end": 6878686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6755518,
+        "end": 6878686,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 6822941,
-      "end": 6946177,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6822941,
+        "end": 6946177,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 6939341,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6939341,
+        "end": 7106426,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7002843,
-      "end": 7091832,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7002843,
+        "end": 7091832,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7002843,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7002843,
+        "end": 7106426,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 7002843,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7002843,
+        "end": 7106426,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 7002843,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7002843,
+        "end": 7106426,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 7156427,
-      "end": 7281465,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7156427,
+        "end": 7281465,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7156427,
-      "end": 7281465,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7156427,
+        "end": 7281465,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7156427,
-      "end": 7281465,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7156427,
+        "end": 7281465,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7177851,
-      "end": 7351035,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7177851,
+        "end": 7351035,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7192398,
-      "end": 7281465,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7192398,
+        "end": 7281465,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7218266,
-      "end": 7274014,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7218266,
+        "end": 7274014,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7225788,
-      "end": 7276148,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7225788,
+        "end": 7276148,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7401036,
-      "end": 7571959,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7401036,
+        "end": 7571959,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7522995,
-      "end": 7750403,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7522995,
+        "end": 7750403,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7522995,
-      "end": 7595204,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7522995,
+        "end": 7595204,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7616554,
-      "end": 7688774,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7616554,
+        "end": 7688774,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7639830,
-      "end": 7688774,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7639830,
+        "end": 7688774,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7679986,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7679986,
+        "end": 7899953,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7739058,
-      "end": 7860343,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7739058,
+        "end": 7860343,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7747725,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7747725,
+        "end": 7899953,
+        "color": "red"
     },
     {
-      "chr": "chr9",
-      "start": 7753167,
-      "end": 7860343,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7753167,
+        "end": 7860343,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 192258,
-      "end": 255863,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 192258,
+        "end": 255863,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 192280,
-      "end": 255863,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 192280,
+        "end": 255863,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 256292,
-      "end": 304046,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 256292,
+        "end": 304046,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 323770,
-      "end": 407434,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 323770,
+        "end": 407434,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 494795,
-      "end": 552547,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 494795,
+        "end": 552547,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 500505,
-      "end": 569901,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 500505,
+        "end": 569901,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 528125,
-      "end": 576677,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 528125,
+        "end": 576677,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 531124,
-      "end": 576677,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 531124,
+        "end": 576677,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 623204,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 623204,
+        "end": 653686,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 623204,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 623204,
+        "end": 653686,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 623204,
-      "end": 653686,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 623204,
+        "end": 653686,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 721585,
-      "end": 785122,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 721585,
+        "end": 785122,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 721585,
-      "end": 785122,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 721585,
+        "end": 785122,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 785551,
-      "end": 833291,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 785551,
+        "end": 833291,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 853016,
-      "end": 936673,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 853016,
+        "end": 936673,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1014797,
-      "end": 1107120,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1014797,
+        "end": 1107120,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1014797,
-      "end": 1044934,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1014797,
+        "end": 1044934,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1177346,
-      "end": 1223029,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1177346,
+        "end": 1223029,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1273030,
-      "end": 1353655,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1273030,
+        "end": 1353655,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1531848,
-      "end": 1599130,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1531848,
+        "end": 1599130,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1535680,
-      "end": 1599130,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1535680,
+        "end": 1599130,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1651889,
-      "end": 1752149,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1651889,
+        "end": 1752149,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 1655349,
-      "end": 1686152,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1655349,
+        "end": 1686152,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1655349,
-      "end": 1686152,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1655349,
+        "end": 1686152,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1655349,
-      "end": 1686152,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1655349,
+        "end": 1686152,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1655349,
-      "end": 1686152,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1655349,
+        "end": 1686152,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1668631,
-      "end": 1752149,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1668631,
+        "end": 1752149,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 1822322,
-      "end": 1880409,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1822322,
+        "end": 1880409,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1897482,
-      "end": 1930341,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1897482,
+        "end": 1930341,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1897482,
-      "end": 1930341,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1897482,
+        "end": 1930341,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1897482,
-      "end": 1930339,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1897482,
+        "end": 1930339,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1897482,
-      "end": 1930339,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1897482,
+        "end": 1930339,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1897482,
-      "end": 1930339,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1897482,
+        "end": 1930339,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 1899855,
-      "end": 1930341,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 1899855,
+        "end": 1930341,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2044330,
-      "end": 2087460,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2044330,
+        "end": 2087460,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2044330,
-      "end": 2085577,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2044330,
+        "end": 2085577,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2044330,
-      "end": 2083211,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2044330,
+        "end": 2083211,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2044336,
-      "end": 2087460,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2044336,
+        "end": 2087460,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2052881,
-      "end": 2085577,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2052881,
+        "end": 2085577,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2087286,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2087286,
+        "end": 2133214,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2087286,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2087286,
+        "end": 2133214,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2087286,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2087286,
+        "end": 2133214,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2094052,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2094052,
+        "end": 2133214,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2094052,
-      "end": 2133214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2094052,
+        "end": 2133214,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2183215,
-      "end": 2242159,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2183215,
+        "end": 2242159,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2183215,
-      "end": 2242159,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2183215,
+        "end": 2242159,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2183215,
-      "end": 2242159,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2183215,
+        "end": 2242159,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2183215,
-      "end": 2235207,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2183215,
+        "end": 2235207,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2321503,
-      "end": 2352320,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2321503,
+        "end": 2352320,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2321503,
-      "end": 2352320,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2321503,
+        "end": 2352320,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2321503,
-      "end": 2352320,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2321503,
+        "end": 2352320,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2321503,
-      "end": 2352320,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2321503,
+        "end": 2352320,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2455420,
-      "end": 2486543,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2455420,
+        "end": 2486543,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2455420,
-      "end": 2486543,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2455420,
+        "end": 2486543,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2455420,
-      "end": 2486543,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2455420,
+        "end": 2486543,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2455420,
-      "end": 2486543,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2455420,
+        "end": 2486543,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2724010,
-      "end": 2767931,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2724010,
+        "end": 2767931,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2724010,
-      "end": 2767931,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2724010,
+        "end": 2767931,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2725895,
-      "end": 2759383,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2725895,
+        "end": 2759383,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2967028,
-      "end": 3014045,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2967028,
+        "end": 3014045,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2967028,
-      "end": 3014045,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2967028,
+        "end": 3014045,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 2967028,
-      "end": 3014045,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 2967028,
+        "end": 3014045,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3014044,
-      "end": 3062193,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3014044,
+        "end": 3062193,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3246995,
-      "end": 3279751,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3246995,
+        "end": 3279751,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3247021,
-      "end": 3279754,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3247021,
+        "end": 3279754,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3249636,
-      "end": 3279754,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3249636,
+        "end": 3279754,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3355043,
-      "end": 3441040,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3355043,
+        "end": 3441040,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3358064,
-      "end": 3400000,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3358064,
+        "end": 3400000,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3358064,
-      "end": 3399999,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3358064,
+        "end": 3399999,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3363484,
-      "end": 3400000,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3363484,
+        "end": 3400000,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3372926,
-      "end": 3440633,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3372926,
+        "end": 3440633,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3372926,
-      "end": 3440633,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3372926,
+        "end": 3440633,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 3372926,
-      "end": 3430414,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3372926,
+        "end": 3430414,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3382443,
-      "end": 3440633,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3382443,
+        "end": 3440633,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3653952,
-      "end": 3709700,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3653952,
+        "end": 3709700,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3653952,
-      "end": 3709700,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3653952,
+        "end": 3709700,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3653955,
-      "end": 3709699,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3653955,
+        "end": 3709699,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3653957,
-      "end": 3709700,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3653957,
+        "end": 3709700,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3734220,
-      "end": 3775308,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3734220,
+        "end": 3775308,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3748392,
-      "end": 3795162,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3748392,
+        "end": 3795162,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3774513,
-      "end": 3808387,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3774513,
+        "end": 3808387,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 3880578,
-      "end": 3985125,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3880578,
+        "end": 3985125,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 3998598,
-      "end": 4036139,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 3998598,
+        "end": 4036139,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4041262,
-      "end": 4108909,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4041262,
+        "end": 4108909,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4041262,
-      "end": 4108909,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4041262,
+        "end": 4108909,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4041262,
-      "end": 4099389,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4041262,
+        "end": 4099389,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4051480,
-      "end": 4108909,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4051480,
+        "end": 4108909,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4151702,
-      "end": 4203694,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4151702,
+        "end": 4203694,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4331839,
-      "end": 4362265,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4331839,
+        "end": 4362265,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4410696,
-      "end": 4458206,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4410696,
+        "end": 4458206,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4410696,
-      "end": 4461209,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4410696,
+        "end": 4461209,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4417477,
-      "end": 4495438,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4417477,
+        "end": 4495438,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4417477,
-      "end": 4488494,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4417477,
+        "end": 4488494,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4528527,
-      "end": 4592132,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4528527,
+        "end": 4592132,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4599730,
-      "end": 4632564,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4599730,
+        "end": 4632564,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4599730,
-      "end": 4632564,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4599730,
+        "end": 4632564,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4650666,
-      "end": 4714084,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4650666,
+        "end": 4714084,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4650666,
-      "end": 4714084,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4650666,
+        "end": 4714084,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4782777,
-      "end": 4886565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4782777,
+        "end": 4886565,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 4805985,
-      "end": 4886565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4805985,
+        "end": 4886565,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4842247,
-      "end": 4886565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4842247,
+        "end": 4886565,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4856418,
-      "end": 4886565,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4856418,
+        "end": 4886565,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4936566,
-      "end": 4975324,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4936566,
+        "end": 4975324,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4936566,
-      "end": 4975324,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4936566,
+        "end": 4975324,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4936566,
-      "end": 4973175,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4936566,
+        "end": 4973175,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4936566,
-      "end": 4997214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4936566,
+        "end": 4997214,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 4937141,
-      "end": 4976960,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4937141,
+        "end": 4976960,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4937141,
-      "end": 4975630,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4937141,
+        "end": 4975630,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4938699,
-      "end": 4975352,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4938699,
+        "end": 4975352,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 4975571,
-      "end": 5034417,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 4975571,
+        "end": 5034417,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5085596,
-      "end": 5116316,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5085596,
+        "end": 5116316,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5180966,
-      "end": 5229985,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5180966,
+        "end": 5229985,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5235838,
-      "end": 5271688,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5235838,
+        "end": 5271688,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5235848,
-      "end": 5271688,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5235848,
+        "end": 5271688,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5338087,
-      "end": 5402712,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5338087,
+        "end": 5402712,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 5490800,
-      "end": 5521536,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5490800,
+        "end": 5521536,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5524482,
-      "end": 5563355,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5524482,
+        "end": 5563355,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5567429,
-      "end": 5616642,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5567429,
+        "end": 5616642,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5567429,
-      "end": 5616642,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5567429,
+        "end": 5616642,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5567429,
-      "end": 5616642,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5567429,
+        "end": 5616642,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5574195,
-      "end": 5616642,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5574195,
+        "end": 5616642,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5574195,
-      "end": 5616642,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5574195,
+        "end": 5616642,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5709348,
-      "end": 5763486,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5709348,
+        "end": 5763486,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5709348,
-      "end": 5750303,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5709348,
+        "end": 5750303,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5709523,
-      "end": 5748208,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5709523,
+        "end": 5748208,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5715652,
-      "end": 5818456,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5715652,
+        "end": 5818456,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 5721375,
-      "end": 5763486,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5721375,
+        "end": 5763486,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5730122,
-      "end": 5822214,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5730122,
+        "end": 5822214,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 5732896,
-      "end": 5763486,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5732896,
+        "end": 5763486,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5755950,
-      "end": 5811009,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5755950,
+        "end": 5811009,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5763485,
-      "end": 5813137,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5763485,
+        "end": 5813137,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5898290,
-      "end": 5932283,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5898290,
+        "end": 5932283,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5898290,
-      "end": 5932283,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5898290,
+        "end": 5932283,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5987364,
-      "end": 6018044,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5987364,
+        "end": 6018044,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 5987364,
-      "end": 6029639,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 5987364,
+        "end": 6029639,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6000569,
-      "end": 6041714,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6000569,
+        "end": 6041714,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6002664,
-      "end": 6041538,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6002664,
+        "end": 6041538,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6011706,
-      "end": 6041714,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6011706,
+        "end": 6041714,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6042923,
-      "end": 6074445,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6042923,
+        "end": 6074445,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6114994,
-      "end": 6190199,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6114994,
+        "end": 6190199,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6246356,
-      "end": 6285749,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6246356,
+        "end": 6285749,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6292162,
-      "end": 6326162,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6292162,
+        "end": 6326162,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6292162,
-      "end": 6328800,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6292162,
+        "end": 6328800,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6292165,
-      "end": 6328717,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6292165,
+        "end": 6328717,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6509464,
-      "end": 6539552,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6509464,
+        "end": 6539552,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6616757,
-      "end": 6705509,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6616757,
+        "end": 6705509,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6619119,
-      "end": 6705517,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6619119,
+        "end": 6705517,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6619119,
-      "end": 6705517,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6619119,
+        "end": 6705517,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6624431,
-      "end": 6672124,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6624431,
+        "end": 6672124,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6626565,
-      "end": 6679639,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6626565,
+        "end": 6679639,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6672123,
-      "end": 6702788,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6672123,
+        "end": 6702788,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6672123,
-      "end": 6705513,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6672123,
+        "end": 6705513,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6672123,
-      "end": 6705513,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6672123,
+        "end": 6705513,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6755518,
-      "end": 6807734,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6755518,
+        "end": 6807734,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6895644,
-      "end": 7005235,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6895644,
+        "end": 7005235,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 6895644,
-      "end": 6925742,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6895644,
+        "end": 6925742,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 6935823,
-      "end": 6999970,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6935823,
+        "end": 6999970,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 6971255,
-      "end": 7005235,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 6971255,
+        "end": 7005235,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7008157,
-      "end": 7058461,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7008157,
+        "end": 7058461,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7010291,
-      "end": 7065984,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7010291,
+        "end": 7065984,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7058460,
-      "end": 7089091,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7058460,
+        "end": 7089091,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7058460,
-      "end": 7100703,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7058460,
+        "end": 7100703,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7071642,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7071642,
+        "end": 7106426,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7073733,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7073733,
+        "end": 7106426,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7076360,
-      "end": 7106426,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7076360,
+        "end": 7106426,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7171505,
-      "end": 7212607,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7171505,
+        "end": 7212607,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7171681,
-      "end": 7210516,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7171681,
+        "end": 7210516,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7183572,
-      "end": 7225789,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7183572,
+        "end": 7225789,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7195141,
-      "end": 7225789,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7195141,
+        "end": 7225789,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7279073,
-      "end": 7351035,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7279073,
+        "end": 7351035,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7279073,
-      "end": 7313054,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7279073,
+        "end": 7313054,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7279073,
-      "end": 7351035,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7279073,
+        "end": 7351035,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7284338,
-      "end": 7351035,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7284338,
+        "end": 7351035,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7401036,
-      "end": 7522996,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7401036,
+        "end": 7522996,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7401036,
-      "end": 7522996,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7401036,
+        "end": 7522996,
+        "color": "#333"
     },
     {
-      "chr": "chr9",
-      "start": 7401036,
-      "end": 7512533,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7401036,
+        "end": 7512533,
+        "color": "#666"
     },
     {
-      "chr": "chr9",
-      "start": 7401036,
-      "end": 7457885,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7401036,
+        "end": 7457885,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7474846,
-      "end": 7522996,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7474846,
+        "end": 7522996,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7598173,
-      "end": 7633970,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7598173,
+        "end": 7633970,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7598173,
-      "end": 7633980,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7598173,
+        "end": 7633980,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7679986,
-      "end": 7743246,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7679986,
+        "end": 7743246,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7799552,
-      "end": 7860343,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7799552,
+        "end": 7860343,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7829859,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7829859,
+        "end": 7899953,
+        "color": "#999"
     },
     {
-      "chr": "chr9",
-      "start": 7860654,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7860654,
+        "end": 7899953,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7860654,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7860654,
+        "end": 7899953,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7860654,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7860654,
+        "end": 7899953,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7869213,
-      "end": 7899953,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7869213,
+        "end": 7899953,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7949954,
-      "end": 7982166,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7949954,
+        "end": 7982166,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7949954,
-      "end": 7991924,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7949954,
+        "end": 7991924,
+        "color": "#BBB"
     },
     {
-      "chr": "chr9",
-      "start": 7949954,
-      "end": 7982166,
-      "block_id": "chr9"
+        "block_id": "chr9",
+        "start": 7949954,
+        "end": 7982166,
+        "color": "#BBB"
     }
   ],
   "snp250": [
