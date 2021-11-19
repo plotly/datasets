@@ -90044,145 +90044,145 @@
     {
       "id": "chr1",
       "label": "chr1",
-      "gieStain": "#996600",
+      "color": "#996600",
       "len": 249250621
     },
     {
       "id": "chr2",
       "label": "chr2",
-      "gieStain": "#666600",
+      "color": "#666600",
       "len": 243199373
     },
     {
       "id": "chr3",
       "label": "chr3",
-      "gieStain": "#99991E",
+      "color": "#99991E",
       "len": 198022430
     },
     {
       "id": "chr4",
       "label": "chr4",
-      "gieStain": "#CC0000",
+      "color": "#CC0000",
       "len": 191154276
     },
     {
       "id": "chr5",
       "label": "chr5",
-      "gieStain": "#FF0000",
+      "color": "#FF0000",
       "len": 180915260
     },
     {
       "id": "chr6",
       "label": "chr6",
-      "gieStain": "#FF00CC",
+      "color": "#FF00CC",
       "len": 171115067
     },
     {
       "id": "chr7",
       "label": "chr7",
-      "gieStain": "#FFCCCC",
+      "color": "#FFCCCC",
       "len": 159138663
     },
     {
       "id": "chr8",
       "label": "chr8",
-      "gieStain": "#FF9900",
+      "color": "#FF9900",
       "len": 146364022
     },
     {
       "id": "chr9",
       "label": "chr9",
-      "gieStain": "#FFCC00",
+      "color": "#FFCC00",
       "len": 141213431
     },
     {
       "id": "chr10",
       "label": "chr10",
-      "gieStain": "#FFFF00",
+      "color": "#FFFF00",
       "len": 135534747
     },
     {
       "id": "chr11",
       "label": "chr11",
-      "gieStain": "#CCFF00",
+      "color": "#CCFF00",
       "len": 135006516
     },
     {
       "id": "chr12",
       "label": "chr12",
-      "gieStain": "#00FF00",
+      "color": "#00FF00",
       "len": 133851895
     },
     {
       "id": "chr13",
       "label": "chr13",
-      "gieStain": "#358000",
+      "color": "#358000",
       "len": 115169878
     },
     {
       "id": "chr14",
       "label": "chr14",
-      "gieStain": "#0000CC",
+      "color": "#0000CC",
       "len": 107349540
     },
     {
       "id": "chr15",
       "label": "chr5",
-      "gieStain": "#6699FF",
+      "color": "#6699FF",
       "len": 102531392
     },
     {
       "id": "chr16",
       "label": "chr16",
-      "gieStain": "#99CCFF",
+      "color": "#99CCFF",
       "len": 90354753
     },
     {
       "id": "chr17",
       "label": "chr17",
-      "gieStain": "#00FFFF",
+      "color": "#00FFFF",
       "len": 81195210
     },
     {
       "id": "chr18",
       "label": "chr18",
-      "gieStain": "#CCFFFF",
+      "color": "#CCFFFF",
       "len": 78077248
     },
     {
       "id": "chr19",
       "label": "chr19",
-      "gieStain": "#9900CC",
+      "color": "#9900CC",
       "len": 59128983
     },
     {
       "id": "chr20",
       "label": "chr20",
-      "gieStain": "#CC33FF",
+      "color": "#CC33FF",
       "len": 63025520
     },
     {
       "id": "chr21",
       "label": "chr21",
-      "gieStain": "#CC99FF",
+      "color": "#CC99FF",
       "len": 48129895
     },
     {
       "id": "chr22",
       "label": "chr22",
-      "gieStain": "#666666",
+      "color": "#666666",
       "len": 51304566
     },
     {
       "id": "chrX",
       "label": "chrX",
-      "gieStain": "#999999",
+      "color": "#999999",
       "len": 155270560
     },
     {
       "id": "chrY",
       "label": "chrY",
-      "gieStain": "#CCCCCC",
+      "color": "#CCCCCC",
       "len": 59373566
     }
   ]
