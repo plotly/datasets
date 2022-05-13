@@ -1,0 +1,1496 @@
+[
+ {
+   "centroid_lat": "45.471548505146174",
+   "centroid_lon": "-73.58868408217266",
+   "car_hours": "1772.7499999995052",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.54386506674422",
+   "centroid_lon": "-73.56245583980697",
+   "car_hours": "986.3333333335024",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.4876395818664",
+   "centroid_lon": "-73.64276703077329",
+   "car_hours": "354.74999999998914",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.52286967122903",
+   "centroid_lon": "-73.5956772508181",
+   "car_hours": "560.166666666642",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.45397130964701",
+   "centroid_lon": "-73.73894559925054",
+   "car_hours": "2836.666666667356",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.57312570194822",
+   "centroid_lon": "-73.53990236454271",
+   "car_hours": "1022.7500000001857",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.53005389171565",
+   "centroid_lon": "-73.62803605045727",
+   "car_hours": "835.7500000001006",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.49919320522112",
+   "centroid_lon": "-73.56194373919256",
+   "car_hours": "1888.3333333327334",
+   "peak_hour": 14
+ },
+ {
+   "centroid_lat": "45.551300651627535",
+   "centroid_lon": "-73.61171191446698",
+   "car_hours": "1030.75000000018",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.553809920339894",
+   "centroid_lon": "-73.57720679008477",
+   "car_hours": "1841.1666666661097",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.47448282698679",
+   "centroid_lon": "-73.63054396371925",
+   "car_hours": "1966.166666665996",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.53249580289159",
+   "centroid_lon": "-73.57956985159979",
+   "car_hours": "1532.9999999997233",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.565456427575675",
+   "centroid_lon": "-73.64201176723445",
+   "car_hours": "834.1666666667666",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.502981092849524",
+   "centroid_lon": "-73.62748995674825",
+   "car_hours": "289.0000000000041",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.56711856838078",
+   "centroid_lon": "-73.58439300639695",
+   "car_hours": "273.58333333334093",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.480026123563874",
+   "centroid_lon": "-73.58239204679343",
+   "car_hours": "594.8333333333244",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.448903185047335",
+   "centroid_lon": "-73.59297686556374",
+   "car_hours": "1020.9166666668515",
+   "peak_hour": 6
+ },
+ {
+   "centroid_lat": "45.503030898950044",
+   "centroid_lon": "-73.5790295367978",
+   "car_hours": "1428.4999999998183",
+   "peak_hour": 15
+ },
+ {
+   "centroid_lat": "45.609667861846745",
+   "centroid_lon": "-73.54023161013792",
+   "car_hours": "670.7500000000256",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.478348275451104",
+   "centroid_lon": "-73.57856784133362",
+   "car_hours": "489.4999999999585",
+   "peak_hour": 14
+ },
+ {
+   "centroid_lat": "45.51951352944332",
+   "centroid_lon": "-73.5793289407554",
+   "car_hours": "1426.3333333331536",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.56903061932889",
+   "centroid_lon": "-73.52573081459546",
+   "car_hours": "422.49999999997374",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.53626021131554",
+   "centroid_lon": "-73.56209061086564",
+   "car_hours": "1624.7499999996398",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.56857291481607",
+   "centroid_lon": "-73.56084340953332",
+   "car_hours": "732.7500000000538",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.546145398119506",
+   "centroid_lon": "-73.59114755541647",
+   "car_hours": "1969.6666666659928",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.54488834188077",
+   "centroid_lon": "-73.63562160484223",
+   "car_hours": "1657.9999999996096",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.54515565293561",
+   "centroid_lon": "-73.6172218179539",
+   "car_hours": "665.5833333333566",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.47817195218011",
+   "centroid_lon": "-73.56778840803071",
+   "car_hours": "805.08333333342",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.58212955989256",
+   "centroid_lon": "-73.5214125066963",
+   "car_hours": "217.75000000000728",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.531215706332375",
+   "centroid_lon": "-73.60636943656155",
+   "car_hours": "1332.583333333239",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.55267826328372",
+   "centroid_lon": "-73.60186065688765",
+   "car_hours": "630.5000000000073",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.52915993898732",
+   "centroid_lon": "-73.61182738988052",
+   "car_hours": "559.9999999999752",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.52404418524071",
+   "centroid_lon": "-73.57255202228934",
+   "car_hours": "456.16666666663275",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.50851711032711",
+   "centroid_lon": "-73.56361361279802",
+   "car_hours": "1185.8333333333724",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.4880586878363",
+   "centroid_lon": "-73.62175707085048",
+   "car_hours": "1112.6666666667722",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.50689566111847",
+   "centroid_lon": "-73.63992985736493",
+   "car_hours": "1016.5833333335162",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.57894266654677",
+   "centroid_lon": "-73.5722622021108",
+   "car_hours": "1367.249999999874",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.46892041666329",
+   "centroid_lon": "-73.61587858172172",
+   "car_hours": "1767.9999999995096",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.538661649923796",
+   "centroid_lon": "-73.65684895574016",
+   "car_hours": "2291.9999999996985",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.58530574012526",
+   "centroid_lon": "-73.556671023514",
+   "car_hours": "552.8333333333053",
+   "peak_hour": 17
+ },
+ {
+   "centroid_lat": "45.46252493114867",
+   "centroid_lon": "-73.591450603879",
+   "car_hours": "1397.9166666665128",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.50814302347108",
+   "centroid_lon": "-73.61443790111136",
+   "car_hours": "997.7500000001743",
+   "peak_hour": 16
+ },
+ {
+   "centroid_lat": "45.552242186431826",
+   "centroid_lon": "-73.5567248443471",
+   "car_hours": "926.1666666668084",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.533068241362294",
+   "centroid_lon": "-73.58586652140238",
+   "car_hours": "323.166666666663",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.529617524254725",
+   "centroid_lon": "-73.59016001500189",
+   "car_hours": "833.0833333334327",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.561726663480314",
+   "centroid_lon": "-73.61316030479036",
+   "car_hours": "1394.416666666516",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.45886520703704",
+   "centroid_lon": "-73.65393428057348",
+   "car_hours": "601.7499999999942",
+   "peak_hour": 16
+ },
+ {
+   "centroid_lat": "45.51827128926588",
+   "centroid_lon": "-73.53518132112849",
+   "car_hours": "1724.4999999995491",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.46330588193452",
+   "centroid_lon": "-73.63201646596775",
+   "car_hours": "1061.5833333334854",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.45722580199571",
+   "centroid_lon": "-73.6471457252509",
+   "car_hours": "325.74999999999574",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.580421260240946",
+   "centroid_lon": "-73.62450277147559",
+   "car_hours": "1271.5833333332944",
+   "peak_hour": 8
+ },
+ {
+   "centroid_lat": "45.512201564512644",
+   "centroid_lon": "-73.62439363857663",
+   "car_hours": "1951.0833333326764",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.548176804195634",
+   "centroid_lon": "-73.57230388575367",
+   "car_hours": "961.4166666668244",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.527921207745315",
+   "centroid_lon": "-73.61477370856916",
+   "car_hours": "507.83333333328767",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.58971117459708",
+   "centroid_lon": "-73.5124596370787",
+   "car_hours": "679.6666666666963",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.530662983670226",
+   "centroid_lon": "-73.61566624177722",
+   "car_hours": "734.833333333388",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.497803678776116",
+   "centroid_lon": "-73.64552238789666",
+   "car_hours": "1057.4166666668225",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.539789045655915",
+   "centroid_lon": "-73.5647843753964",
+   "car_hours": "262.8333333333434",
+   "peak_hour": 7
+ },
+ {
+   "centroid_lat": "45.52977286764973",
+   "centroid_lon": "-73.57271916651166",
+   "car_hours": "1302.7499999999327",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.57635821927521",
+   "centroid_lon": "-73.55658769397526",
+   "car_hours": "345.8333333333245",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.592896967066345",
+   "centroid_lon": "-73.56283021327646",
+   "car_hours": "1543.3333333330472",
+   "peak_hour": 7
+ },
+ {
+   "centroid_lat": "45.54282395560971",
+   "centroid_lon": "-73.53978288809766",
+   "car_hours": "630.7500000000074",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.45146052808264",
+   "centroid_lon": "-73.60077524293251",
+   "car_hours": "1164.5833333333917",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.50017958704209",
+   "centroid_lon": "-73.57356239315693",
+   "car_hours": "1676.9999999995923",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.559598360083115",
+   "centroid_lon": "-73.53735411019554",
+   "car_hours": "1282.5833333332844",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.51405331206955",
+   "centroid_lon": "-73.6328226471968",
+   "car_hours": "1019.000000000184",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.52098513669111",
+   "centroid_lon": "-73.5859649617064",
+   "car_hours": "1719.1666666662206",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.51969025678738",
+   "centroid_lon": "-73.56818790168714",
+   "car_hours": "681.5000000000305",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.47196677288637",
+   "centroid_lon": "-73.645100544613",
+   "car_hours": "287.66666666667106",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.4940320553664",
+   "centroid_lon": "-73.61062703452248",
+   "car_hours": "1559.3333333330327",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.57383095629989",
+   "centroid_lon": "-73.60414320228709",
+   "car_hours": "627.4166666666725",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.47270552917877",
+   "centroid_lon": "-73.60760805947412",
+   "car_hours": "1863.7499999994225",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.58204625444414",
+   "centroid_lon": "-73.5329739761722",
+   "car_hours": "867.2500000001149",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.4810627259832",
+   "centroid_lon": "-73.56087334817683",
+   "car_hours": "2413.4999999999195",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.60751580853944",
+   "centroid_lon": "-73.51375636627016",
+   "car_hours": "1322.3333333332482",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.50429652950133",
+   "centroid_lon": "-73.56520883274013",
+   "car_hours": "3274.0000000014848",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.459862270272",
+   "centroid_lon": "-73.58285531458276",
+   "car_hours": "1558.9166666663664",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.550869209779385",
+   "centroid_lon": "-73.617846092248",
+   "car_hours": "1902.416666666054",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.52515960693799",
+   "centroid_lon": "-73.6047044738415",
+   "car_hours": "1609.1666666663207",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.507436867392705",
+   "centroid_lon": "-73.57429268607511",
+   "car_hours": "2773.250000000574",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.54836167081622",
+   "centroid_lon": "-73.58539717879967",
+   "car_hours": "1940.6666666660192",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.53036120501041",
+   "centroid_lon": "-73.62029730985503",
+   "car_hours": "1597.4999999996646",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.49339463589723",
+   "centroid_lon": "-73.62504495384513",
+   "car_hours": "162.500000000001",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.49643413195211",
+   "centroid_lon": "-73.55267239661161",
+   "car_hours": "1929.0833333326964",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.561211827035706",
+   "centroid_lon": "-73.5902004112542",
+   "car_hours": "847.0000000001057",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.55537527937125",
+   "centroid_lon": "-73.56930840912791",
+   "car_hours": "1522.7499999997326",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.52524090241434",
+   "centroid_lon": "-73.59981458158266",
+   "car_hours": "635.3333333333428",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.542945623835706",
+   "centroid_lon": "-73.62128455035952",
+   "car_hours": "2057.166666665938",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.465546068371886",
+   "centroid_lon": "-73.62067736676947",
+   "car_hours": "845.9166666667719",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.51646059071524",
+   "centroid_lon": "-73.55492741665876",
+   "car_hours": "2022.9166666659444",
+   "peak_hour": 15
+ },
+ {
+   "centroid_lat": "45.53280566796844",
+   "centroid_lon": "-73.64048496482262",
+   "car_hours": "1598.7499999996635",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.47963265657448",
+   "centroid_lon": "-73.62987341664497",
+   "car_hours": "566.8333333333117",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.45591463685107",
+   "centroid_lon": "-73.63946019785875",
+   "car_hours": "1714.1666666662252",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.54630844232351",
+   "centroid_lon": "-73.60685622581383",
+   "car_hours": "680.50000000003",
+   "peak_hour": 8
+ },
+ {
+   "centroid_lat": "45.49848094816177",
+   "centroid_lon": "-73.61967423595867",
+   "car_hours": "1043.2500000001687",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.528525372523454",
+   "centroid_lon": "-73.60153035519421",
+   "car_hours": "673.3333333333601",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.56579154043406",
+   "centroid_lon": "-73.59801021780002",
+   "car_hours": "1105.7500000001119",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.53765718184978",
+   "centroid_lon": "-73.58232714569509",
+   "car_hours": "1382.9999999998597",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.47455332862991",
+   "centroid_lon": "-73.637521859517",
+   "car_hours": "531.4999999999623",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.5279051561684",
+   "centroid_lon": "-73.5845589383217",
+   "car_hours": "635.0000000000093",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.494951534596034",
+   "centroid_lon": "-73.55953118048146",
+   "car_hours": "2376.833333333186",
+   "peak_hour": 16
+ },
+ {
+   "centroid_lat": "45.465088224907866",
+   "centroid_lon": "-73.65258509641737",
+   "car_hours": "462.41666666663133",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.59654571636812",
+   "centroid_lon": "-73.52593434063824",
+   "car_hours": "1315.6666666665876",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.491523525524194",
+   "centroid_lon": "-73.63722045431894",
+   "car_hours": "504.4166666666218",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.517922919617476",
+   "centroid_lon": "-73.58980729398637",
+   "car_hours": "741.2500000000576",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.467778431014075",
+   "centroid_lon": "-73.63595141045859",
+   "car_hours": "867.3333333334483",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.51117458455963",
+   "centroid_lon": "-73.57114931189177",
+   "car_hours": "875.5833333334521",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.549158998788705",
+   "centroid_lon": "-73.63292319176229",
+   "car_hours": "2188.1666666661763",
+   "peak_hour": 7
+ },
+ {
+   "centroid_lat": "45.535767560039695",
+   "centroid_lon": "-73.59674218487977",
+   "car_hours": "1172.8333333333842",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.49044848119951",
+   "centroid_lon": "-73.64754965162766",
+   "car_hours": "332.4999999999942",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.538238804018775",
+   "centroid_lon": "-73.60597173479003",
+   "car_hours": "1351.7499999998881",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.5277041052173",
+   "centroid_lon": "-73.57565350409223",
+   "car_hours": "966.25000000016",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.534777091929946",
+   "centroid_lon": "-73.5728803879145",
+   "car_hours": "981.750000000167",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.48934750923581",
+   "centroid_lon": "-73.57095543068031",
+   "car_hours": "1714.3333333328917",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.45408718820735",
+   "centroid_lon": "-73.5871111898369",
+   "car_hours": "813.833333333424",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.472649739508654",
+   "centroid_lon": "-73.5826189686433",
+   "car_hours": "863.7500000001133",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.556594441979996",
+   "centroid_lon": "-73.53214371066534",
+   "car_hours": "1202.1666666666908",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.483089972430825",
+   "centroid_lon": "-73.63467979451553",
+   "car_hours": "665.0833333333563",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.49619305656642",
+   "centroid_lon": "-73.58337891052282",
+   "car_hours": "2433.83333333329",
+   "peak_hour": 15
+ },
+ {
+   "centroid_lat": "45.55742769063361",
+   "centroid_lon": "-73.60077343846366",
+   "car_hours": "1189.0000000000362",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.49971820106133",
+   "centroid_lon": "-73.6544874970073",
+   "car_hours": "2298.583333333044",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.48523078626532",
+   "centroid_lon": "-73.61782510513464",
+   "car_hours": "1414.9166666664973",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.45863614550253",
+   "centroid_lon": "-73.64348260405826",
+   "car_hours": "476.49999999996146",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.50110763484297",
+   "centroid_lon": "-73.63443884623427",
+   "car_hours": "766.3333333334024",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.50643446059914",
+   "centroid_lon": "-73.55280978474548",
+   "car_hours": "2338.2499999997826",
+   "peak_hour": 14
+ },
+ {
+   "centroid_lat": "45.52764608144713",
+   "centroid_lon": "-73.59350797166334",
+   "car_hours": "1170.500000000053",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.48910798882796",
+   "centroid_lon": "-73.6314622358004",
+   "car_hours": "716.0000000000462",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.52543292800497",
+   "centroid_lon": "-73.62642522019199",
+   "car_hours": "1228.083333333334",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.60326418430284",
+   "centroid_lon": "-73.53716899543986",
+   "car_hours": "511.83333333328676",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.478224670915985",
+   "centroid_lon": "-73.6131691288042",
+   "car_hours": "1357.3333333332164",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.56923339719061",
+   "centroid_lon": "-73.56970219899235",
+   "car_hours": "1144.0833333334103",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.46715978062781",
+   "centroid_lon": "-73.64277864672295",
+   "car_hours": "292.5000000000033",
+   "peak_hour": 6
+ },
+ {
+   "centroid_lat": "45.543842954244646",
+   "centroid_lon": "-73.58224236729227",
+   "car_hours": "1069.0833333334785",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.47954227936379",
+   "centroid_lon": "-73.54759113967883",
+   "car_hours": "1552.333333333039",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.47510964560248",
+   "centroid_lon": "-73.56317906950511",
+   "car_hours": "1029.9166666668475",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.54858377217711",
+   "centroid_lon": "-73.57887887297544",
+   "car_hours": "2752.83333333387",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.54415239549018",
+   "centroid_lon": "-73.59658041602985",
+   "car_hours": "2077.1666666659744",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.61087892678886",
+   "centroid_lon": "-73.53187026901544",
+   "car_hours": "1167.8333333333887",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.481028563111394",
+   "centroid_lon": "-73.62384266869233",
+   "car_hours": "658.2500000000199",
+   "peak_hour": 6
+ },
+ {
+   "centroid_lat": "45.52753294236388",
+   "centroid_lon": "-73.58132388945315",
+   "car_hours": "741.7500000000579",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.50713730344406",
+   "centroid_lon": "-73.63043341873463",
+   "car_hours": "520.4166666666239",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.54445300313406",
+   "centroid_lon": "-73.54776346337367",
+   "car_hours": "2127.4999999993993",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.53978806387313",
+   "centroid_lon": "-73.54278601036688",
+   "car_hours": "1093.2500000001232",
+   "peak_hour": 6
+ },
+ {
+   "centroid_lat": "45.53344000001958",
+   "centroid_lon": "-73.5547199999811",
+   "car_hours": "1590.4166666663377",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.467466375494865",
+   "centroid_lon": "-73.59078190259488",
+   "car_hours": "696.4166666667039",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.53453717264379",
+   "centroid_lon": "-73.59256240577943",
+   "car_hours": "1286.8333333332805",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.53658915333014",
+   "centroid_lon": "-73.62157941242943",
+   "car_hours": "1489.1666666664298",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.534297593562314",
+   "centroid_lon": "-73.61041764596348",
+   "car_hours": "1796.91666666615",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.52410832338415",
+   "centroid_lon": "-73.58731842223665",
+   "car_hours": "1298.2499999999368",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.47265626277289",
+   "centroid_lon": "-73.62370107695057",
+   "car_hours": "921.583333333473",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.50559257327809",
+   "centroid_lon": "-73.62277637402323",
+   "car_hours": "605.5833333333293",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.51901074555018",
+   "centroid_lon": "-73.57542843260613",
+   "car_hours": "1245.1666666666517",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.52540175130616",
+   "centroid_lon": "-73.61022133725439",
+   "car_hours": "1261.9166666666365",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.54048050327387",
+   "centroid_lon": "-73.63688048862373",
+   "car_hours": "1705.4999999995664",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.48335540200465",
+   "centroid_lon": "-73.58250497434213",
+   "car_hours": "1363.999999999877",
+   "peak_hour": 16
+ },
+ {
+   "centroid_lat": "45.54220224528534",
+   "centroid_lon": "-73.61142929406647",
+   "car_hours": "790.9166666667469",
+   "peak_hour": 7
+ },
+ {
+   "centroid_lat": "45.519876273318",
+   "centroid_lon": "-73.5829101943345",
+   "car_hours": "1067.7500000001464",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.55095552442233",
+   "centroid_lon": "-73.59145464281357",
+   "car_hours": "1320.4999999999166",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.51670639951611",
+   "centroid_lon": "-73.57855556771429",
+   "car_hours": "1317.416666666586",
+   "peak_hour": 16
+ },
+ {
+   "centroid_lat": "45.53834507417609",
+   "centroid_lon": "-73.57053862449274",
+   "car_hours": "1404.3333333331736",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.54348593525155",
+   "centroid_lon": "-73.57027313720633",
+   "car_hours": "648.6666666666822",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.499335181599186",
+   "centroid_lon": "-73.62608825396849",
+   "car_hours": "309.7499999999994",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.57484789346844",
+   "centroid_lon": "-73.5635392336782",
+   "car_hours": "484.9999999999595",
+   "peak_hour": 9
+ },
+ {
+   "centroid_lat": "45.47790745068288",
+   "centroid_lon": "-73.62640937405116",
+   "car_hours": "439.33333333330324",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.54237585056225",
+   "centroid_lon": "-73.55538289355314",
+   "car_hours": "814.1666666667575",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.46417997825538",
+   "centroid_lon": "-73.62592082119164",
+   "car_hours": "1264.4166666666342",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.48897149612501",
+   "centroid_lon": "-73.62783793313959",
+   "car_hours": "655.583333333352",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.570596118677166",
+   "centroid_lon": "-73.52828137402979",
+   "car_hours": "342.66666666665856",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.549545481512375",
+   "centroid_lon": "-73.56715045890071",
+   "car_hours": "626.5000000000055",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.56161463008111",
+   "centroid_lon": "-73.57406730167698",
+   "car_hours": "1059.9166666668202",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.48012052331579",
+   "centroid_lon": "-73.57250207253963",
+   "car_hours": "321.66666666666333",
+   "peak_hour": 14
+ },
+ {
+   "centroid_lat": "45.546769706786165",
+   "centroid_lon": "-73.53904284095108",
+   "car_hours": "676.4166666666948",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.47728503507936",
+   "centroid_lon": "-73.58122340486779",
+   "car_hours": "201.91666666667214",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.582073874173176",
+   "centroid_lon": "-73.54826893987729",
+   "car_hours": "1223.916666666671",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.539031747248764",
+   "centroid_lon": "-73.60093377104955",
+   "car_hours": "1687.4166666662495",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.510890621674776",
+   "centroid_lon": "-73.57633721593862",
+   "car_hours": "1112.583333333439",
+   "peak_hour": 15
+ },
+ {
+   "centroid_lat": "45.51923221924688",
+   "centroid_lon": "-73.57244658989525",
+   "car_hours": "466.7499999999637",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.55028382655888",
+   "centroid_lon": "-73.60783357287939",
+   "car_hours": "785.0833333334109",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.554677131421606",
+   "centroid_lon": "-73.54632265433347",
+   "car_hours": "1800.833333332813",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.509217063208105",
+   "centroid_lon": "-73.61862500763353",
+   "car_hours": "1364.5833333332098",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.54493929194947",
+   "centroid_lon": "-73.62750959017946",
+   "car_hours": "2299.7499999997126",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.55102553790574",
+   "centroid_lon": "-73.56330138226609",
+   "car_hours": "1038.7500000001728",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.464276604795955",
+   "centroid_lon": "-73.64748824071867",
+   "car_hours": "722.8333333333826",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.53566818785226",
+   "centroid_lon": "-73.56861361257508",
+   "car_hours": "1706.999999999565",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.5222319477743",
+   "centroid_lon": "-73.60012669507964",
+   "car_hours": "1231.7499999999973",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.53831624591015",
+   "centroid_lon": "-73.57466650421921",
+   "car_hours": "967.833333333494",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.47689750165655",
+   "centroid_lon": "-73.58830635134413",
+   "car_hours": "1386.5833333331898",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.55427699436827",
+   "centroid_lon": "-73.62166601126063",
+   "car_hours": "192.41666666667106",
+   "peak_hour": 17
+ },
+ {
+   "centroid_lat": "45.54393996853523",
+   "centroid_lon": "-73.57394431922157",
+   "car_hours": "291.3333333333369",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.54733066622103",
+   "centroid_lon": "-73.60149624886525",
+   "car_hours": "1370.9166666665374",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.531729900907436",
+   "centroid_lon": "-73.5764851307457",
+   "car_hours": "605.4999999999959",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.524053726921764",
+   "centroid_lon": "-73.5653588020603",
+   "car_hours": "194.08333333333792",
+   "peak_hour": 22
+ },
+ {
+   "centroid_lat": "45.52567648569128",
+   "centroid_lon": "-73.59003684764208",
+   "car_hours": "538.7499999999656",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.455662882205324",
+   "centroid_lon": "-73.64576984962405",
+   "car_hours": "33.24999999999985",
+   "peak_hour": 19
+ },
+ {
+   "centroid_lat": "45.514928037931",
+   "centroid_lon": "-73.5716441021712",
+   "car_hours": "1792.749999999487",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.52875593668882",
+   "centroid_lon": "-73.57904510571099",
+   "car_hours": "737.0833333333891",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.45893633874722",
+   "centroid_lon": "-73.59639171903568",
+   "car_hours": "1153.7500000000682",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.523397216893244",
+   "centroid_lon": "-73.60671288562885",
+   "car_hours": "886.0000000001235",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.53380644488978",
+   "centroid_lon": "-73.58376257412169",
+   "car_hours": "955.6666666668218",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.51698913885445",
+   "centroid_lon": "-73.58364027226557",
+   "car_hours": "1071.2500000001432",
+   "peak_hour": 22
+ },
+ {
+   "centroid_lat": "45.47417720458765",
+   "centroid_lon": "-73.59403776813",
+   "car_hours": "748.2500000000608",
+   "peak_hour": 4
+ },
+ {
+   "centroid_lat": "45.52430638232658",
+   "centroid_lon": "-73.58198744370928",
+   "car_hours": "1487.8333333330977",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.57221159337733",
+   "centroid_lon": "-73.54796924219626",
+   "car_hours": "835.7500000001006",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.531432181288466",
+   "centroid_lon": "-73.56470160854694",
+   "car_hours": "889.0000000001248",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.52029302323953",
+   "centroid_lon": "-73.59161297526235",
+   "car_hours": "1337.4166666665678",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.5428521988577",
+   "centroid_lon": "-73.60552201275355",
+   "car_hours": "1137.3333333334165",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.51177396205147",
+   "centroid_lon": "-73.63749469512531",
+   "car_hours": "966.25000000016",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.476699804159765",
+   "centroid_lon": "-73.61960578900425",
+   "car_hours": "1034.0000000001771",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.52527451544683",
+   "centroid_lon": "-73.5938625905676",
+   "car_hours": "1499.6666666664203",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.52904526725249",
+   "centroid_lon": "-73.56435515803537",
+   "car_hours": "503.58333333328864",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.54589006890641",
+   "centroid_lon": "-73.613329142374",
+   "car_hours": "894.9166666667942",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.54129653265394",
+   "centroid_lon": "-73.58761174867594",
+   "car_hours": "1749.4166666661931",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.52641793678303",
+   "centroid_lon": "-73.59653658066382",
+   "car_hours": "1879.749999999408",
+   "peak_hour": 12
+ },
+ {
+   "centroid_lat": "45.506014494884326",
+   "centroid_lon": "-73.62601031881215",
+   "car_hours": "635.1666666666761",
+   "peak_hour": 8
+ },
+ {
+   "centroid_lat": "45.56249120965429",
+   "centroid_lon": "-73.58319715388312",
+   "car_hours": "777.0833333334073",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.518606229301774",
+   "centroid_lon": "-73.59475241426874",
+   "car_hours": "1202.9166666666902",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.52203370353778",
+   "centroid_lon": "-73.57113021855815",
+   "car_hours": "560.4999999999754",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.52409679671165",
+   "centroid_lon": "-73.57841797764475",
+   "car_hours": "790.3333333334133",
+   "peak_hour": 15
+ },
+ {
+   "centroid_lat": "45.52247779646763",
+   "centroid_lon": "-73.57478446870938",
+   "car_hours": "797.5833333334166",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.53961066076051",
+   "centroid_lon": "-73.62661841692122",
+   "car_hours": "1156.5000000000657",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.58895991968114",
+   "centroid_lon": "-73.53758992480975",
+   "car_hours": "1462.9166666664537",
+   "peak_hour": 20
+ },
+ {
+   "centroid_lat": "45.54559560319731",
+   "centroid_lon": "-73.5672399814485",
+   "car_hours": "1168.0833333333885",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.537473700456566",
+   "centroid_lon": "-73.57729937169172",
+   "car_hours": "456.24999999996606",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.57342046906779",
+   "centroid_lon": "-73.6327727768197",
+   "car_hours": "1019.7500000001843",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.53557355419221",
+   "centroid_lon": "-73.57917172211978",
+   "car_hours": "1167.1666666667227",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.50192689559106",
+   "centroid_lon": "-73.62989603799815",
+   "car_hours": "478.08333333329443",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.55114485440528",
+   "centroid_lon": "-73.53770269990456",
+   "car_hours": "1599.7499999996626",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.53782697365083",
+   "centroid_lon": "-73.61519170037559",
+   "car_hours": "1578.0833333330156",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.52940323053624",
+   "centroid_lon": "-73.58716197505838",
+   "car_hours": "494.49999999995737",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.55301895367002",
+   "centroid_lon": "-73.58388794985183",
+   "car_hours": "1705.1666666662334",
+   "peak_hour": 8
+ },
+ {
+   "centroid_lat": "45.55058908283418",
+   "centroid_lon": "-73.57424335824136",
+   "car_hours": "947.6666666668182",
+   "peak_hour": 1
+ },
+ {
+   "centroid_lat": "45.496190836971444",
+   "centroid_lon": "-73.62436735080055",
+   "car_hours": "114.49999999999785",
+   "peak_hour": 13
+ },
+ {
+   "centroid_lat": "45.5389132118943",
+   "centroid_lon": "-73.5792013969",
+   "car_hours": "759.4166666667326",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.535798184139765",
+   "centroid_lon": "-73.58664104188827",
+   "car_hours": "1567.6666666663584",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.5313114537718",
+   "centroid_lon": "-73.58372215024325",
+   "car_hours": "547.9999999999698",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.52036705536745",
+   "centroid_lon": "-73.59761235604635",
+   "car_hours": "978.3333333334988",
+   "peak_hour": 0
+ },
+ {
+   "centroid_lat": "45.48313978581276",
+   "centroid_lon": "-73.57653648384526",
+   "car_hours": "673.08333333336",
+   "peak_hour": 23
+ },
+ {
+   "centroid_lat": "45.55297824741078",
+   "centroid_lon": "-73.59484359129024",
+   "car_hours": "1354.6666666665521",
+   "peak_hour": 5
+ },
+ {
+   "centroid_lat": "45.55430120710761",
+   "centroid_lon": "-73.56162491267922",
+   "car_hours": "1355.1666666665517",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.57092278674684",
+   "centroid_lon": "-73.57715490720366",
+   "car_hours": "898.0000000001289",
+   "peak_hour": 10
+ },
+ {
+   "centroid_lat": "45.53361097030694",
+   "centroid_lon": "-73.60106645724453",
+   "car_hours": "701.6666666667063",
+   "peak_hour": 11
+ },
+ {
+   "centroid_lat": "45.522279670736744",
+   "centroid_lon": "-73.5684337774366",
+   "car_hours": "873.1666666667843",
+   "peak_hour": 21
+ },
+ {
+   "centroid_lat": "45.57044282123756",
+   "centroid_lon": "-73.52518192920604",
+   "car_hours": "235.41666666667595",
+   "peak_hour": 7
+ },
+ {
+   "centroid_lat": "45.48626024282493",
+   "centroid_lon": "-73.63860168141315",
+   "car_hours": "998.6666666668414",
+   "peak_hour": 18
+ },
+ {
+   "centroid_lat": "45.54717058947268",
+   "centroid_lon": "-73.55625786283633",
+   "car_hours": "951.4166666668199",
+   "peak_hour": 3
+ },
+ {
+   "centroid_lat": "45.546481863801525",
+   "centroid_lon": "-73.5749389146122",
+   "car_hours": "795.4166666667489",
+   "peak_hour": 2
+ },
+ {
+   "centroid_lat": "45.495523127814025",
+   "centroid_lon": "-73.62772501663683",
+   "car_hours": "425.749999999973",
+   "peak_hour": 8
+ },
+ {
+   "centroid_lat": "45.52119924708915",
+   "centroid_lon": "-73.581789228748",
+   "car_hours": "1044.8333333335006",
+   "peak_hour": 17
+ },
+ {
+   "centroid_lat": "45.53256430507208",
+   "centroid_lon": "-73.5675347056023",
+   "car_hours": "694.9166666667032",
+   "peak_hour": 5
+ }
+]
