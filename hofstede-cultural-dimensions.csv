@@ -1,0 +1,112 @@
+ctr;country;pdi;idv;mas;uai;ltowvs;ivr
+AFE;Africa East;64;27;41;52;32;40
+AFW;Africa West;77;20;46;54;9;78
+ALB;Albania;#NULL!;#NULL!;#NULL!;#NULL!;61;15
+ALG;Algeria;#NULL!;#NULL!;#NULL!;#NULL!;26;32
+AND;Andorra;#NULL!;#NULL!;#NULL!;#NULL!;#NULL!;65
+ARA;Arab countries;80;38;53;68;23;34
+ARG;Argentina;49;46;56;86;20;62
+ARM;Armenia;#NULL!;#NULL!;#NULL!;#NULL!;61;#NULL!
+AUL;Australia;38;90;61;51;21;71
+AUT;Austria;11;55;79;70;60;63
+AZE;Azerbaijan;#NULL!;#NULL!;#NULL!;#NULL!;61;22
+BAN;Bangladesh;80;20;55;60;47;20
+BLR;Belarus;#NULL!;#NULL!;#NULL!;#NULL!;81;15
+BEL;Belgium;65;75;54;94;82;57
+BEF;Belgium French;67;72;60;93;#NULL!;#NULL!
+BEN;Belgium Netherl;61;78;43;97;#NULL!;#NULL!
+BOS;Bosnia;#NULL!;#NULL!;#NULL!;#NULL!;70;44
+BRA;Brazil;69;38;49;76;44;59
+BUL;Bulgaria;70;30;40;85;69;16
+BUF;Burkina Faso;#NULL!;#NULL!;#NULL!;#NULL!;27;18
+CAN;Canada;39;80;52;48;36;68
+CAF;Canada French;54;73;45;60;#NULL!;#NULL!
+CHL;Chile;63;23;28;86;31;68
+CHI;China;80;20;66;30;87;24
+COL;Colombia;67;13;64;80;13;83
+COS;Costa Rica;35;15;21;86;#NULL!;#NULL!
+CRO;Croatia;73;33;40;80;58;33
+CYP;Cyprus;#NULL!;#NULL!;#NULL!;#NULL!;#NULL!;70
+CZE;Czech Rep;57;58;57;74;70;29
+DEN;Denmark;18;74;16;23;35;70
+DOM;Dominican Rep;#NULL!;#NULL!;#NULL!;#NULL!;13;54
+ECA;Ecuador;78;8;63;67;#NULL!;#NULL!
+EGY;Egypt;#NULL!;#NULL!;#NULL!;#NULL!;7;4
+ETH;Ethiopia;#NULL!;#NULL!;#NULL!;#NULL!;#NULL!;46
+SAL;El Salvador;66;19;40;94;20;89
+EST;Estonia;40;60;30;60;82;16
+FIN;Finland;33;63;26;59;38;57
+FRA;France;68;71;43;86;63;48
+GEO;Georgia;#NULL!;#NULL!;#NULL!;#NULL!;38;32
+GER;Germany;35;67;66;65;83;40
+GEE;Germany East;#NULL!;#NULL!;#NULL!;#NULL!;78;34
+GHA;Ghana;#NULL!;#NULL!;#NULL!;#NULL!;4;72
+GBR;Great Britain;35;89;66;35;51;69
+GRE;Greece;60;35;57;112;45;50
+GUA;Guatemala;95;6;37;101;#NULL!;#NULL!
+HOK;Hong Kong;68;25;57;29;61;17
+HUN;Hungary;46;80;88;82;58;31
+ICE;Iceland;#NULL!;#NULL!;#NULL!;#NULL!;28;67
+IND;India;77;48;56;40;51;26
+IDO;Indonesia;78;14;46;48;62;38
+IRA;Iran;58;41;43;59;14;40
+IRQ;Iraq;#NULL!;#NULL!;#NULL!;#NULL!;25;17
+IRE;Ireland;28;70;68;35;24;65
+ISR;Israel;13;54;47;81;38;#NULL!
+ITA;Italy;50;76;70;75;61;30
+JAM;Jamaica;45;39;68;13;#NULL!;#NULL!
+JPN;Japan;54;46;95;92;88;42
+JOR;Jordan;#NULL!;#NULL!;#NULL!;#NULL!;16;43
+KOR;Korea South;60;18;39;85;100;29
+KYR;Kyrgyz Rep;#NULL!;#NULL!;#NULL!;#NULL!;66;39
+LAT;Latvia;44;70;9;63;69;13
+LIT;Lithuania;42;60;19;65;82;16
+LUX;Luxembourg;40;60;50;70;64;56
+MAC;Macedonia Rep;#NULL!;#NULL!;#NULL!;#NULL!;62;35
+MAL;Malaysia;104;26;50;36;41;57
+MLI;Mali;#NULL!;#NULL!;#NULL!;#NULL!;20;43
+MLT;Malta;56;59;47;96;47;66
+MEX;Mexico;81;30;69;82;24;97
+MOL;Moldova;#NULL!;#NULL!;#NULL!;#NULL!;71;19
+MNG;Montenegro;#NULL!;#NULL!;#NULL!;#NULL!;75;20
+MOR;Morocco;70;46;53;68;14;25
+NET;Netherlands;38;80;14;53;67;68
+NZL;New Zealand;22;79;58;49;33;75
+NIG;Nigeria;#NULL!;#NULL!;#NULL!;#NULL!;13;84
+NOR;Norway;31;69;8;50;35;55
+PAK;Pakistan;55;14;50;70;50;0
+PAN;Panama;95;11;44;86;#NULL!;#NULL!
+PER;Peru;64;16;42;87;25;46
+PHI;Philippines;94;32;64;44;27;42
+POL;Poland;68;60;64;93;38;29
+POR;Portugal;63;27;31;104;28;33
+PUE;Puerto Rico;#NULL!;#NULL!;#NULL!;#NULL!;0;90
+ROM;Romania;90;30;42;90;52;20
+RUS;Russia;93;39;36;95;81;20
+RWA;Rwanda;#NULL!;#NULL!;#NULL!;#NULL!;18;37
+SAU;Saudi Arabia;#NULL!;#NULL!;#NULL!;#NULL!;36;52
+SER;Serbia;86;25;43;92;52;28
+SIN;Singapore;74;20;48;8;72;46
+SLK;Slovak Rep;104;52;110;51;77;28
+SLV;Slovenia;71;27;19;88;49;48
+SAF;South Africa;#NULL!;#NULL!;#NULL!;#NULL!;34;63
+SAW;South Africa white;49;65;63;49;#NULL!;#NULL!
+SPA;Spain;57;51;42;86;48;44
+SUR;Suriname;85;47;37;92;#NULL!;#NULL!
+SWE;Sweden;31;71;5;29;53;78
+SWI;Switzerland;34;68;70;58;74;66
+SWF;Switzerland French;70;64;58;70;#NULL!;#NULL!
+SWG;Switzerland German;26;69;72;56;#NULL!;#NULL!
+TAI;Taiwan;58;17;45;69;93;49
+TAN;Tanzania;#NULL!;#NULL!;#NULL!;#NULL!;34;38
+THA;Thailand;64;20;34;64;32;45
+TRI;Trinidad and Tobago;47;16;58;55;13;80
+TUR;Turkey;66;37;45;85;46;49
+USA;U.S.A.;40;91;62;46;26;68
+UGA;Uganda;#NULL!;#NULL!;#NULL!;#NULL!;24;52
+UKR;Ukraine;#NULL!;#NULL!;#NULL!;#NULL!;86;14
+URU;Uruguay;61;36;38;100;26;53
+VEN;Venezuela;81;12;73;76;16;100
+VIE;Vietnam;70;20;40;30;57;35
+ZAM;Zambia;#NULL!;#NULL!;#NULL!;#NULL!;30;42
+ZIM;Zimbabwe;#NULL!;#NULL!;#NULL!;#NULL!;15;28
