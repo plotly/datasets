@@ -1,5 +1,12 @@
 # Plotly Sample Datasets
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 | Dataset name | Best for | Origin | Chart example | Download | Open in Plotly |
 | --- | --- | --- | ---  | ---  | ---  |
 | Walmart store openings | Maps | Unknown | [Python](https://plot.ly/python/map-subplots-and-small-multiples/) | [Download](https://github.com/plotly/datasets/blob/master/1962_2006_walmart_store_openings.csv) | [Open](https://plot.ly/16263/~jackp/) |
