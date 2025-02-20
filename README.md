@@ -21,7 +21,6 @@
 | 2014 world GDP | Maps | Unknown | [R](https://plot.ly/r/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2014_world_gdp_with_codes.csv) | [Open](https://plot.ly/7936/~Dreamshot/) |
 | 2015 precipitation | Maps | Unknown | [Python](https://plot.ly/python/scatter-plots-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2015_06_30_precipitation.csv) | [Open](https://plot.ly/7938/~Dreamshot/) |
 | 2024 retail sales as a percentage of annual total | Basic | adapted from [US Census Bureau](https://www.census.gov/retail/sales.html) | [Python](https://plotly.com/python/horizontal-bar-charts/) | [Download](https://github.com/plotly/datasets/blob/master/retail_sales_percent_of_annual_total_2024.csv) | N.A. |
-
 | Alpha shapes | Alpha Shapes | Unknown | [Python](https://plot.ly/python/alpha-shapes/) | [Download](https://github.com/plotly/datasets/blob/master/alpha_shape.csv) | [Open](https://plot.ly/7940/~Dreamshot/) |
 | Grouped bar charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/grouped-bar-chart/) | [Download](https://github.com/plotly/datasets/blob/master/bar-charts-with-excel.csv) | [Open](https://plot.ly/7942/~Dreamshot/) |
 | Bubble charts with Excel | Basic | Unknown | [Excel](http://help.plot.ly/excel/bubble-chart/) | [Download](https://github.com/plotly/datasets/blob/master/bubble_chart_tutorial.csv) | [Open](https://plot.ly/7944/~Dreamshot/) |
