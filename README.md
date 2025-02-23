@@ -9,7 +9,6 @@
 
 | Dataset name | Best for | Origin | Chart example | Download | Open in Plotly |
 | --- | --- | --- | ---  | ---  | ---  |
-
 | 2010 alchohol consumption by country | Maps | Unknown | [JavaScript](https://plot.ly/javascript/choropleth-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2010_alcohol_consumption_by_country.csv) | [Open](https://plot.ly/16265/~jackp/) |
 | 2011 February AA flight paths | Maps | Unknown | [Python](https://plot.ly/python/lines-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_february_aa_flight_paths.csv) | [Open](https://plot.ly/7924/~Dreamshot/) |
 | 2011 February US airport traffic | Maps | Unknown | [JavaScript](https://plot.ly/javascript/scatter-plots-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/2011_february_us_airport_traffic.csv) | [Open](https://plot.ly/7926/~Dreamshot/) |
@@ -29,7 +28,7 @@
 | Dot plot with Excel | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/dot-plots/) | [Download](https://github.com/plotly/datasets/blob/master/dot-plot-with-excel.csv) | [Open](https://plot.ly/7948/~Dreamshot/) |
 | Gapminder data | Streaming | [Jenny Bryan](https://github.com/jennybc/gapminder) | [Python](https://plot.ly/python/streaming-bubbles-tutorial/) | [Download](https://github.com/plotly/datasets/blob/master/gapminderDataFiveYear.csv) | [Open](https://plot.ly/7950/~Dreamshot/) |
 | Globe contours | Maps | Unknown | [Python](https://plot.ly/python/lines-on-maps/) | [Download](https://github.com/plotly/datasets/blob/master/globe_contours.csv) | [Open](https://plot.ly/7952/~Dreamshot/) |
-| Likert Scale responses, 2002 General Social Survey altruism questions | Basic | adapted from [General Social Survey, 2002]([https://www.census.gov/retail/sales.html](https://gssdataexplorer.norc.org/)) | [Python](https://plotly.com/python/horizontal-bar-charts/) | [Download](https://github.com/plotly/datasets/blob/master/gss_2002_5_pt_likert.csv) | N.A. |
+| Likert Scale responses, 2002 General Social Survey altruism questions | Basic | adapted from [General Social Survey, 2002](https://gssdataexplorer.norc.org/) | [Python](https://plotly.com/python/horizontal-bar-charts/) | [Download](https://github.com/plotly/datasets/blob/master/gss_2002_5_pt_likert.csv) | N.A. |
 | Inset plot | Multiple Axes | Unknown | [Excel](http://help.plot.ly/excel/insets) | [Download](https://github.com/plotly/datasets/blob/master/inset.csv) | [Open](https://plot.ly/7954/~Dreamshot/) |
 | Text scatter charts | Basic | Unknown | [Excel](http://help.plot.ly/excel/text-scatter-chart) | [Download](https://github.com/plotly/datasets/blob/master/label-text.csv) | [Open](https://plot.ly/7956/~Dreamshot/) |
 | LaTeX typesetting | Basic | Unknown | [Excel](http://help.plot.ly/excel/LaTeX) | [Download](https://github.com/plotly/datasets/blob/master/latex-typesetting-with-excel.csv) | [Open](https://plot.ly/7958/~Dreamshot/) |
